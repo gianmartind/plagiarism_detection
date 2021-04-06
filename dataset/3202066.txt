@@ -1,0 +1,1677 @@
+Universitas Katolik Parahyangan
+Fakultas Ilmu Sosial dan Ilmu Politik
+Program Studi Ilmu Administrasi Bisnis
+Terakreditasi A
+SK BAN-PT No: 042/BAN-PT/Ak-VII/S1/XI/2003
+Analisis Perekrutan dan Seleksi Karyawan di PT.”X”
+Skripsi
+Oleh
+Antonius Halim
+2002.32.0066
+Bandung
+2008
+Fakultas Ilmu Sosial dan Ilmu Politik
+Jurusan Ilmu Administrasi Bisnis
+Program Studi Ilmu Administrasi Bisnis
+Tanda pengesahan skripsi
+Nama : Antonius Halim
+Nomor pokok : 2002.32.0066
+Judul : Analisis Perekrutan dan Seleksi Karyawan di PT.”X”
+Telah diuji dalam Ujian Sidang jenjang Sarjana
+Pada hari Senin, 30 Juni 2008
+Dan dinyatakan LULUS
+Tim Penguji
+Ketua sidang merangkap anggota
+M.Banowati Talim, Dra., M.Si :
+Anggota
+1. Fransisca Mulyono, Dra., M.Si :
+2. Theresia Gunawan, S.Sos., M.M :
+Mengesahkan
+Dekan Fakultas Ilmu Sosial dan Ilmu Politik
+Dr. Ulber Silalahi, MA
+Pernyataan
+Saya yang bertandatangan di bawah ini :
+Nama : Antonius Halim
+NPM : 2002.32.0066
+Jurusan / Program Studi : Ilmu Administrasi Bisnis
+Judul : Analisis Perekrutan dan Seleksi Karyawan di PT.”X”
+Dengan ini menyatakan bahwa skripsi ini merupakan hasil karya tulis ilmiah sendiri
+dan bukanlah merupakan karya yang pernah diajukan untuk memperoleh gelar
+akademik oleh pihak lain. Adapun karya atau pendapat pihak lain yang dikutip,
+ditulis sesuai dengan kaidah penulisan ilmiah yang berlaku.
+Pernyataan ini saya buat dengan penuh tanggungjawab dan saya bersedia menerima
+konsekuensi apapun sesuai aturan yang berlaku apabila dikemudian hari diketahui
+bahwa pernyataan ini tidak benar .
+Bandung, Juni 2008
+Antonius Halim
+Abstrak
+Nama : Antonius Halim
+NPM : 2002.32.0066
+Judul : Analisis Pelaksanaan Perekrutan dan Seleksi Karyawan di PT.”X”
+Manusia dalam sebuah organisasi memiliki peranan yang sangat penting,
+sebab tanpa manusia secanggih apapun teknologi perusahaan tetap tidak dapat
+berjalan dengan baik. Manusialah yang menggerakan seluruh sumber daya yang ada
+seperti mesin, bahan mentah, teknologi dan lainnya. Untuk itu diperlukan sumber
+daya manusia yang berkualitas.
+Tujuan dari penelitian ini adalah untuk menganalisis serta memperoleh
+gambaran secara rinci tentang bagaimana pelaksanaan perekrutan dan seleksi
+karyawan yang digunakan oleh PT.”X”.
+Metode penelitian yang akan digunakan adalah survey dan jenis penelitiannya
+adalah penelitian deskriptif, yaitu menggambarkan fakta-fakta yang ada secara
+sistematis. Dan Teknik pengumpulan data yang digunakan penulis adalah wawancara
+dan studi dokumen. Sedangkan analisis data yang digunakan yaitu dengan cara
+analisis data kualitatif .
+Objek penelitian ini adalah PT.”X” yang merupakan perusahaan yang
+bergerak dalam bidang industri garment yang memiliki fasilitas produksi di Jalan
+Mekar Raya Kav.37, Gedebage. Produk yang dihasilkan perusahaan adalah produk
+Glass Woll. Di PT.”X” inilah penulis mendapatkan data mengenai pelaksanaan
+perekrutan dan seleksi karyawan .
+Berdasarkan hasil penelitian yang telah dilakukan maka PT.”X” telah
+menerapkan pelaksanaan perekrutan dan seleksi dengan baik. Perusahaan
+menggunakan metode internal dan eksternal untuk mendapatkan calon karyawan
+yang dibutuhkan, sehingga perusahaan benar-benar mendapatkan karyawan yang
+sesuai dengan kualifikasi yang dibutuhkan sehingga tujuan perusahaan dapat tercapai.
+Abstract
+Name : Antonius Halim
+NPM : 2002.32.0066
+Title : Analysis Execution of Recruitment and Selection Employees in PT.”X”
+Human resource has a very important role within company. No matter how
+advance the technology is, a company can not run properly without qualified
+employees. Employees are the one who take control of all other resources, such as
+machine, capital, raw material, technology, etc., in company. It’necessary therefore,
+to have good quality human resources in a company.
+Intention of this research is to analyse and also obtain;get picture in detail
+about how execution of employees selection and recruitment used by PT.”X” .
+Research method to be used by its research type and survey is research of
+deskriptif, such depict existing facts by sistematis and used by Technique data
+collecting [ writer is document study and interview . While used data analysis that is
+by data analysis qualitative .
+this Research object is PT.”X” representing peripatetic company in the field
+of industry of garment owning facility produce in Road;Street of Mekar Raya Kav.37,
+Gedebage. yielded by Product is company is Glass Woll, in PT.”X” this is writer get
+data concerning execution of employees selection and recruitment.
+Pursuant to result of research which have been conducted by hence PT.”X”
+have applied execution of selection and recruitment better. Company use internal
+method and eksternal to get required employees candidate, so that company really is
+getting of employees matching with required cualification so that the target of
+company can reach .
+Kata Pengantar
+Puji syukur yang sebesar-besarnya saya panjatkan kepada Tuhan Yesus
+Kristus, atas segala berkat dan rahmat-Nya sehingga saya dapat menyelesaikan
+skripsi ini.
+Skripsi yang berjudul “Analisis Perekrutan dan Seleksi Karyawan di
+PT.”X” “ ini disusun sebagai salah satu syarat mendapatkan gelar sarjana srata-1
+Administrasi Bisnis di Fakultas Ilmu Sosial dan Ilmu Politik Universitas Katolik
+Parahyangan Bandung.
+Bahasan yang diambil oleh penulis mengenai perekrutan dan seleksi karyawan
+dipilih karena perekrutan dan seleksi merupakan proses yang penting untuk
+mendapatkan sumber daya manusia yang tepat dan dapat memberikan umpan balik
+berupa kinerja yang maksimal terhadap perusahaan.
+Di dalam proses penyusunan ini penulis mengalami berbagai kendala dan
+hambatan, baik dari dalam maupun dari luar. Akan tetapi dengan segala kerja keras
+dan kesungguhan hati serta dorongan dari berbagai pihak maka akhirnya penulis bisa
+melalui itu semua.
+Walaupun penulis telah berhasil menyusun skripsi ini akan tetapi masih
+banyak kekurangan mengingat terbatasnya kemampuan dan pengetahuan penulis.
+Untuk itu penulis berbesar hati untuk menerima kritikan dan saran dari pembaca.
+Pada kesempatan ini penulis berterimakasih kepada berbagai pihak, karena
+tanpa dukungannya skripsi ini tidak akan dapat diselesaikan. Oleh karena itu penulis
+berterimakasih kepada :
+1. Tuhan Yesus Kristus atas segala berkat dan rahmat-Nya sehingga penulis
+dapat menyelesaikan skripsi ini dengan baik dan dapat melalui segala
+hambatan.
+2. Bapak Dr.Ulber Silalahi, MA selaku Dekan FISIP UNPAR.
+3. Bapak Urip Santoso, Drs., S.E., M.M., Ak selaku Ketua Jurusan Administrasi
+Bisnis.
+4. Bapak Agus, S.Sos., MBA selaku Sekretaris Jurusan Administrasi Bisnis.
+5. Ibu Banowati Talim, Dra., M.Si. selaku dosen pembimbing yang telah
+meluangkan waktu dan tenaganya untuk membimbing penulis hingga selesai.
+6. Seluruh Dosen Jurusan Administrasi Bisnis beserta Staff Administrasi
+UNPAR yang telah banyak membatu sejak awal kuliah sampai kelulusan
+penulis.
+7. Bapak Sugeng sebagai manajer personalia dan HRD PT.”X” yang telah
+membantu memberikan informasi mengenai proses perekrutan dan seleksi di
+PT.”X”
+8. Papi dan mami yang selalu memberikan kasih sayang, doa, dukungan dan
+semangat bagi penulis dalam menyelesaikan kuliah dan lulus. Terima kasih
+banyak.
+9. Buat Ema yang sangat memberi dukungan dalam doa.
+10. Vina dan Amel, makasih atas dorongan semangat dan doanya.
+11. Buat Merry, makasih banyak dah ngasih semangat, dorongan dan selalu
+membantu pengerjaan skripsi koko. ILU IMU INU Thanks a lot !
+12. Pak Cornel yang telah memberikan semangat berupa nasihat dan motivasi.
+13. Buat anak-anak Teater Sandal Jepit : Risal, Erlina, Alex, Adi, Hans, Gesti,
+Richard, Vera, Donny, Lambas, Ria, Aki, Lukas, Ocin. Thanks Friends!
+14. Thanks untuk Ocin sebagai rekan seperjuangan. Kita lulus.
+15. Vera, Etep, Willy dan Inge, makasih buat supportnya.
+16. Teman-teman lainnya yang tidak dapat disebutkan satu persatu namanya yang
+telah membantu penulis baik secara langsung maupun tidak langsung dalam
+menyelesaikan skripsi ini.
+Bandung, Juni 2008
+(Antonius Halim)
+Daftar Isi
+Abstrak.......................................................................................................................i
+Abstract......................................................................................................................ii
+Kata Pengantar...........................................................................................................iii
+Daftar Isi....................................................................................................................vi
+Daftar Gambar...........................................................................................................viii
+Daftar Lampiran.........................................................................................................ix
+BAB 1 Pendahuluan..................................................................................................1
+1.1 Latar Belakang Penelitian........................................................................1
+1.2 Identifikasi Masalah.................................................................................2
+1.3 Tujuan Penelitian......................................................................................4
+1.4 Kegunaan Penelitian.................................................................................4
+BAB 2 Kerangka Teori...............................................................................................5
+2.1 Pengertian Manajemen..............................................................................5
+2.2 Perekrutan Karyawan................................................................................7
+2.2.1 Pengertian Rekrutmen................................................................7
+2.2.2 Langkah-langkah Perekrutan......................................................9
+2.2.3 Hambatan dan Tantangan dalam Perekrutan.............................12
+2.2.4 Jenis-jenis Saluran Perekrutan...................................................15
+2.2.5 Hasil Perekrutan.........................................................................18
+2.3 Seleksi.......................................................................................................19
+2.3.1 Pengertian Seleksi......................................................................19
+2.3.2 Input-input Seleksi.....................................................................20
+2.3.3 Kualifikasi Seleksi......................................................................20
+BAB 3 Metodologi Penelitian.....................................................................................24
+3.1 Jenis Penelitian..........................................................................................24
+3.2 Teknik Pengumpulan Data........................................................................24
+3.3 Model Penelitian.......................................................................................27
+3.4 Operasionalisasi Variabel.........................................................................28
+3.5 Teknik Analisis Data................................................................................32
+3.6 Lokasi Penelitian.......................................................................................32
+BAB 4 Objek Penelitian..............................................................................................33
+4.1 Sejarah Perusahaan....................................................................................33
+4.2 Bagan Organisasi.......................................................................................34
+4.2.1 Wewenang dan Tanggung Jawab...............................................37
+BAB 5 Hasil dan Pembahasan.....................................................................................52
+5.1 Analisis Pelaksanaan Perekrutan dan Seleksi Karyawan di PT.”X”.........53
+5.1.1 Prosedur Pengadaan Karyawan..................................................55
+5.2 Pelaksanaan Perekrutan.............................................................................58
+5.2.1 Hasil Rekrutmen.........................................................................65
+5.2.2 Kendala Rekrutmen....................................................................66
+5.3 Pelaksanaan Seleksi...................................................................................67
+5.3.1 Hasil Seleksi...............................................................................73
+5.3.2 Tantangan Seleksi.......................................................................74
+BAB 6 Kesimpulan dan Saran.....................................................................................76
+6.1 Kesimpulan................................................................................................76
+6.2 Saran..........................................................................................................78
+Daftar Pustaka
+Lampiran
+Daftar Gambar
+Gambar 2.1 Proses Rekrutmen....................................................................................9
+Gambar 3.1 Model Penelitian......................................................................................27
+Gambar 4.1 Bagan Organisasi di PT.”X”....................................................................36
+Gambar 5.1 Proses Pengadaan Karyawan di PT.”X”..................................................54
+Daftar Lampiran
+Lampiran 1 Formulir Lamaran Kerja
+Lampiran 2 Form Permintaan Penambahan Karyawan
+Lampiran 3 Interview Guide
+Lampiran 4 Surat Survei
+Bab 1
+Pendahuluan
+1.1 Latar belakang penelitian
+Manusia dalam suatu organisasi mempunyai fungsi dan peranan yang sangat
+penting. Secara umum, manusialah yang menggerakkan dan mengelola seluruh
+sumber daya yang ada, seperti mesin, modal, bahan mentah, teknologi dan lainnya,
+artinya sumber daya-sumber daya tersebut dapat bermanfaat apabila digerakkan
+manusia. Sumber daya manusia merupakan unsur yang potensial dan juga sebagai
+aset utama yang perlu dibina, dikembangkan dan dipelihara. Selain itu faktor sumber
+daya manusia memegang peranan yang sangat penting bagi kelangsungan hidup
+organisasi.
+Di samping itu, secara khusus, manusia diberi tanggung jawab untuk
+mengatur segala urusan yang terkait dengan pengelolaan aktivitas sumber daya
+manusia yang berada pada pundak setiap manajer personalia yang berperan dalam
+melakukan aktivitas pengadaan karyawan pada setiap bagian departemen perusahaan.
+Aktivitas-aktivitas tersebut terdiri atas kegiatan perekrutan, penyeleksian dan
+penempatan karyawan pada tugas dan jabatan yang sesuai dengan keahlian dan
+kemampuan calon karyawan.
+Proses pengadaan karyawan dapat menentukan tenaga kerja di perusahaan,
+maka dari itu pengadaan karyawan harus mendapat perhatian khusus dengan
+melakukan proses pengadaan tenaga kerja yang memenuhi kualifikasi dan dapat
+menunjang kemajuan perusahaan. Jika hal tersebut tidak dilakukan, maka akan
+memperbesar kemungkinan terjadinya penurunan semangat kerja karyawan,
+buruknya prestasi kerja, tingkat turn over tinggi, dll. Hal tersebut akhirnya akan
+menghambat pertumbuhan perusahaan pada masa yang akan datang.
+Penulis tertarik untuk mengadakan penelitian pada PT.”X” dikarenakan
+walaupun terjadi kekosongan jabatan, PT.”X” tidak selalu mengadakan proses
+rekrutmen karyawan namun hal tersebut tidak membuat kinerja perusahaan menurun.
+Oleh karena itu maka penulis tertarik untuk menulis skripsi tentang proses pengadaan
+karyawan dengan judul “Analisis Perekrutan dan Seleksi Karyawan di PT”X” “
+1.2 Identifikasi Masalah
+Manajemen kepegawaian dan sumber daya manusia sangat penting bagi
+perusahaan dalam mengelola, mengatur dan memanfaatkan karyawan sehingga dapat
+berfungsi secara produktif untuk tercapainya tujuan perusahaan sumber daya manusia
+perlu dikelola secara profesional agar terwujud keseimbangan antara kebutuhan
+karyawan dengan tuntutan dan kemampuan organisasi perusahaan. Keseimbangan
+tersebut merupakan kunci utama perusahaan agar dapat berkembang secara produktif
+dan wajar. Perusahaaan harus dapat memperoleh dan mengelola sejumlah karyawan
+yang benar-benar memenuhi kualifikasi yang ditetapkan perusahaan untuk suatu
+jabatan tertentu dan sesuai dengan kebutuhan perusahaan. Untuk itu diperlukan
+adanya program pengadaan karyawan baru yang benar.
+Proses pengadaan karyawan terdiri dari beberapa langkah. Pertama, rekrutmen
+yaitu menarik calon tenaga kerja yang memiliki potensi yang baik. Kedua, proses
+seleksi calon karyawan. Pada saat melakukan proses seleksi, perusahaan harus
+menyeleksi sebaik mungkin setiap pelamar yang ada, agar tujuan perusahaan dalam
+mendapatkan karyawan yang berpotensi tercapai. Ketiga, penempatan karyawan baru
+pada jabatan yang sesuai.
+Apabila perusahaan telah melaksanakan langkah-langkah tersebut dengan baik
+maka prinsip “the right man on the right place” telah diterapkan oleh perusahaan,
+sehingga aktivitas perusahaan akan berjalan lancar dan berkesinambungan. Dengan
+demikian pengadaan karyawan baru dapat dikatakan berhasil dan dapat memberikan
+kontribusi yang cukup berarti terhadap tercapainya tujuan perusahaan.
+Berdasarkan uraian di atas, maka penulis merumuskan masalah yang menjadi
+fokus penelitian sebagai berikut:
+1. Bagaimana pelaksanaan perekrutan dan seleksi karyawan di PT. “X”?
+2. Apakah pelaksanaan perekrutan dan seleksi karyawan di PT.“X” dapat
+dikatakan baik ?
+1.3 Tujuan Penelitian
+1. Untuk mengetahui proses pengadaan karyawan yang dilaksanakan
+oleh PT.“X”.
+2. Untuk menganalisis pelaksanaan pengadaan karyawan yang dilakukan
+oleh PT.“X” agar dapat dikatakan baik.
+1.4 Kegunaan Penelitian
+1. Penelitian ini diharapkan akan menambah pengetahuan dan wawasan
+penulis mengenai masalah pengadaan karyawan baru.
+2. Bagi perusahaan, penelitian ini dapat dipakai sebagai masukan yang
+bermanfaat dan bahan pertimbangan bagi perusahaan di dalam melaksanakan
+pengadaan karyawan baru.
+3. Sebagai sumber informasi bagi pihak-pihak yang memerlukannya di
+dalam menangani masalah pengadaan karyawan baru.
+Bab 2
+Kerangka Teori
+2.1 Pengertian manajemen
+Manajemen adalah ilmu dan seni yang mengatur proses pemanfaatan sumber
+daya manusia dan sumber-sumber daya lainnya secara efektif dan efisien untuk
+mencapai suatu tujuan tertentu. Manajemen ini terdiri dari enam unsur ( 6 M ) yaitu:
+men, money, methode, materials, machines, dan market.
+Unsur men ( manusia ) ini berkembang menjadi suatu bidang ilmu manajemen
+yang disebut dengan manajemen sumber daya manusia atau disingkat MSDM yang
+merupakan terjemahan dari man power management.
+MSDM adalah suatu bidang manajemen yang khusus mempelajari hubungan
+dan peranan manusia dalam organisasi perusahaan. Unsur MSDM adalah manusia
+yang merupakan tenaga kerja pada perusahaan. Dengan demikian, fokus yang
+dipelajari MSDM ini hanyalah masalah yang berhubungan dengan tenaga kerja
+manusia saja.
+Pengertian MSDM menurut Drs. Malayu S.P. Hasibuan :
+MSDM adalah ilmu dan seni yang mengatur hubungan dan peranan tenaga
+kerja agar efektif dan efisien membantu terwujudnya tujuan perusahaan,karyawan,
+dan masyarakat .1
+Pengertian MSDM menurut Edwin B. FLippo :
+“ Personal management is the planning, organizing, directing and controlling
+of the procurement, development, compensation, integration, Mintenance, and
+separation of human resources to the end that individual, organization and societal
+objectives are accomplished”2
+(manajemen personalia adalah perencanaan, pengorganisasian, pengarahan,
+pengendalian, pengadaan, pengembangan, kompensasi, pengintegrasian,
+pemeliharaan, kedisiplinan, dan pemberhentian karyawan, dengan maksud
+terwujudnya tujuan perusahaan, individu, karyawan dan masyarakat)
+Pengertian MSDM menurut Schermerhorn:
+“HR Management is the process of attracting, developing and maintaining a
+qualified workforce”3
+1 Drs. Malayu S.P.Hasibuan,Manajemen Sumber Daya Manusia,Cetakan ke delapan,Jakarta:PT Bumi
+Aksara,2006,Hlm 10
+2 Edwin B.Flippo, Personnel Management, Sixth Edition, (McGraw-Hill, Inc : Singapore, 1984), hlm 5
+3 John R. Schermerhorn, Jr., 1996, Management, Fifth Edition, John Wiley & Soons, Inc, New York,
+Hlm 286
+(Manajemen Sumber Daya Manusia adalah proses penarikan, pengembangan
+dan pengaturan suatu dorongan kerja yang kualified)
+Dari definisi-definisi diatas, dapat dilihat bahwa manajemen sumber daya
+manusia terdiri atas serangkaian aktivitas management untuk mengelola sumber daya
+manusia dalam rangka pencapaian tujuan organisasi.
+2.2 Perekrutan Karyawan
+2.2.1 Pengertian Rekrutmen
+Kualitas sebuah organisasi sumber daya manusia tergantung pad kualitas
+rekrutnya. Rekrutmen adalah proses menambah dan menarik pelamar yang cakap
+untuk menjadi karyawan. Proses dimulai ketika pelamar baru berminat dan berakhir
+ketika surat lamaran mereka diserahkan hasilnya adalah sekumpulan surat-surat
+lamaran dan disitulah karyawan baru diseleksi.
+Dalam sebuah organisasi yang besar, spesialis dalam proses merekrut disebut
+recruiters, sering digunakan untuk menemukan dan menarik pelamar yang cakap.
+Recruiters mengidentifikasikan lowongan pekerjaan yang ada maupun dari
+permintaan manajer. Setelah lowongan diidentifikasi maka recruiters dapat
+mempertimbangkan masing-masing pekerjaan yang diminta dengan informasi
+analisisa pekerjaan.
+Tujuan dari rekrutment, seleksi dan penempatan adalah mencocokkan (to
+match) antara karakteristik individu (pengetahuan, keterampilan, pengalaman, dan
+lain-lain) dengan persyaratan jabatan yang harus dimiliki individu tersebut dalam
+memegang suatu jabatan. Kegagalan dalam mencocokkan kedua hal tersebut dapat
+menyebabkan kinerja karyawan tidak optimal dan kepuasan kerja sangat rendah,
+sehingga tidak jarang hal ini membuat individu dan organisasi menjadi frustrasi.
+Dalam usaha mencari individu yang tepat dan sesuai untuk jabatan tertentu maka
+pihak manajemen harus melakukan pengukuran (assessment) terhadap tuntutantuntutan
+(demands) dan persyaratan-persyaratan (requirements) dari jabatan tersebut.
+Proses pengukuran kegiatan-kegiatan yang ada dalam suatu jabatan tersebut
+dinamakan Analisis Jabatan .
+Menurut William B. Werther,Jr, and Keith Davis rekrutmen adalah :
+“Recruitment is the process of finding and attracting capable applicants for
+employment”4
+(perekrutan adalah proses untuk mencari dan menarik pelamar untuk mengisi
+lowongan pekerjaan)
+Menurut Marihot Tua Efendi Hariandja, Drs., M.Si :
+”Perekrutan diartikan sebagai upaya pencarian sejumlah calon karyawan
+yang memenuhi syarat dalam jumlah tertentu sehingga dari mereka perusahaan
+dapat menyeleksi orang yang paling tepat untuk mengisi lowongan pekerjaan yang
+ada.” 5
+4 Werther and Keith,Human Resources and Personnel Management.Third Edition,(Mc Graw-Hill,
+Inc:Singapore,1989),Hlm 195
+Menurut James A.F. Stoner, R. Edward Freeman, dan Daniel R. Gilbert
+J.R :
+”Tujuan dari rekrutmen adalah menyediakan kelompok calon tenaga kerja
+yang cukup banyak agar manajer dapat memilih karyawan yang mempunyai
+kualifikasi yang mereka butuhkan”6
+Gambar 2.1 Proses perekrutan
+5 Marihot Tua Effendi Hariandja,Drs,M.Si.Manajemen Sumber Daya Manusia:Pengadaan,
+Pengembangan, Pengkompensasian dan Peningkatan Produktivitas Pegawai (Jakarta:PT. Gramedi
+Widiasarana Indonesia,2002),Hlm 96
+Perencanaan
+Sumber daya
+manusia
+Staffing needs
+Informasi analisis jabatan : deskripsi pekerjaan dan
+spesifikasi jabatan .
+Keputusan
+Rekrutmen
+Sumber
+Internal
+Sumber
+Eksternal
+Kandidat siap diseleksi
+2.2.2 Langkah-langkah Perekrutan
+1. Penentuan jabatan kosong
+Perekrutan dilakukan bilamana ada jabatan yang kosong atau dimulai dengan
+analisis mengenai apakah ada jabatan yang kosong yang harus diisi oleh pegawai
+baru. Kekosongan bisa terjadi akibat adanya pegawai yang mengundurkan diri,
+pensiun, meninggal dunia, dan adanya ekspansi yang dilakukan perusahaan, yang
+sebelumnya telah ditentukan dalam perencanaan sumber daya manusia. Oleh karena
+itu, perencanaan sumber daya manusia merupakan satu kegiatan manusia yang
+paling penting. Tetapi, karena perekrutan memerlukan biaya dan perubahanperubahan
+bisa terjadi lebih cepat daripada yang sudah direncanakan, maka sebelum
+melakukan perekrutan ada baiknya perusahaan meneliti kembali kebutuhan
+perusahaan dengan menganalisis kemungkinan-kemungkinan yang dapat dilakukan,
+sehingga rekrutmen (khususnya dari luar perusahaan) mungkin tidak perlu
+dilakukan, seperti melakukan reorganisasi pekerjaan (reorganize work),
+kemungkinan kerja lembur (over time), mekanisasi pekerjaan (mechanise the work),
+metode kerja yang fleksibel (stagger the hour), kerja paruh waktu ( make job parttime),
+dan kontrak kerja ( sub-contract the work).
+Di samping itu, perekrutan harus meminta informasi daripada manajer
+operasi sekiranya ada kebutuhan karyawan yang mendesak. Beberapa faktor yang
+6 James A.F.Stoner, R.Edward Freeman and Daniel R.Gilbert J.R, Manajemen : Jilid
+I,(PT.Prenhalindo. Edisi Bahasa Indonesia : Jakarta, 1996), Hlm 8
+mempengaruhi kekosongan jabatan, yaitu perencanaan sumber daya manusia dan
+permintaan manajer.
+2. Penentuan Persyaratan Jabatan
+Persyaratan jabatan merupakan kriteria atau ciri-ciri yang dapat meliputi
+keahlian, pengetahuan, keterampilan dan pengalaman yang diperlukan untuk
+melakukan pekerjaan.
+Persyaratan jabatan ini tentu saja harus ditentukan sebab hal itu akan
+membantu mengidentifikasi karyawan yang dibutuhkan yang berkaitan dengan
+siapa yang dibutuhkan dan di mana mereka berada. Persyaratan jabatan ini harus
+dianalisis dari informasi analisis jabatan, yaitu job description, job specification,
+dan job performance standart dan juga melalui masukan dari manajer terkait. Oleh
+karena itu, agar perusahaan harus memiliki sistem informasi sumber daya manusia
+yang baik yang di dalamnya meliputi informasi analisis jabatan.
+Pengertian analisis jabatan menurut Drs. Moekijat :
+"Job analisis adalah suatu prosedur untuk memperoleh dan mencatat faktafakta
+yang berhubungan dengan masing-masing jabatan secara sistematis"7
+Pengertian analisis jabatan menurut Gatewood dan Field:
+7 Drs. Moekijat, Manajemen Tenaga Kerja dan Hubungan Kerja, Pionir Jaya, Bandung, 1999, Hlm 65
+"Job analysis is a purposeful, systematic process for collecting information
+on the work-related aspects of a job"8
+"Analisis jabatan adalah sebuah proses yang bertujuan dan sistematis untuk
+mengumpulkan informasi dalam aspek-aspek pekerjaan yang saling berkaitan
+dalam suatu jabatan"
+3. Penentuan Sumber dan Metode Perekrutan
+Langkah terakhir adalah menentukan sumber dan metode rekrutmen yang
+paling efektif dan tentu saja efisien. Efektif berarti saluran atau metode yang paling
+memungkinkan untuk mendapatkan calon yang paling baik dan sesuai dengan
+perusahaan, yang dalam hal ini persyaratan jabatan. Efisien berarti dengan
+pengorbanan baik waktu maupun biaya yang paling murah.
+Secara umum, sumber rekrutmen dapat digolongkan ke dalam dua jenis,
+yaitu sumber internal dan sumber eksternal.
+2.2.3 Hambatan dan Tantangan dalam Perekrutan
+Berdasarkan pengertian bahwa perekrutan merupakan upaya untuk
+mendapatkan sejumlah karyawan yang berpotensi dan memenuhi syarat untuk
+8 Robert D. Gatewood dan Hubert S. Field, Human Resource Selection, Third Edition, (Orlando:
+Harcourt Brace & Company, 1994), Hlm 285
+menjadi karyawan, terdapat sejumlah hambatan dalam perekrutan. Hambatanhambatan
+tersebut dapat bersumber dari:9
+1. Kebijaksanaan organisasi ( organizational polices)
+Kebijakan organisasi digunkan untuk mencapai keseragaman,
+keekonomisan, dan tujuan-tujuan lain yang mungkin tidak berhubungan sama
+sekali dengan proses perekrutan. Kebijakan-kebijakan yang dapat
+mempengaruhi perekrutan adalah:
+a. Compensation policies ( kebijakan kompensasi)
+Merupakan kendala yang umum dihadapi dalam pelaksanaan
+perekrutan. Organisasi biasanya menetapkan besar jangkauan gaji yang
+berbeda untuk berbagai pekerjaan yang berbeda-beda.
+Besar kompensasi yang ditawarkan organisasi mempengaruhi minat
+pencari kerja untuk menjadi pelamar yang serius.
+b. Employment status policies (kebijakan status karyawan)
+Banyak perusahaan mempunyai kebijakan penerimaan sementara (part
+time). Meskipun minat pelamar terhadap tipe status tersebut semakin tinggi,
+kebijakan itu dapat mentebabkan perusahaan menolak karyawan yang
+berkualitas yang menginginkan status kerja full time.
+c. International hiring policies ( kebijakan perekrutan
+internasional)
+9 William B. Werther. Jr dan Keith Davis. Human Resource and Personel Management (New York:
+McGraw Hill,93), Hlm 230
+Negara di mana perusahaan didirikan serta mempunyai ketentuan
+hukum yang mengatur agar perusahaan memperkerjakan tenaga kerja lokal di
+mana perusahaan berlokasi dan beroperasi.
+d. Promote-from in action policies ( kebijakan promosi dari
+dalam)
+Kebijakan promosi dari dalam bertujuan memberikan kesempatan
+pertama untuk mengisi lowongan pekerjaan. Hal ini dapat meningkatkan
+kinerja, partisipasi karyawan dan dapat membantu kegiatan pemeliharaan
+karyawan.
+2. Perencanaan sumber daya manusia ( starategic and human
+resource plan )
+Strategic plans menunjukan arah atau maksud perusahaan dan
+menyarankan tipe tugas dan pekerjaan yang perlu ditangani. Sedangkan
+human resource plan menunjukan pekerjaan apa yang harus diisi oleh
+karyawan yang berasal dari luar perusahaan dan mana yang harus diisi oleh
+karyawan internal.
+3. Affirmative action plan
+Affirmative action plan dapat membantu para perekrut untuk
+memenuhi kebutuhan penarikan karyawan minoritas, misalnya wanita.
+Tindakan ini dapat menyarankan keseimbangan yang lebih besar kepada
+karyawan yang beragam.
+4. Kebiasaan perekrutan ( recruitment habits )
+Keberhasilan yang pernah dicapai seorang perekrut dapat menjadi
+sebuah kebiasaan. Diakui bahwa sebuah kebiasaan dapat mengurangi atau
+bahkan dapat menghilangkan terjadinya waktu yang lama untuk mengambil
+keputusan dalam menghadapi masalah yang serupa.
+Namun, kebiasaan juga dapat meneruskan kesalahan yang terjadi di
+masa lalu atau tidak menghiraukan alternatif yang lebih efektif.
+5. Kondisi lingkungan eksternal (environment condition)
+Lingkungan ekonomi dapat berubah dengan cepat pada saat sebuah
+rencana baru dibuat.
+6. Persyaratan jabatan ( job requirement)
+Hambatan yang umumnya paling sering dihadapi oleh para perekrut
+adalah mereka dituntut untuk mendapatkan pelamar yang terbaik dan
+berpengalaman. Permintaan tersebut memang sangat beralasan karena dalam
+menentukan calon karyawan yang sempurna sangatlah sulit. Walaupun calon
+karyawan dengan kondisi tersebut dapat ditemukan, tentunya orang tersebut
+akan meminta gaji yang tinggi.
+7. Biaya penarikan (cost)
+Biaya untuk mengidentifikasi dan menarik pelamar adalah sebuah
+batasan yang selalu ada. Perencanaan sumber daya manusia yang baik dapat
+meminimumkan biaya-biaya yang timbul. Tetapi solusi yang paling baik
+adalah dengan menggunakan praktek-praktek sumber daya manusia yang
+proaktif untuk mengurangi frekuensi keluar masuknya karyawan dan
+meminimalkan kebutuhan akan karyawan baru. Dengan mengevaluasi
+kuantitas, kualitas dan biaya-biaya dapat membantu perekrutan yang efektif
+dan efisien.
+8. Perangsang (incentive)
+Insentif yang diperlukan untuk merangsang minat para pelamar yang
+potensial. Tetapi rangsangan ini dapat menjadi kendala pada saat para pesaing
+melakukan hal yang sama.
+2.2.4 Jenis-jenis saluran perekrutan
+1. Internal Recruitment
+Internal recruitment adalah orang-orang yang sudah menjadi karyawan
+perusahaan atau yang sudah menduduki jabatan tertentu yang dapat dilakukan dengan
+berbagai cara untuk mengisi jabatan yang kosong melalui proses seleksi yang akan
+dilakukan.
+Ada 3 cara merekrut tenaga kerja dari dalam perusahaan :
+a) Promosi adalah aktivitas yang dilakukan oleh perusahaan untuk
+memindahkan karyawannya dari satu jabatan ke jabatan yang lain dengan tanggung
+jawab, gaji, dan tingkat organisasi yang lebih tinggi.
+b) Transfer adalah aktivitas yang dilakukan oleh perusahaan untuk
+memindahkan karyawannya dari satu jabatan ke jabatan lain yang setingkat.
+c) Demosi adalah aktivitas yang dilakukan oleh perusahaan untuk
+memindahkan karyawannya dari satu jabatan ke jabatan yang lebih rendah.
+2. Eksternal Recruitment
+Eksternal recruitment adalah orang-orang yang belum menjadi karyawan
+perusahaan, yang akan ditarik untuk menjadi calon karyawan.
+· Metode Rekrutmen Eksternal :
+o Walk-in and write-in (inisiatif pelamar).
+Walk in adalah dimana pelamar atau pencari kerja
+dimungkinkan atau diperbolehkan mendatangi perusahaan untuk
+menyampaikan keinginannya menjadi pegawai dan write-in dilakukan
+melalui pengiriman surat lamaran.
+o Employee referral (rekomendasi karyawan)
+Pendekatan ini melakukan penarikan calon karyawan melalui
+referensi atau rekomendasi dari karyawan yang sudah ada, dengan
+harapan para pekerja sangat mengenal orang-orang yang memiliki
+potensi dan profesi untuk melakukan pekerjaan yang sama.
+o Advertising ( iklan)
+Pendekatan ini dilakukan melalui periklanan di media massa,
+baik media massa tertulis seperti surat kabar dan majalah yang dapat
+dibaca oleh publik maupun media elektronik seperti radio atau televisi,
+dengan menginformasikan jabatan, persyaratan dan keuntungankeuntungan
+lainya.
+o State employment security agencies (lembaga
+pemerintah)
+Tujuannya untuk membantu pencari tenaga kerja atau
+menghubungkan pencari kerja dengan yang membutuhkan tenaga
+kerja.
+o Lembaga swasta
+Tujuannya untuk mencari keuntungan dengan membantu
+perusahaan untuk mencari tenaga kerja yang ada di kota-kota besar.
+o Lembaga militer
+Para militer yang dilatih sebagai mekanik, pilot dan operator
+peralatan berat banyak yang meninggalkan dinas militernya setelah
+dinasnya selesai. Mereka dapat digunakan sebagai sumber tenaga
+kerja.
+o Lembaga pelatihan pemerintah
+Dalam usaha mengurangi pengangguran, pemerintah
+mendirikan lembaga pelatihan untuk membantu para penganggur
+mendapatkan pekerjaan dan membantu pengusaha mendapatkan
+karyawan yang cukup terampil.
+o Open house
+Yaitu mengundang calon-calon potensial untuk mendengarkan
+informasi mengenai perusahaan dengan berbagai cara seperti pameran,
+memutar film mengenai fasilitas dan aktivitas perusahaan dengan
+harapan dapat menarik calon-calon pegawai yang mempunyai potensi
+menjadi karyawan.
+2.2.5 Hasil Perekrutan
+Melalui proses perekrutan tersebut akan didapat sekumpulan pelamar yang
+berminat terhadap pekerjaan yang diawarkan oleh perusahaan.
+Untuik menilai keberhasilan program perekrutan terdapat 4 kriteria seperti
+yang dikemukakan Drs. T. Handi. Tandoko yaitu:10
+1. Jumlah pelamar
+Jumlah pelamar adalah yang mengirim surat lamaran atau mendatangi
+langsung perusahaan. Merupakan petunjuk tentang menarik atau tidaknya
+program perekrutan
+2. Jumlah usul tentang pelamar yang diajukan untuk diterima
+Semakin banyak pelamar yang dipanggil, program perekrutan dianggap
+sukses karena tersedia banyak pelamar yang memenuhi persyaratan.
+Merupakan suatu indikasi tentang bagimana kualitas pelamar yang lebih baik.
+3. Jumlah penerimaan atau pelamar yang diterima
+Jumlah penerimaan atau pelamar yang diterima merupakan suatu petunjuk
+yang jelas tentang kualitas jumlah karyawan yang diterima, apakah sesuai
+dengan kriteria-kriteria yang ditetapkan.
+10 Drs. T. Handoko, Manajemen Personalia dan Sumber Daya Manusia, Edisi kedua BPTEYogyakarta,
+1989, Hlm 78
+4. Jumlah penempatan karyawan yang berhasil
+Jumlah penempatan karyawan yang berhasil merupakan uji program
+perekruran yang paling penting karena evaluasi ini mencakup penilaian
+prosedur atau proses seleksi. Semakin banyak jumlah penempatan yang
+berhasil maka program perekrutan dianggap sukses.
+2.3 Seleksi
+2.3.1 Pengertian Seleksi
+Seleksi penerimaan sumber daya manusia dalam masyarakat organisasi
+merupakan suatu proses yang berulang kali dilaksanakan, artinya perusahaan akan
+melakukan penerimaan karyawan kapan saja sesuai dengan kebutuhan organisasi.
+Penerimaan sumber daya manusia dapat disebabkan oleh beberapa hal, diantaranya
+karena ada karyawan pensiun, meninggal dunia, mangkir, promosi atau transfer.
+Seleksi adalah pemilihan tenaga kerja dari sekelompok calon tenaga kerja atau
+pelamar yang potensial atau terbaik untuk satu jabatan atau posisi tertentu.
+Menurut Marihot Tua Effendi Hariandja, Drs,M.si :
+“ Seleksi merupakan proses untuk memutuskan pegawai yang tepat dari
+sekumpulan calon pegawai yang didapat melalui proses perekrutan, baik perekrutan
+internal maupun eksternal”.11
+Menurut Marwansyah Mukaram:
+“Seleksi adalah proses identifikasi dan pemilihan orang-orang dari
+sekelompok pelamar yang paling cocok atau yang paling memenuhi syarat untuk
+jabatan atau posisi tertentu”.12
+2.3.2 Input-Input Seleksi
+Dalam melaksanakan proses seleksi terdapat tiga input yang sangat
+berpengaruh dalam pencapaian tujuan dari manajemen personalia :
+1. Informasi Analisis Jabatan
+Akan memberikan keterangan mengenai pekerjaan yang akan
+dilakukan, kualifikasi dari pegawai yang dibutuhkan untuk menempati suatu
+jabatan tertentu serta standar kinerja dari jabatan tersebut.
+2. Perencanaan Sumber Daya Manusia
+11 Marihot Tua Effendi Hariadja,Drs,M.Si.Manajemen Sumber Daya Manusia:Pengadaan,
+Pengembangan, Pengkompensasian,dan Peningkatan Produkivitas Pegawai (Jakarta: PT. Gramedi
+Widiasarana Indonesia,2002), Hlm 97
+12 Marwansyah Mukaram.Manajemen Sumber Daya Manusia.(Bandung:Pusat Penerbit Administrasi
+Niaga Politeknik Negeri Bandung,2000), Hlm 49
+Perencanaan sumber daya manusia akan mengidentifikasi kebutuhan
+sumber daya manusia dalam jangka pendek maupun jangka panjang, serta di
+bagian mana mereka ditempatkan.
+3. Para Pelamar Yang Tersedia Untuk Ditarik
+Pelamar merupakan orang-orang yang akan diseleksi untuk menempati
+pekerjaan yang telah disediakan.
+2.3.3 Kualifikasi Seleksi
+Dalam proses seleksi diadakan proses penilaian akan sifat-sifat dan
+karakteristik dari para pelamar.
+Kualifikasi-kualifikasi tersebut merupakan bahan pertimbangan bagi
+perusahaan untuk menjangkau jabatan dalam melakukan pekerjaan tertentu.
+Pada umumnya kualifikasi-kualifikasi yang menjadi dasar dalam penilaian
+seleksi menurut Drs. Manullang mencakup :13
+· Keahlian
+Dalam jabatan-jabatan yang tidak memerlukan keahlian tertentu, kualifikasi
+ini dapat diabaikan, sedangkan untuk jabatan-jabatan yang bersifat operasional maka
+faktor keahlian merupakan kriteria utama yang penting diperhatikan dalam
+melakukan proses seleksi.
+Keahlian itu dapat digolongkan ke dalam tiga macam yaitu:
+1. technical skill
+2. human skill
+3. conceptual skill
+Untuk menilai kriteria ini biasanya pelamar langsung disuruh untuk
+mempraktekan pekerjaan-pekerjaan tertentu sehingga dapat menunjukan keahliannya.
+· Pengalaman
+Pengalaman merupakan faktor utama dalam proses seleksi. Pada
+umumnya perusahaan memilih pelamar yang sudah memiliki pengalaman kerja
+sebelumnya. Hal ini dimaksudkan agar perusahaan dapat melakukan penghematan
+waktu dan biaya untuk membentuk pegawai tersebut agar dapat melakukan
+tugasnya dengan baik
+· Umur
+Faktor umur diperhatikan karena untuk pekerjaan tertentu akan lebih
+efektif bila dilakukan oleh karyawan dalam batas umur tertentu. Bagi karyawan
+yang berusia muda biasanya unggul dalam faktor fisik dan kekuatan. Namun,
+tingkat kedisiplinan dan tanggung jawabnya biasanya sangat rendah dan
+sebaliknya bagi karyawan yang berusia lebih tua. Sehingga faktor umur harus
+disesuaikan dengan jenis pekerjaan yang akan diberikan.
+· Jenis kelamin
+Faktor jenis kelamin seringkali menjadi perhatian khusus bagi perusahaan
+pada saat proses seleksi. Hal ini tergantung pada jenis pekerjaan yang akan
+13 Drs. Manullang, Manajemen Personalia (Jakarta: Ghalia Indonesia: 1981), Hlm 53
+dihadapi oleh karyawan tersebut, karena ada beberapa jenis pekerjaan yang lebih
+efektif jika dikerjakan oleh wanita dan begitu pula sebaliknya.
+· Pendidikan
+Pelamar yang mempunyai tingkat pendidikan yang tinggi akan besar
+kemungkinannya dipilih dalam proses seleksi untuk pekerjaan yang lebih bersifat
+manajerial. Karena pekerjaan yang bersifat manajerial sangat mementingkan
+kemampuan berpikir dan mempunyai tingkat pendidikan dan pengetahuan yang
+cukup baik.
+· Keadaan Fisik
+Untuk jabatan-jabatan tertentu, keadaan fisik pelamar harus mendapatkan
+perhatian. Pada waktu proses seleksi, jabatan yang membutuhkan kekuatan fisik
+yang prima tidak boleh mengabaikan faktor ini karena akan mempengaruhi pada
+hasil kerja karyawan.
+· Tampang
+Dalam jabatan-jabatan tertentu, tampang juga merupakan salah satu
+kualifikasi yang dapat menentukan berhasil tidaknya seseorang dalam
+menghasilkan tugasnya.
+· Bakat
+Bakat ada dua macam, yaitu bakat yang tersembunyi dan bakat yang nyata
+terlihat. Bakat tersembunyi adalah bakat yang ada dalam diri seseorang yang
+masih belum dikembangkan secara maksimal. Tetapi pada umumnya perusahaan
+lebih memperhatikan bakat yang nyata terlihat pada diri seseorang untuk
+melaksanakan tugasnya kelak.
+· Tempramen
+Tempramen adalah sifat-sifat kita yang khusus berhubungan dengan
+dengan kehidupan emosi dan yang dianggap tidak dipengaruhi oleh alam sekitar
+kita. Masalah ini penting bagi pekerjaan yang memerlukan orang dengan kriteria
+tertentu dan untuk mengetahui tempramen seseorang dapat dilakukan tes
+psikologi.
+· Watak atau karakter
+Tempramen tidak sama dengan karakter, walaupun sama-sama faktor
+bawaan seseorang. Karakter dapat diperbaiki dengan jalan pendidikan.
+Sedangkan, tempramen tidak dapat diubah. Kualifikasi ini tergantung atas job
+specification dari suatu job tertentu.
+Bab 3
+Metodologi Penelitian
+3.1. Jenis Penelitian
+Jenis penelitian yang digunakan oleh penulis adalah penelitian deskriptif.
+Menurut Dr. Kartini Kartono:
+“ Penelitian deskriptif adalah membuat suatu deskriptif dengan cara
+melukiskan, memaparkan, dan melaporkan suatu keadaan, obyek atau peristiwa serta
+mengambil kesimpulan umum dari masalah yang telah dibahasnya.”14
+3.2 Teknik Pengumpulan Data
+Teknik pengumpulan data yang digunakan penulis adalah :
+1. Wawancara
+Penulis melakukan peninjauan secara langsung ke lapangan.
+Wawancara dilakukan untuk mendapatkan informasi dengan cara bertanya
+14 Kartini kartono.Pengantar Metodologi Riset Sosial. (Bandung:Mandar Maju 1990), Hlm 29
+langsung kepada kepala departemen personalia di PT.”X”, tanpa
+meninggalkan panduan wawancara tersebut.
+Menurut Moh. Nazir, Ph.D. :
+“Wawancara adalah proses memperoleh keterangan untuk tujuan
+penelitian dengan cara tanya jawab dengan bertatap muka antara si penanya
+atau pewawancara dengan si penjawab atau responden, dengan
+menggunakan alat yang dinamakan interview guide (panduan
+wawancara).”15
+Menurut Dr. Kartini Kartono:
+“ Wawancara adalah suatu percakapan tanya jawab lisan antara dua
+orang atau lebih yang duduk berhadapan secara fisik dan diarahkan pada
+suatu masalah tertentu.”16
+Untuk kepentingan pengolahan data, wawancara tersebut akan berisi
+mengenai beberapa hal sebagai berikut:
+ Menanyakan hal-hal yang berhubungan dengan latar belakang
+perusahaan.
+ Menanyakan hal-hal yang berkaitan dengan perekrutan
+karyawan.
+ Menanyakan masalah-masalah yang mungkin ada.
+15 Moh. Nazir, Ph.d.Metode Penelitian, Edisi 3,(Jakarta:Ghalia Indonesia 1988),Hlm 234
+16 Kartini kartono.Pengantar Metodologi Riset Sosial. (Bandung:Mandar Maju 1990), Hlm 187
+2. Studi Dokumen
+Menganalisis dokumen-dokumen yang menuliskan materi-materi yang
+mengandung informasi dari fenomena yang diteliti.
+Menurut Prof. Dr. H.H. Nawawi :
+“Studi dokumen adalah cara mengumpulkan data melalui
+peninggalan tertulis, terutama berupa arsip-arsip dan termasuk juga bukubuku
+pendapat, teori, dalil, atau hukum-hukum dan hal-hal lain yang
+berhubungan dengan masalah penelitian.”17
+Dalam hal ini penulis mempelajari dokumen perekrutan dan seleksi
+karyawan perusahaan, struktur organisasi perusahaan dan dokumentasi lain
+yang berhubungan dengan pelaksanaan perekrutan dan seleksi.
+Dengan demikian, studi dokumen adalah semua bahan yang berisi
+informasi tentang fenomena-fenomena yang dipelajari. Dokumen yang
+dipelajari adalah yang menyangkut pada permasalahan yang diteliti, yaitu
+proses perekrutan dan seleksi karyawan. Dokumen-dokumen tertulis yang
+dipelajari diantaranya sejarah dan perkembangan perusahaan beserta struktur
+organisasi. Selain itu, studi dokumen juga dilakukan dengan menelusuri dan
+menelaah literatur-literatur dan bahan bacaan yang relevan dengan penelitian
+dalam rangka mencari dan menambah ide maupun informasi yang diperlukan.
+17 Prof. Dr. H.H Nawawi, Metode Penelitian Banding Sosial, (Jakarta: Gajah Mada Universitas Press,
+1991), Hlm 133
+Gambar 3.1 Model Penelitian
+Perencanaan SDM
+· Estimasi suplai dan
+kebutuhan
+· Penyebab
+timbulnya
+pekerjaan
+· Penyusunan
+· Evaluasi
+Job Analysis Information
+1. Job Description
+2. Job Specification
+3. Job Performance
+Standard
+Lowongan
+Kerja
+Job Demand
+Pengadaan Karyawan
+Rekrutmen Karyawan
+· What : Jabatan kosong yang perlu diisi
+· When : Waktu perekrutan
+· Why : Mengapa terjadi proses rekrutmen
+· Who : Siapa pembuat keputusan rekrutmen dan
+siapa yang membutuhkan
+· Where : Tempat pelaksanaan rekrutmen
+· How : Metode-metode yang digunakan
+Feed Back
+Seleksi
+· What: Apakah sesuai dengan prosedur
+perusahaan
+· When: Waktu penyeleksian
+· Why: Mengapa terjadi proses seleksi
+· Who: Siapa yang menjalankan
+· Where: Tempat pelaksanaan seleksi
+· How: Metode-metode seleksi
+Orientasi dan Penempatan
+· Periode Orientasi
+· Isi Program Orientasi
+· Penempatan
+3.4 Operasionalisasi Variabel
+Dalam menentukan perekrutan karyawan maka perusahaan dapat
+menggunakan prinsip 5 W + 1H yaitu: What, When, Why, Who, Where dan How
+ What
+Apakah proses rekrutmen tersebut telah sesuai dengan jabatan-jabatan yang
+kosong dalam perusahaan.
+ When
+Kapan perekrutan karyawan akan dilakukan, apakah pada saat permintaan
+karyawan baru oleh perusahaan (manajer) atau adanya proses perekrutan
+pada waktu yang telah diatur dan ditentukan oleh perusahaan.
+ Why
+Mengapa perekrutan karyawan dilakukan/dilaksanakan, karena jabatan
+kosong atau kebutuhan akan karyawan baru yang memiliki keterampilan
+tertentu.
+ Who
+Siapa yang membutuhkan karyawan baru tersebut dan siapa saja yang
+menjadi pembuat keputusan dalam perekrutan, seleksi dan penempatan
+karyawan baru.
+ Where
+Dimana proses perekrutan dan seleksi karyawan baru akan dilaksanakan dan
+dimana karyawan baru tersebut akan ditempatkan.
+ How
+Apa saja cara perekrutan karyawan yang diperlukan oleh perusahaan atau
+departemen yang membutuhkan.
+Metode perekrutan :
+1. Metode perekrutan sumber internal
+Calon internal diperoleh dengan cara manajer memberikan atau
+menominasikan beberapa orang sebagai calon karyawan untuk
+dipromosikan atau dipindahtugaskan.
+2 . Metode perekrutan sumber eksternal
+ Inisiatif pelamar
+ Rekomendasi karyawan
+ Iklan
+ Lembaga pemerintah
+ Lembaga swasta
+ Perusahaan penyedia tenaga ahli
+ Lembaga pendidikan, dll.
+Selain itu untuk mengetahui pelaksanaan perekrutan dan seleksi, maka penulis akan
+menganalisis dari variabel yang dijadikan objek dari aspek-aspek berikut:
+Informasi Analisis Jabatan (Job Analysis Information)
+Prosedur untuk menetapkan tugas dan keterampilan yang dibutuhkan sebuah
+pekerjaan dan juga tipe orang yang tepat untuk pekerjaan tersebut. Hasil dari
+informasi analisis pekerjaan:
+ Uraian Jabatan (Job Description)
+Daftar tugas, tanggung jawab, aliran pertanggungjawaban dan pelaporan, kondisi
+kerja, dan tanggung jawab kepenyeliaan yang dituntut suatu pekerjaan.
+ Persyaratan Jabatan (Job Specification)
+Menyatakan tentang kualifikasi dan pengalaman yang dibutuhkan dalam sebuah
+pekerjaan. Tuntutan pekerjaan terhadap aspek manusianya yang menyangkut syarat
+pendidikan, ketrampilan, kepribadian, dan lain-lain.
+ Standar Unjuk Kerja (Job Performance Standard)
+Merupakan kegiatan dan output dari pekerjaan yang menjadi ukuran karyawan.
+Menentukan standar kinerja apa yang dibutuhkan dalam suatu jabatan dalam
+perusahaan tersebut.
+Job Demand/Requirement
+Kebutuhan akan karyawan baru didasari atas permintaan manajer
+departemen yang merasakan perlunya tambahan karyawan karena bermacam- macam
+sebab, diantaranya:
+· Karena ada karyawan yang mengundurkan diri atau dikeluarkan.
+· Karena manajer membutuhkan karyawan baru untuk meningkatkan performance
+departemen yang dipimpinnya.
+· Karena manajer membutuhkan karyawan baru untuk menempati sebuah
+departemen yang baru.
+Dalam menentukan proses seleksi karyawan perusahaan dapat menggunakan
+prinsip 5W + 1 H, yaitu What, When, Why, Who, Where dan How.
+ What
+Apakah proses seleksi tersebut telah sesuai dengan prosedur yang dijalankan
+oleh perusahaan.
+ When
+Kapan waktu pelaksanaan penyeleksian karyawan tersebut akan dilaksanakan.
+ Why
+Mengapa proses seleksi dilaksanakan/dilakukan. Apakah karena standar yang
+diterapkan oleh perusahaan/standar atau karena keinginan dari tiap-tiap
+manajer yang membutuhkan karyawan dengan spesialisasi tertentu.
+ Who
+Siapa yang melakukan proses penyeleksian tersebut. Apakah dari intern
+perusahan atau menggunakan jasa lembaga tertentu dari eksternal perusahaan.
+ Where
+Dimana tempat penyeleksian tersebut akan dilaksanakan.
+ How
+Apa saja metode-metode yang akan digunakan dalam proses penyeleksian
+karyawan.
+3.5 Teknik Analisis Data
+Analisis data yang digunakan adalah dengan cara analisis data kualitatif, yaitu
+menganalisis data melalui perbandingan antara teori-teori yang relevan dengan fakta
+yang ada.
+Dengan data yang diperoleh dari survei terhadap PT.“X” tentang pelaksanaan
+perekrutan dan seleksi dibandingkan dengan landasan teori tentang perekrutan dan
+seleksi. Dari data yang diperoleh, penulis akan membandingkannya sehingga akan
+diperoleh sebuah kesimpulan yang berbobot ilmiah.
+3.6 Lokasi Penelitian
+Penulis mengadakan penelitian pada PT.”X” yang berlokasi di Jln. Mekar
+Raya Kav.37, Gedebage.
+Bab 4
+Objek Penelitian
+4.1 Sejarah Perusahaan
+PT. “X” bergerak dalam bidang Non Woven, yaitu pemintalan yang
+menghasilkan produk Glass Woll. Glass Woll adalah semacam bahan baku
+untuk karpet. Lokasi perusahaan berada di Jln. Mekar Raya Kav.37,
+Gedebage.
+Perusahaan ini memulai usahanya pada tahun 1990 dengan jam kerja
+mulai pukul 08.00 - 15.00. Setelah berjalan selama 5 tahun, yaitu pada tahun
+1995, perusahaan mulai berkembang dan memiliki 155 karyawan tetap. 15
+orang karyawan pada bagian staff memiliki waktu kerja dari hari Senin hingga
+Jumat mulai pukul 08.00 – 16.00. Sedangkan 140 orang karyawan sebagai
+buruh, beroperasi dalam 3 shift, yaitu:
+· shift A: 07.00 – 15.00 terdiri dari 60 orang karyawan.
+· shift B: 15.00 – 23.00 terdiri dari 40 orang karyawan.
+· shift C: 23.00 – 07.00 terdiri dari 40 orang karyawan.
+Salah satu faktor penyebab perkembangan PT. “X” adalah adanya sumber
+daya manusia yang mempunyai kemampuan/skill yang baik sehingga para
+konsumen memiliki kepercayaan yang tinggi terhadap PT. “X”.
+PT. “X” mengutamakan pemasaran produknya didalam negeri
+walaupun ada juga beberapa kegiatan ekspor yang dilakukan. PT. “X” lebih
+mengutamakan pemasaran di dalam negeri dikarenakan supply bahan baku
+yang berasal dari para supplier hanya mencukupi kebutuhan produksi dalam
+negeri.
+4.2 Bagan Organisasi
+Bagan organisasi merupakan suatu kerangka kerja yang
+menggambarkan hubungan wewenang dan tanggung jawab bagi setiap jenjang
+yang berada dalam ruang lingkup perusahaan untuk melaksanakan semua
+aktivitas perusahaan agar tercapai tujuan perusahaan yang telah ditetapkan.
+Setiap tingkatan organisasi dan individu mempunyai tugas dan wewenang
+masing-masing. Seseorang tidak dapat melampaui tugas dan wewenangnya,
+sehingga diperlukan kerjasama di antara seluruh tingkatan organisasi.
+Dengan adanya struktur organisasi tersebut akan memperlancar arus
+pekerjaan dan mempertinggi efisiensi organisasi secara keseluruhan, sehingga
+terlihat pembagian yang jelas antara fungsi dan kegiatan yang tersedia antara
+satu pekerjaan dengan pekerjaan lainnya.
+
+4.2.1 Wewenang dan Tanggung Jawab
+Peneliti akan menguraikan pembagian tugas masing-masing bagian
+dari struktur organisasi sebagai berikut:
+I. Presiden Direktur
+Seorang presiden direktur memiliki jabatan tertinggi dalam struktur
+organisasi PT. “X”. Presiden direktur memiliki wewenang dan tanggung
+jawab mengurus dan mengelola perusahaan untuk mencapai tujuan dan hasil
+yang ditetapkan. Seorang presiden direktur memiliki hak untuk melakukan
+tindakan yang menyangkut keberhasilan atau untuk memajukan perusahaan.
+II. Kepala bagian produksi
+Bertanggung jawab atas kelancaran pelaksanaan proses produksi serta
+sarana pendukungnya yang meliputi Mesin, Grey, Printing dan Garment.
+Dalam pelaksanaannya tugas kepala produksi membawahi :
+1. Ka. Departemen Mesin/ Maintenance
+Bertanggung jawab atas pemasangan mesin-mesin baru serta
+pemeliharaan mesin-mesin yang ada sehingga produksi dapat berjalan dengan
+lancar.
+2. Ka. Departemen Grey
+· Bertanggung jawab atas kuantitas serta kualitas produksi
+sebagaimana yang telah ditentukan.
+· Mengatur serta mengawasi cara kerja dan prestasi karyawan.
+· Mengkoordinir pembagian serta pelaksanaan tugas harian
+pengawas produksi.
+· Bertanggung jawab atas kelancaran serta kebenaran
+pelaksanaan laporan produksi baik harian maupun bulanan.
+· Melakukan stock opname bulanan atas hasil produksi, barang
+½ jadi serta bahan baku yang tersisa.
+Dalam pelaksanaan tugas sehari-hari, kepala departemen Grey dibantu
+oleh:
+Pengawas produksi, yang bertanggung jawab atas pelaksanaan
+produksi harian agar sesuai dengan kuantitas serta kualitas yang
+sudah ditentukan.
+Administrasi produksi, yang bertanggung jawab atas pencatatan
+pemakaian bahan baku untuk produksi (kapas, benang) serta hasil
+produksi harian per mesin serta per jenis produknya.
+3. Ka. Departemen Printing
+Bertanggung jawab atas seluruh aktivitas serta karyawan yang ada di
+departemen printing yang meliputi:
+· Bertanggung jawab atas kuantitas produksi sesuai dengan
+yang telah ditentukan.
+· Mengatur jenis produksi yang akan dikerjakan sesuai dengan
+order yang masuk atau rencana yang telah ditentukan sebelumnya.
+· Membuat kalkulasi serta menentukan pemakaian obat kimia
+seefisien mungkin tanpa mengurangi standar kualitas yang telah ditentukan.
+· Mengawasi mutasi kain grey ( sebagai bahan baku untuk
+departemen printing) serta hasil produksi printing.
+· Bertanggung jawab atas administrasi produksi yang meliputi :
+ Laporan harian/bulanan pemakaian obat printing.
+ Laporan harian/bulanan hasil produksi printing.
+ Stock opname akhir bulan atas bahan grey yang belum
+diprinting, barang ½ jadi yang ada dibagian printing(belum dimutasikan).
+Dalam pelaksanaan tugasnya sehari-hari kepala departemen printing
+dibantu :
+Pengawas produksi, yang bertanggung jawab atas pelaksanaan
+produksi harian agar sesuai dengan kuantitas serta kualitas yang
+sudah ditentukan.
+Administrasi produksi, yang bertanggung jawab atas pencatatan
+pemakaian bahan baku untuk produksi(obat-obat printing) serta
+hasil produksi harian per jenis barang.
+4. Ka. Departemen Garment
+Bertanggung jawab atas seluruh aktivitas serta karyawan yang ada
+pada departemen Garment yang meliputi :
+· Mengatur jenis barang yang akan diproduksi.
+· Bertanggung jawab atas kualitas serta kuantitas produksi sesuai
+dengan yang telah ditentukan.
+· Mengawasi mutasi bahan yang akan diproduksi sesuai dengan
+yang telah ditentukan.
+· Mengatur serta mengawasi cara kerja karyawan sehingga
+hasilnya maksimum.
+· Bertanggung jawab atas pelaksanaan administrasi produksi
+yang meliputi :
+ Pembuatan laporan harian/bulanan hasil produksi.
+ Membuat catatan mutasi barang(grey dan hasil produksi)
+ Stock opname bulanan atas barang yang belum diproduksi,
+barang ½ jadi serta barang jadi yang masih belum dimutasikan.
+Dalam pelaksanaan tugasnya sehari-hari, kepala departemen Garment
+membawahi :
+Pengawas produksi, yang bertanggung jawab atas pelaksanaan
+produksi harian agar sesuai dengan kuantitas serta kualitas yang sudah
+ditentukan.
+Administrasi produksi, yang bertanggung jawab atas pencatatan
+pemakaian bahan baku untuk produksi(meliputi benang serta barangbarang
+packing) serta hasil produksi harian per jenis produknya.
+5. Ka. Personalia dan Umum
+· Bertanggung jawab atas penyediaan tenaga kerja yang
+dibutuhkan oleh masing-masing departemen.
+· Perhitungan daftar hadir karyawan.
+· Bertanggung jawab atas perhitungan upah karyawan serta
+pelaksanaan pembagiannya dengan benar.
+· Mengurus masalah perusahaan yang berhubungan dengan
+instansi pemerintah serta instansi lainnya yang terkait.
+· Mengawasi kebersihan lingkungan pabrik dan sekitarnya.
+· Bertanggung jawab atas keamanan pabrik dan sekitarnya.
+6. Ka. Gudang dan administrasi
+· Bertanggung jawab atas seluruh stock barang yang ada di
+gudang yang meliputi kapas, benang, spare part, obat printing, dll.
+· Bertanggung jawab atas penyusunan laporan stock gudang
+harian/mingguan/bulanan sesuai dengan kebutuhan.
+· Bertanggung jawab atas pengadaan pengiriman barang jadi ke
+pembeli sesuai dengan order dari bagian penjualan.
+Gudang yang ada meliputi :
+ Gudang kapas.
+ Gudang spare part.
+ Gudang obat-obat printing.
+ Gudang barang jadi.
+ Umum dan lain-lain.
+Kepala gudang :
+· Bertanggung jawab atas kebenaran penerimaan barang dari
+supplier serta pengeluarannya untuk pemakaian.
+· Melakukan pengecekan posisi barang yang ada apakah telah
+mencapai batas stock minimal untuk segera melakukan pemesanan ulang.
+· Bertanggung jawab atas permintaan pembelian barang-barang.
+· Bertanggung jawab atas mutasi stock yang ada digudang.
+· Melakukan adminitrasi stock barang yang ada digudang.
+· Membuat laporan stock akhir harian/bulanan.
+Bagian Penerimaan Barang :
+· Bertanggung jawab atas pengecekan secara fisik atas barang
+yang datang dari supplier.
+· Membuat bukti penerimaan barang (BPnB), serta menyerahkan
+barang kepada gudang yang bersangkutan.
+· Membuat surat permintaan pembelian barang yang
+diusulkan/diminta oleh bagian yang membutuhkan serta meminta persetujuan
+dari kepala gudang dan administrasi.
+Bagian Pembelian :
+Bertanggung jawab pengadaan barang jadi, baik barang produksi
+maupun non produksi serta negosiasi harga dengan supplier.
+Didalam pelaksanaan tugasnya bagian pembelian dibantu oleh :
+1) Asisten pembelian :
+Ruang lingkup tugas serta tanggung jawabnya meliputi :
+· Mengatur pembelian barang-barang, baik barang produksi
+maupun non produksi yang diminta oleh bagian gudang atau bagian lainnya
+yang membutuhkan.
+· Monitoring pengiriman barang dari supplier, khusunya untuk
+barang-barang yang pembeliannya berdasarkan kontrak.
+· Membuat laporan pembelian bulanan.
+2) Administrasi persediaan :
+Ruang lingkup tugas serta tanggung jawabnya meliputi :
+· Membuat kartu stock barang berdasarkan bukti penerimaan
+barang (BPnB) serta bukti pengeluaran barang yang dibuat oleh pabrik.
+· Cross check antara surat permintaan pembelian barang dari
+pabrik dengan catatan mengenai posisi stock barang yang diminta.
+· Memberikan informasi ke bagian pemebelian mengenai posisi
+stock barang-barang yang diminta serta barang lainnya yang telah mencapai
+batas minimum, apakah perlu diadakan pemesanan kembali atau tidak.
+Bagian Penjualan :
+Bertanggung jawab untuk memasarkan produ-produk yang ada serta
+menentukan harga jual kepada pembeli(negosiasi harga jual).
+Dalam pelaksanaan tugasnya, bagian penjualan dibantu oleh asisten
+penjualan yang bertugas sbb:
+· Penerimaan order penjual dari pembeli.
+· Mengatur pengiriman barang dalam dan luar kota.
+· Membuat surat jalan keluar.
+· Membuat laporan yang meliputi :
+ Laporan pengiriman per minggu.
+ Laporan mutasi barang harian.
+ Laporan penjualan bulanan.
+ Posisi stock barang akhir bulan.
+ Sisa order bulan ini yang belum terpenuhi per masing-masing
+pembeli.
+Accounting dan Keuangan
+A. Chief Accounting
+Bertanggung jawab atas penyusunan laporan keuangan perusahaan
+secara keseluruhan yang meliputi :
+· Laporan keuangan.
+· Laporan biaya produksi.
+· Laporan mutasi posisi stock barang.
+· Laporan lainnya yang dibutuhkan.
+B. Chief Finance
+Bertanggung jawab atas setiap penerimaan dan pengeluaran uang
+melalui bank serta penyusunan cash flow perusahaan.
+Dalam melaksanaan tugasnya, Chief Finance dibantu oleh :
+1) Kas pusat
+Ruang lingkup serta tanggung jawab meliputi :
+ Pengeluaran uang untuk kepentingan perusahaan.
+ Membuat laporan harian penerimaan dan pengeluaran
+kas/bank.
+ Kontrol saldo bank.
+ Mengecek kelengkapan dokumen-dokumen pendukung untuk
+pembayaran hutang ke supplier.
+ Mengecek kelengkapan dokumen serta kebenaran nilai
+pembayaran dari pembeli.
+2) Kas pabrik
+Ruang lingkup serta tanggung jawab meliputi :
+ Pengeluaran uang untuk kepentingan pabrik.
+ Membukukan setiap pengeluaran uang.
+ Membuat laporan pengeluaran kas harian.
+ Mempersiapkan upah karyawan mingguan dan bulanan.
+ Mempersiapkan permohonan uang ke kas pusat jika saldo kas
+telah mencapai batas minimum.
+ Bekerjasama dengan kepala gudang dan administrasi untuk
+mengatur kiriman barang ke pembeli.
+3) Administrasi hutang piutang
+Ruang lingkup serta tanggung jawab meliputi :
+ Membukukan setiap transaksi yang berhubungan dengan
+hutang piutang.
+ Melakukan pengecekan apakah dokumen-dokumen pendukung
+untuk melakukan pembayaran ke supplier maupun penagihan ke pembeli telah
+lengkap, sesuai dan benar.
+ Menyusun laporan hutang/piutang per bulan.
+C. Akuntansi Biaya
+· Melaksanakan pencatatan mengenai transaksi pabrik secara
+tepat dan up to date.
+· Memeriksa apakah pembukuan yang dibuat oleh asisten telah
+dilakukan dengan benar.
+· Mengawasi pengumpulan serta melakukan analisa unsur-unsur
+biaya untuk menetukan perincian biaya menurut cost centre produksi dan
+pembantu.
+· Memberikan saran kepada kepala bagian akuntansi untuk
+penyempurnaan system dan prosedur akuntansi.
+· Melaksanakan pekarjaan lain yang mungkin ditugaskan oleh
+kepala bagian akuntansi.
+Asisten akuntansi biaya
+· Membuat laporan perhitungan harga pokok produksi setiap
+akhir bulan.
+· Membukukan biaya pemakaian bahan, tenaga kerja dan factory
+overhead pada buku harian pabrik.
+· Membukukan transaksi yang menyangkut transfer barang/uang
+antara pabrik dan kantor pusat secara benar dan up to date.
+· Melakukan posting dari buku harian pabrik ke buku besar ke
+buku besar pada setiap akhir bulan.
+· Melaksanakan pekerjaan lain yang memungkinkan ditugaskan
+oleh kepala akuntansi biaya.
+Internal control
+Ruang lingkup tugas meliputi :
+· Monitoring apakah aktivitas setiap bagian-bagian sudah
+berjalan sesuai dengan fungsi serta tanggung jawabnya masing-masing.
+· Penyusunan serta perbaikan system sesuai dengan
+permintaan/kebutuhan.
+Bab 5
+Hasil dan Pembahasan
+Karyawan sebagai sumber daya manusia adalah faktor penting yang
+menjadi bagian dalam berdirinya suatu perusahaan. Karyawan adalah faktor
+utama yang mengelola segala jenis sumber daya yang ada dalam perusahaan.
+Untuk itu sangat penting bagi perusahaan mana pun untuk mengelola dengan
+baik sumber daya manusia.
+Proses perekrutan dan seleksi karyawan dalam perusahaan merupakan
+tugas sekaligus tantangan yang harus dihadapi oleh manajer HRD . Kedua hal
+tersebut mutlak dilaksanakan ,karena perusahaan pada suatu kondisi akan
+memerlukan karyawan baru yang disebabkan adanya bidang-bidang pekerjaan
+yang harus ditambah maupun dikurangi .
+Proses seleksi dan perekrutan karyawan yang dilaksanakan oleh
+perusahaan merupakan tindakan yang sangat kompleks karena manajer HRD
+harus memperoleh karyawan yang tepat sesuai dengan kebutuhan dan akan
+menjadi aset bagi perusahaan. Pemilihan karyawan tersebut sangat
+mempengaruhi kinerja perusahaan. Dengan perekrutan dan penyeleksian
+karyawan, perusahaan akan dapat memperkirakan kinerja mereka pada masa
+yang akan datang. Kinerja karyawan akan sangat mempengaruhi keberhasilan
+dan kelancaran suatu perusahaan.
+Untuk itu dalam bab ini penulis akan lebih lanjut menganalisis tentang
+bagaimana proses rekrutmen dan seleksi karyawan di PT. “X”.
+5.1 Analisis Pelaksanaan Perekrutan dan Seleksi Karyawan
+di PT. “X”
+Perekrutan dan seleksi karyawan di PT. “X” dilakukan ketika terjadi
+kekosongan jabatan, yang dapat terjadi karena : pemindahan jabatan,
+pengunduran diri, pemutusan hubungan kerja atau karyawan meninggal dunia.
+Di luar hal-hal di atas, perekrutan dan seleksi karyawan pun terjadi karena
+adanya permintaan karyawan baru di setiap departemen yang membutuhkan
+karyawan.
+Secara singkat proses pengadaan karyawan di PT.”X” dapat dilihat
+melalui bagan prosedur pengadaan karyawan di bawah ini
+Gambar 5.1 Proses Pengadaan Karyawan
+Mulai
+Permintaan/penambahan karyawan
+Identifikasi surat lamaran
+Proses pencarian kandidat
+Proses seleksi karyawan
+staff :
+· Seleksi lamaran
+· Test teknis
+· Interview dengan
+HRD
+· Interview dengan user
+Masa percobaan
+Rekrutmen
+Seleksi
+Proses seleksi karyawan
+buruh :
+· Seleksi lamaran
+· Test keterampilan
+· Interview dengan HRD
+· Interview dengan user
+Lulus
+Proses administrasi rekrutisasi
+Selesai
+Agar lebih jelas maka penulis akan membahas dan menganalis
+mengenai proses perekrutan dan seleksi karyawan di PT. “X” yang
+pembahasan dan hasil penelitiannya akan diuraikan sebagai berikut.
+5.1.1 Prosedur Pengadaan Karyawan
+Pengadaan karyawan baru, dilaksanakan ketika perusahaan
+mengetahui akan adanya permintaan karyawan baru pada suatu departemen,
+baik tetap maupun kontrak. Sebelum melakukan permintaan karyawan baru
+maka setiap departemen yang akan mengajukan pemintaan telah mengetahui
+Job Description dari posisi lowong yang akan diisi oleh karyawan baru. Job
+Description ini akan dicantumkan oleh setiap departemen di form permintaan
+penambahan karyawan. Form permintaan penambahan karyawan ini diajukan
+oleh manajer tiap-tiap departemen terkait, biasanya apabila kebutuhan akan
+karyawan mendesak maka akan diproses pertama kali dengan jangka waktu 2
+sampai 3 hari, sedangkan apabila tidak terlalu mendesak maka proses
+rekrutmen dan seleksi karyawan akan dilaksanakan dalam waktu 1 sampai 2
+minggu. Hal yang diperhatikan dalam form pemintaan penambahan karyawan
+adalah sebagai berikut :
+1. Departemen yang membutuhkan.
+2. Jumlah karyawan yang dibutuhkan.
+3. Posisi yang akan diisi.
+4. Kriteria/spesifikasi karyawan yang dibutuhkan.
+5. Keterangan, apakah karyawan kontrak atau tetap dan
+penambahan atau menggantikan karyawan.
+Ketika suatu departemen membutuhkan karyawan baru, manajer
+departemen terkait wajib mengisi form permintaan penambahan karyawan.
+Untuk memperjelas maksud dan tujuan permintaan tenaga kerja tersebut,
+maka dalam form permintaan tenaga kerja tersedia kolom keterangan. Pada
+kolom keterangan tersebut, manajer menuliskan apakah departemen tersebut
+bermaksud untuk menambah jumlah karyawan atau mengganti karyawan
+lama.
+Penambahan karyawan
+Penambahan karyawan pada perusahaan ini ada 2 jenis yaitu
+penambahan karyawan staff dan karyawan buruh. Untuk karyawan staff
+penambahan karyawan akan dijadikan karyawan tetap, sedangkan untuk
+karyawan buruh dapat menjadi karyawan tetap ataupun hanya sebagai
+karyawan kontrak. Hal itu disebabkan adanya penambahan kapasitas produksi
+produk yang akan diproduksi ketika ada kenaikan permintaan dari konsumen
+sehingga karyawan kontrak tersebut masa kontraknya akan berakhir ketika
+kegiatan produksi telah mencapai target.
+Menggantikan karyawan lama
+Faktor-faktor yang mempengaruhi terjadinya pergantian karyawan :
+ Promosi / transfer yang diberikan pada seorang karyawan, sehingga
+menimbulkan kekosongan tempat pada jabatan yang ditinggalkan.
+ Karyawan yang berhenti bekerja / mengundurkan diri karena alasan
+tertentu.
+ Adanya karyawan yang sakit, pensiun, atau meninggal dunia.
+ Pemutusan hubungan kerja ( PHK ) karena ketidakdisiplinan karyawan
+atau karyawan melanggar peraturan yang telah ditetapkan sehingga dapat
+mengakibatkan kerugian bagi perusahaan.
+Di antara faktor-faktor di atas, yang paling mempengaruhi pergantian
+karyawan di PT.”X” adalah :
+Untuk karyawan staff adalah karyawan yang berhenti bekerja / mengundurkan
+diri karena alasan tertentu seperti karyawan merasa kurang cocok dengan
+jabatan yang sedang dijabatnya sekarang.
+Untuk karyawan buruh adalah pemutusan hubungan kerja (PHK) yang karena
+ketidakdisiplinan karyawan tersebut, melanggar peraturan yang telah
+ditetapkan oleh perusahaan.
+Setelah adanya permintaan karyawan yang dilampirkan pada form
+permintaan karyawan oleh setiap manajer dari setiap departemen atau pun
+kepala bagian, maka kepala bagian personalia (HRD) akan melakukan proses
+rekrutmen sesuai dengan Job description yang telah dibuat oleh permintaan
+manajer dan kepala bagian.
+5.2 Pelaksanaan Perekrutan
+Dalam proses perekrutan karyawan ada beberapa persyaratan yang
+secara umum digunakan oleh PT.”X” :
+Karyawan staff :
+· Jenis kelamin : Pria atau Wanita
+· Usia : 22 – 30 tahun
+· Pendidikan : D3 dan S1 semua jurusan ( sesuai permintaan
+tiap manajer / kepala bagian )
+· Pengalaman : min 2 tahun di bidangnya
+· Sifat dan kepribadian : Jujur, ramah, bertanggung jawab,
+pekerja keras, dan disiplin
+Untuk karyawan buruh :
+· Jenis kelamin : Pria atau Wanita
+· Usia : 22 – 30 tahun
+· Pendidikan : lulusan SMA/sederajat
+· Sifat dan kepribadian : Jujur, ramah, bertanggung jawab,
+pekerja keras, dan disiplin
+Langkah selanjutnya yang dilakukan oleh PT.”X” adalah menetapkan
+sumber dan metode rekrutmen yang digunakan oleh perusahaan untuk
+mendapatkan calon karyawan baru. Dalam melaksanakan perekrutan
+karyawan baru, perusahaan mengutamakan sumber rekrut dari dalam (
+internal ), proses perekrutan dari dalam ini ( internal ) diutamakan untuk para
+karyawan staff, proses perekrutan dari dalam perusahaan tersebut dapat
+berupa :
+1. Promosi
+Yaitu pemindahan karyawan dari suatu jabatan ke jabatan lain yang
+lebih tinggi, baik tanggung jawab maupun tingkatan organisasi. Promosi
+jabatan dapat diberikan kepada karyawan yang berprestasi dengan penilaian
+tertentu. Karyawan tersebut akan dipanggil oleh perusahaan untuk diminta
+kesediaannya dalam menjabat jabatan tersebut .
+Karyawan staff yang telah bekerja lebih dari 5 tahun serta memiliki
+kualifikasi-kualifikasi yang telah ditentukan sebelumnya dapat diberikan
+promosi.
+Alasan menggunakan metode promosi :
+1. Memotivasi karyawan staff yang telah bekerja lama pada
+PT.”X” untuk bekerja lebih baik
+2. Efesiensi waktu dan biaya
+3. Mengoptimalkan karyawan yang ada pada perusahaan
+4. Meningkatkan kepuasan karyawan akan perhatian yang
+diberikan perusahaan dalam hal kenaikan jabatan
+2. Transfer
+Yaitu pemindahan karyawan dari suatu jabatan ke jabatan lain yang
+secara relatif mempunyai tanggung jawab dan tingkatan jabatan yang sama.
+Transfer biasanya dilakukan jika kebutuhan sangat mendesak dan sulit untuk
+mengadakan penarikan dari luar atau berdasarkan permintaan karyawan /
+pemimpin perusahaan. Oleh karena itu, perusahaan mengambil sumber dari
+dalam dengan tingkat kesulitan jabatan, pendapatan, dan tanggung jawab yang
+setingkat.
+Alasan menggunakan metode transfer :
+1. Adanya kebutuhan akan karyawan yang mendesak
+2. Telah mengetahui tugas yang akan dikerjakan dengan baik
+Beberapa alasan mengapa PT.”X” lebih mengutamakan menggunakan
+sumber internal dalam melakukan perekrutan untuk karyawan staff :
+· Memberikan kesempatan kepada karyawan untuk mengembangkan
+kemampuan dan karier, juga untuk meningkatkan semangat kerja dari para
+karyawannya.
+· Karyawan yang telah ada sudah mengetahui keadaan perusahaan
+sehingga kualitas dan kemampuannya juga sudah diketahui oleh perusahaan .
+· Proses perekrutan dapat lebih cepat dilaksanakan karena perusahaan
+tidak perlu lagi mencari karyawan baru yang tentunya akan membutuhkan
+waktu yang lebih lama lagi .
+· Biaya yang dikeluarkan lebih murah dibandingkan dengan perekrutan
+sumber eksternal .
+· Perusahaan tidak perlu lagi memberikan pelatihan (training)
+Beberapa kelemahan dalam menggunakan sumber internal dalam
+melakukan perekrutan :
+· Kebijakan ini akan memicu pertikaian diantara karyawan yang satu
+dengan yang lain dan dapat menimbulkan ketidakpuasan karyawan.
+· Membatasi ide-ide serta metode-metode baru yang biasanya didapat
+melalui orang-orang dari luar perusahaan.
+· Apabila sebuah lowongan diisi secara internal. Maka akan tercipta
+lowongan baru pada posisi yang ditinggalkan. Jika kekosongan ini juga diisi
+secara internal, maka kekosongan lain akan terjadi.
+Menurut pendapat penulis, untuk meminimalkan kelemahan kebijakan
+rekrutmen dari dalam ini ( internal ) maka perusahaan harus memiliki jenjang
+karir yang jelas sehingga karyawan yang akan dipromosikan dan ditransfer
+sesuai kebutuhan akan karyawan dan manajer HRD dapat mempersiapkan
+karyawan yang akan mengisi jabatan yang ditinggalkan.
+Oleh karena perekrutan dari dalam ( internal ) akan mengakibatkan
+terjadinya kekosongan jabatan atau dapat pula terjadi bahwa tidak semua
+kebutuhan karyawan dapat dipenuhi dengan perekrutan dari dalam
+perusahaan. Hal inilah yang membuat perusahaan melakukan proses
+perekrutan dari luar perusahaan ( eksternal ).
+3 metode eksternal yang dipergunakan dalam perekrutan karyawan :
+1. Advertising
+Saluran ini biasanya dipakai oleh perusahaan untuk mencari karyawan
+dengan spesifikasi tertentu. Perusahaan biasanya melakukan pemasangan
+iklan pada surat kabar. Metode ini merupakan metode yang paling efektif
+karena memberikan keuntungan bagi perusahaan baik dari segi kualitas
+maupun kuantitas pelamar. Dari segi kualiatas, perusahaan akan lebih mudah
+mendapatkan karyawan yang sesuai karena dalam iklan telah dicantumkan
+spesifikasinya.
+Memasang iklan di surat kabar harus dibuat seekonomis mungkin
+tanpa harus mengurangi kualifikasi yang diinginkan. Yang perlu diperhatikan
+dalam membuat iklan tersebut adalah di dalam iklan tersebut harus dituliskan
+jenis jabatan beserta kode posisinya untuk memudahkan penyeleksian surat
+lamaran yang masuk, spesifikasi kualifikasi yang singkat, jelas, padat serta
+persyaratan lain yang diperlukan dan batas waktu pengiriman surat lamaran.
+2. Walk-in and write-in
+Walk-in merupakan sebuah metode dimana pelamar mendatangi
+perusahaan untuk menyampaikan keinginannya menjadi karyawan di
+perusahaan tersebut, sedangkan write-in dilakukan melalui pengiriman surat
+lamaran kepada perusahaan.
+PT.”X” pun sering didatangi oleh para pelamar yang secara langsung
+mengajukan lamaran atau mengirimkan surat lamaran melalui pos baik secara
+langsung ataupun tidak. Bila tidak ada lamaran maka data-data yang diterima
+oleh perusahaan akan disimpan oleh bagian HRD, jika sewaktu-waktu ada
+keperluan karyawan secara mendesak maka data dari pelamar yang memenuhi
+persyaratan akan dihubungi melalui telepon untuk kemudian diwawancarai.
+Metode ini digunakan oleh PT.”X” dikarenakan perusahaan tidak perlu
+mengeluarkan banyak waktu, biaya dan tenaga karena telah mempunyai data
+pelamar yang cukup banyak untuk melakukan proses perekrutan.
+3. Rekomendasi Pegawai
+Metode ini sangat baik dilakukan karena pelamar biasanya mengetahui
+adanya lowongan pekerjaan dari rekan-rekannya yang bekerja di PT. ”X”.
+Akan tetapi tidak semua rekomendasi tersebut dapat diterima karena tidak
+semuanya memenuhi standar kualifikasi yang telah ditetapkan.
+Metode ini digunakan oleh PT.”X” karena perusahaan tidak perlu
+mengeluarkan waktu, biaya dan tenaga sebab kualitas dan spesifikasinya
+dapat dipastikan oleh yang merekomendasikannya.
+Jadi, menurut penulis keuntungan yang diperoleh perusahaan dari
+saluran eksternal ini adalah diperolehnya ide-ide dan sistem kerja baru yang
+lebih baik dari pegawai baru. Dan kelemahannya adalah diperlukan waktu
+yang lama, biaya yang besar, serta waktu orientasi yang cukup lama.
+5.2.1 Hasil Rekrutmen
+Dalam proses perekrutan karyawan staff sumber yang digunakan
+adalah sumber perekrutan dari sumber internal, pada proses perekrutan dari
+sumber internal yaitu promosi dan transfer, hasil yang diperoleh dapat
+dikatakan baik karena waktu yang diperlukan sangat efektif dan efesien
+sedangkan untuk kualifikasi karyawan maka kualitas dari karyawan sangat
+sesuai dengan Job Description yang diharapkan oleh manajer departemen
+terkait.
+Untuk perekrutan dari sumber eksternal untuk karyawan staff berjalan
+kurang baik dikarenakan lamanya waktu yang dibutuhkan untuk memperoleh
+karyawan yang sesuai dengan kualifikasi yang dibutuhkan, sebab tidak adanya
+perencanaan waktu perekrutan yang dilaksanakan perusahaan dalam setiap
+tahunnya.
+Dalam proses perekrutan karyawan buruh metode yang digunakan
+adalah metode perekrutan eksternal, pada proses perekrutan dari sumber
+eksternal ini, hasil yang diperoleh agak kurang memuaskan dikarenakan
+proses perencanaan karyawan yang kurang baik maka karyawan buruh yang
+direkrut tidak sesuai dengan kualifikasi yang ditetapkan dan lamanya waktu
+yang diperlukan.
+5.2.2 Kendala Rekrutmen
+Dalam melakukan proses rekrutmen ini, PT.”X” menghadapi kendala
+yakni sulitnya mendapatkan karyawan yang tepat di waktu yang tepat. Hal ini
+menjadi kendala utama perusahaan karena di saat perusahaan membutuhkan
+karyawan baru dalam waktu singkat, sulit untuk segera dapat menemukan
+karyawan yang sesuai.
+Kendala tersebut dikarenakan tidak adanya perencanaan sumber daya
+manusia sehingga apabila diperlukan karyawan baru dalam waktu yang
+singkat, maka perusahaan akan sulit menemukan pelamar yang sesuai dengan
+kualifikasi yang diinginkan oleh manajer dan kepala bagian departemen
+terkait.
+5.3 Pelaksanaan Seleksi
+Langkah selanjutnya dalam proses pengadaaan karyawan yang
+dilakukan oleh PT.”X” setelah melaksanakan rekrutmen adalah seleksi.
+Dengan proses seleksi ini maka akan diperoleh tenaga kerja yang benar-benar
+berkualitas dan sesuai untuk mengisi lowongan jabatan yang tersedia. Oleh
+karenan itu, proses seleksi perlu dilakukan secermat mungkin agar tidak
+terjadi kesalahan dalam memilih karyawan yang akan ditempatkan di dalam
+perusahaan.
+Dalam proses seleksi tersebut PT.”X” memulai dengan memeriksa
+kualifikasi pelamar dan mencocokannya dengan kualifikasi yang telah
+ditetapkan. Kemudian setelah mendapatkan pelamar yang kualifikasinya
+sesuai dengan standar yang ditetapkan perusahaan, proses seleksi pun
+dilakukan. Dalam perusahaan proses penyeleksian karyawan pun dibagi
+menjadi 2, untuk karyawan staff dan karyawan buruh.
+Karyawan staff:
+· Seleksi lamaran, sesuai dengan spesifikasi pekerjaan yang
+dibutuhkan.
+Surat lamaran yang masuk harus melampirkan riwayat hidup atau CV
+dari pelamar , keaslian ijazah, transkip nilai, fotokopi KTP, surat-surat
+referensi kerja atau kursus yang pernah dilakukan, dan pas foto terbaru.
+Adapun kualifikasi yang digunakan oleh PT.”X”, yaitu :
+1. Umur
+Di PT.”X” umur harus mendapatkan perhatian karena akan mempengaruhi
+kondisi fisik, mental, kemampuan kerja, dan tanggung jawab seseorang.
+Karyawan yang lebih muda umumnya mempunyai fisik yang lebih kuat,
+dinamis, dan kreatif , tetapi cepat bosan, kurang bertanggung jawab,
+cenderung absensi, dan turn over-nya tinggi .Sedangkan karyawan yang lebih
+tua kondisi fisiknya kurang kuat, tetapi ulet dalam bekerja, tanggung
+jawabnya besar, serta absensi dan turn over-nya rendah .Kualifikasi umur
+yang sering dicari PT.”x” adalah antara umur 22 sampai 30 tahun .
+2. Pengetahuan dan keterampilan
+Pengetahuan dan keterampilan pelamar harus mendapat perhatian utama
+kualifikasi seleksi . Hal ini yang akan menentukan mampu tidaknya seseorang
+menyelesaikan pekerjaan yang ditugaskan kepadanya. Pengetahuan yang
+dibutuhkan di tiap departemen PT.”X” berlainan sesuai dengan jabatan yang
+dibutuhkan, tetapi pada umumnya karyawan harus memiliki pengetahuan
+tentang garis besar proses produksi garmen serta job-job yang ada di PT.”X”
+tersebut .
+3. Kesehatan fisik
+Kesehatan fisik sangat penting untuk dapat menduduki suatu jabatan , karena
+PT.”X” ini bergerak pada industri garment, maka salah satu persyaratan fisik
+yang harus dipenuhi adalah sehat jasmani dan tidak buta warna. Tidak
+mungkin seseorang dapat menyelesaikan tugas-tugasnya dengan baik jika
+sering sakit. Bahkan, perusahaan akan dibebani pengeluaran biaya perawatan
+yang cukup besar .
+4. Pendidikan
+Pendidikan merupakan suatu indikator yang mencerminkan kemampuan
+seseorang untuk dapat menyelesaikan suatu pekerjaan. Dengan latar belakang
+pendidikan pula seseorang dianggap akan mampu menduduki suatu jabatan
+tertentu. Pada PT.”X” , untuk semua jabatan pada bagian menengah ke atas,
+seseorang diharuskan memiliki pendidikan minimal S1 ke atas atau D3
+berpengalaman di bidangnya.
+5. Jenis kelamin
+Jenis kelamin diperhatikan berdasarkan sifat pekerjaan, waktu mengerjakan,
+dan peraturan perburuhan. Dikarenakan adanya perbedaan tugas dan
+tunjangan sesuai dengan peraturan yang dibuat oleh DEPNAKER.
+6. Pengalaman kerja
+Pengalaman kerja seseorang pelamar mendapatkan pertimbangan utama oleh
+PT.”X” yang dilihat dalam proses seleksi, minimal 2 tahun karena menurut
+perusahaan orang yang berpengalaman merupakan calon karyawan yang telah
+siap pakai.
+· Test teknis, berupa tes kemampuan dalam berhitung.
+Jika tahapan seleksi Administrasi lolos, maka dilanjutkan pada tahap
+pengisian biodata pelamar dan Tes teknis. Tes teknis diberikan terlebih dahulu
+kepada pelamar untuk mencari data calon karyawan yang disesuaikan dengan
+spesifikasi jabatan atau pekerjaan yang akan diisi. Tes teknis yang dilakukan
+di PT.”X” berupa academic test yang dapat dilakukan secara tertulis maupun
+lisan. Academic test digunakan untuk menguji pengetahuan, kemampuan, dan
+keterampilan yang dimiliki pelamar sesuai dengan kebutuhan jabatan yang
+akan diisinya.
+· Interview dengan HRD
+Setelah lolos melalui tes teknis yang berupa academic test, maka dilakukan
+proses wawancara dengan manajer HRD yang bertujuan mengetahui secara
+detail mengenai pelamar.
+· Interview dengan user, yaitu manajer departemen yang
+membutuhkan.
+Proses wawancara dengan user bertujuan untuk mengenal calon
+karyawan baru tersebut apakah sesuai dan cocok dengan jabatan yang akan
+dan jenis pekerjaan yang akan diisinya.
+Karyawan buruh:
+· Seleksi lamaran
+a. Umur
+Di PT.”X” umur harus mendapatkan perhatian karena akan
+mempengaruhi kondisi fisik, mental, kemampuan kerja,dan tanggung
+jawab seseorang. Karyawan yang lebih muda umumnya mempunyai
+fisik yang lebih kuat, dinamis, dan kreatif, sedangkan karyawan yang
+lebih tua kondisi fisiknya kurang, tetapi bekerja ulet, tanggung
+jawabnya besar, serta absensi dan turnover-nya rendah .Kualifikasi
+umur yang sering dicari PT.”X” adalah antara umur 22 sampai 30
+tahun .
+b. Kesehatan fisik
+Kesehatan fisik sangat penting untuk mendapatkan menduduki suatu
+jabatan terutama untuk karyawan buruh, karena PT.”X” ini bergerak
+pada industri garment, maka kondisi jasmani yang sehat sangat
+diperlukan dikarenakan jenis pekerjaan yang dilakukan oleh karywan
+buruh sangat bersifat fisik.
+· Test keterampilan yang sesuai dengan kebutuhan yang diperlukan
+oleh perusahaan.
+Test ketrampilan ini berupa test secara langsung apakah karyawan tersebuat
+mampu mengoperasikan alat yang akan digunakan oleh calon karyawan
+tersebut dalam melaksanakan pekerjaannya.
+· Interview dengan HRD
+Proses wawancara dengan maanjer HRD, bertujuan agar lebih negenal kan
+colan pelamar tersebut, apakah cocok untuk bekerja di perusahaan tersebut.
+· Interview dengan user, yaitu kepala bagian yang membutuhkan
+karyawan tersebut.
+Proses wawancara dengan user bertujuan untuk mengenal calon karyawan
+baru tersebut apakah sesuai dan cocok dengan jabatan yang akan dan jenis
+pekerjaan yang akan diisinya.
+Hal yang perlu diperhatikan saat interview antara lain:
+1. Melakukan perkenalan dengan calon karyawan untuk menggali data yang
+lebih banyak lagi mengenai latar balakang Pendidikan, pengalaman kerja
+sebelumnya, dan kursus atau pelatihan yang pernah diikuti.
+2. Memaparkan mengenai gaji yang akan diterima oleh calon karyawan
+berdasarkan interview guide atau interview check list yang ada.
+3. Manajer departemen terkait wajib memberikan informasi tentang pekerjaan
+yang akan dilakukan pada posisi tersebut.
+4. Manajer HRD dapat bernegosiasi tentang kompensasi yang akan diterima
+calon karyawan untuk posisi tersebut .
+Berdasarkan proses seleksi yang dilakukan oleh PT.”X” maka penulis
+dapat menyimpulkan seleksi yang dilakukan oleh PT.”X” adalah baik karena
+sesuai dengan teori yang ada dan dapat menghasilkan sejumlah karyawan
+yang tepat untuk menduduki jabatan atau pekerjaan yang tersedia.
+5.3.1 Hasil Seleksi
+Dari pelaksanaan seleksi yang dilakukan oleh PT.”X” untuk karyawan
+staff maupun karyawan buruh proses yang berjalan sangat baik sehingga
+hasilnya di dapat karyawan yang memiliki kualitas dan kualifikasi sesuai
+dengan standar yang ditetapkan dan juga memiliki kemampuan yang baik
+sesuai dengan hasil test dan wawancara.
+Dengan demikian dapat disimpulkan bahwa pelaksanaan seleksi yang
+dilakukan oleh PT.”X” dapat dikatakan baik karena PT.”X” memiliki lebih
+banyak kesempatan untuk memilih karyawan yang benar-benar tepat bagi
+PT.”X”.
+5.3.2 Tantangan Seleksi
+Seperti halnya dalam melaksanakan rekrutmen, pelaksanaan seleksi
+yang dilakukan PT.”X” juga menghadapi berbagai kendala atau tantangan
+untuk mendapatkan calon karyawan yang sesuai. Kendala yang dialami oleh
+PT.”X” dalam melaksanakan seleksi adalah hasil test yang kurang
+memuaskan
+Beberapa kemungkinan yang mengakibatkan hasil test kurang memuaskan :
+· Gugupnya pelamar ketika menjalani test
+Banyak terjadi ketika proses wawancara karena kepribadian tiap calon
+pelamar yang berbeda–beda sehingga pewawancara harus mengetahui
+karakter dan kepribadian tiap-tiap pelamar.
+· Pelamar tidak maksimal dalam menjalani test tersebut
+Hal ini bisa disebabkan oleh gugupnya pelamar, kondisi fisik yang kurang fit,
+dan kurangnya waktu yang diberikan.
+· Kemampuan pelamar tidak sesuai dengan yang ditulis di dalam berkas
+lamaran
+Dari keseluruhan proses pengadaan karyawan pada PT.”X” ini dapat
+disimpulkan bahwa secara umum telah berjalan dengan baik dan berhasil.
+Namun ada 1 kelemahan dalam proses pengadaan karyawan di PT.”X” yaitu
+tidak adanya perencanaan sumber daya manusia yang dibuat sebelum
+memulai proses pengadaan karyawan tersebut, sehingga PT.”X” sangat sulit
+untuk melakukan proses rekrutmen yang tepat dan sesuai dengan kualifikasi
+yang ditetapkan dalam waktu yang singkat. Secara garis besar proses
+perekrutan dan seleksi yang dilakukan oleh PT.”X” telah menghasilkan
+karyawan baru yang sesuai dengan kualifikasi yang telah ditentukan walaupun
+waktu yang diperlukan relatif lama dan karyawan baru tersebut dapat
+melaksanakan segala pekerjaan dan tugasnya dengan baik karena memiliki
+kemampuan atau keahlian untuk melaksanakan pekerjaan tersebut.
+Bab 6
+Kesimpulan dan Saran
+Berdasarkan prosedur yang diperoleh dari PT.”X” mengenai pelaksanaan
+perekrutan dan seleksi karyawan yang ada, maka penulis dapat memberikan beberapa
+kesimpulan dan saran yang berhubungan dengan hasil penelitian yang diperoleh.
+6.1 Kesimpulan
+Proses rekrutmen dan seleksi yang dilakukan oleh PT.”X” sudah baik namun
+ada beberapa kekurangan. Berikut ini penulis mengemukakan beberapa kesimpulan
+dari hasil penelitian mengenai pelaksanaan perekrutan dan seleksi karyawan di
+PT.”X” :
+ Sebelum PT.”X” mengajukan Perencanaan Tenaga Kerja, perusahaan sudah
+membuat atau memiliki Uraian Jabatan (Job Description) dari posisi yang
+kosong / siap diisi untuk mengetahui spesifikasi dan kualifikasi dari kandidat
+yang dicari kemudian diisikan ke dalam Form Permohonan Tenaga Kerja.
+ Form Permohonan Tenaga Kerja diajukan oleh manajer departemen dan kepala
+bagian departeman terkait kepada manajer HRD untuk dicarikan karyawan yang
+sesuai dengan kriteria-kriteria yang dibutuhkan, namun masih ada beberapa
+kekurangan dalam form permohonan tenaga kerja.
+ Pelaksanaan perekrutan karyawan di PT.”X” lebih mengutamakan sumber
+rekrut dari dalam ( internal ), atau data pelamar yang sudah ada sebelumnya
+untuk terlebih dahulu diproses, apabila sumber internal tidak memenuhi syarat
+yang dibutuhkan, maka perekrutan dilakukan melalui sumber luar ( eksternal ) .
+ Secara umum pelaksanaan perekrutan yang telah dilakukan selama ini oleh
+PT.”X” dapat dikatakan berhasil karena perusahaan dapat memperoleh calon
+karyawan yang dibutuhkan sesuai dengan kualifikasi yang ditentukan dan
+memiliki kualitas dan kualifikasi yang baik .
+ Prosedur seleksi yang dilakukan oleh PT.”X” dimulai dari tahap Seleksi
+Lamaran, Pengisian biodata dan Tes teknis, Tes keterampilan, Wawancara, dan
+yang terakhir adalah Keputusan penerimaan.
+ Pelaksanaan seleksi karyawan di PT.”X” berjalan dengan baik dan ada
+pembedaan seleksi antara karyawan staff dan karyawan buruh, selain itu dengan
+adanya pelamar yang banyak maka dalam menjalankan proses seleksi ini
+perusahaan akan dapat menemukan orang-orang yang terbaik untuk dipilih
+menjadi bagian dari perusahaan .
+6.2 Saran
+Setelah penulis mengemukakan mengenai pelaksanaan perekrutan dan seleksi
+karyawan di PT.”X”, maka berikut ini penulis akan memberikan beberapa saran yang
+diharapkan dapat berguna bagi perusahaan.
+ Pelaksanaan perekrutan dan seleksi karyawan di PT.”X” sudah terlaksana dengan
+baik, oleh karena itu sebaiknya perusahaan dapat mempertahankannya agar dapat
+mendapatkan calon karyawan baru yang benar-benar sesuai dengan kualifikasikualifikasi
+dan harapan perusahaan sehingga tujuan dan kemajuan perusahaan
+dapat terus dicapai .
+ Perusahaan sebaiknya melakukan perencanaan sumber daya manusia secara
+bertahap agar terhindar dari pengadaan karyawan yang dilakukan dengan tergesagesa
+sehingga mendapatkan tenaga kerja baru yang benar-benar sesuai dengan
+kualifikasi-kualifikasi yang dibutuhkan oleh perusahaan dan menunjang
+pencapaian tujuan perusahaan .
+ PT.”X” sebaiknya memiliki standar penilaian dalam melakukan wawancara
+sehingga penilaian yang diterapkan perusahaan dapat dipertanggungjawabkan
+keobjektivitasnya .
+ Form Permohonan Tenaga Kerja yang dimiliki oleh PT.”X” disarankan dibuat
+lebih detail, sehingga dapat membantu manajer HRD dalam merekrut karyawan
+sesuai dengan kebutuhan yang diinginkan oleh manajer departemen dan kepala
+bagian departemen terkait.
+ Perusahaan secara rutin mengadakan evaluasi kinerja para karyawan staff dan
+karyawan buruh.
+ Dalam proses perekrutan karyawan perusahaan sebaiknya memperhatikan sumber
+rekrutmen.
+Demikian kesimpulan dan saran-saran yang dapat penulis sampaikan
+berdasarkan hasil penelitian yang telah dilakukan di PT.”X” .
+Daftar Pustaka
+Filipo, Edwin B. (1984). Personnel Management, Sixth Edition. Singapore, Mc
+Graw-Hill, Inc.
+Gatewood, Robert D. & Field, Hubert S. (1994). Human Resources Selection, Third
+Edition. Orlando, Harcourt Brace & Company.
+Handoko, T. Hani (1989). Manajemen Personalia dan Sumber Daya Manusia, Edisi
+Kedua. Yogyakarta, BPFE.
+Hariandja, Drs.,M.Si. Marihot Tua Effendi. (2002). Manajemen Sumber Daya
+Manusia : Pengadaan, Pengembangan, Pengkompensasian dan Peningkatan
+Produktivitas Pegawai. Jakarta : PT. Gramedia Widiasarana Indonesia.
+Hasibuan, Drs. Malayu S. P. (1994). Manajemen SDM dan Kunci Keberhasilan.
+Edisi 6. Jakarta : CV. Haji Masagung.
+Kartono, Kartini. (1990). Pengantar Metodologi Riset Sosial. Bandung : Mandar
+Maju.
+Manulang, Drs. (1981). Manajemen Personalia. Jakarta : Ghalia Indonesia.
+Moekijat, Drs. (1999). Manajemen Tenaga Kerja dan Hubungan Kerja. Bandung :
+Pionir Jaya.
+Mukaram, Marwansyah. (2000). Manajemen Sumber Daya Manusia. Bandung :
+Pusat Penerbit Administrasi Niaga Politeknik Negeri Bandung.
+Nawawi, H. H. (1991). Metode Penelitian Banding Sosial. Jakarta, Gajah Mada
+Universitas Press.
+Nazir, Moh. Ph. D. (1988). Metode Penelitian. Edisi 3. Jakarta : Ghalia Indonesia.
+Schermerhorn, Jr. John. R. (1996). Management. Fifth Edition. New York : John
+Wiley & Sons. Inc.
+Stoner, James A. F, R. Edward Freeman., Daniel R. Gilbert J. R. (1996). Manajemen
+Jilid I. Edisi Bahasa Indonesia. Jakarta : PT. Prenhallindo.
+Werther, William B. & Davis, Keith. (1989). Human Resources and Personnel
+Management, Third Edition. Singapore, Mc Graw – Hill International.
+
+
+
+
+
+

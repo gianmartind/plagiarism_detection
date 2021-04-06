@@ -1,0 +1,2615 @@
+BAB I
+PENDAHULUAN
+1.1 LATAR BELAKANG MASALAH
+Di antara beragamnya alat transportasi yang ada, kendaraan roda dua atau
+sepeda motor, merupakan salah satu diantaranya, di mana sepeda motor merupakan
+salah satu di antara semua sarana pendukung kehidupan kita sehari-hari, khususnya
+di wilayah Asia. Masyarakat kita pada saat ini membutuhkan sarana alat transportasi
+yang terjangkau dari segi harganya, mempunyai tingkat mobilitas dan daya jelajah
+yang tinggi, dan mampu menjadi sarana untuk dapat mendukung kegiatan-kegiatan
+produksi seperti ojek atau usaha lainnya. Indonesia saat ini menduduki peringkat
+ketiga sebagai negara pembeli sepeda motor di dunia sebesar 4,6 juta unit, India di
+urutan kedua sebanyak 5 juta unit, dan Cina di urutan pertama sebanyak 12,5 juta
+unit. Motor dipilih bukan hanya karena irit bahan bakar, tetapi juga sebagai alternatif
+kendaraan bermobil, dengan sepeda motor mobilitas masyarakat pun menjadi tinggi.
+Berdasarkan data dari AISI (Asosiasi Industri Sepeda motor Indonesia), dari semua
+jenis sepeda motor yang ada dan di jual di Indonesia, motor bebek (mop-ad)
+merupakan yang paling dominan; pangsa pasarnya pun mencapai 90 persen,
+sementara sepeda motor sport kurang dari 10 persen.
+Tabel 1.1
+Penjualan sepeda motor di Indonesia1 periode 2002-2007 (sampai Bulan
+Maret)
+T a h u n P e n j u a l a n
+2002 2.317.991 unit motor
+2003 2.823.702 unit motor
+2004 3.900.664 unit motor
+2005 4.647.952 unit motor
+2006 4.470.722 unit motor
+2007 (Maret) 1.051.160 unit motor
+Sumber: www.republika.co.id
+Berdasarkan tabel 1.2 di atas penjualan sepeda motor di Indonesia mengalami
+peningkatan yang sangat positif dari tahun ke tahunnya, kecuali pada tahun 2006
+lalu, penurunan ini di sebabkan oleh kenaikan harga bahan bakar murni. Peningkatan
+yang signifikan tersebut di sebabkan oleh semakin tingginya kebutuhan orang akan
+sepeda motor dan kemudahan-kemudahan yang di berikan oleh perusahaan penjual
+sepeda motor untuk memperoleh sepeda motor. Berdasarkan perkiraan AISI, pada
+tahun ini penjualan sepeda motor di Indonesia akan mencapai angka 5 juta unit
+motor. Dengan kondisi persaingan yang sangat ketat, tentunya hal ini akan
+menimbulkan peluang-peluang dan juga persaingan yang sangat ketat pada industri
+sepeda motor di negara kita, khususnya terhadap merek-merek sepeda motor yang
+ada di negara kita.
+Berikut merupakan data yang di dapat mengenai data penjualan motor bebek
+dan skuter matik Honda dan Yamaha2 periode 2005-2007
+1 www.republika.co.id
+Tabel 1.2
+Data penjualan motor bebek 100-110cc dan skuter transmisi otomatis (sampai bulan
+Maret)
+Tipe kendaraan dan merek 2005 2006 2007 (Maret)
+Bebek
+berkapasitas
+100-110 cc
+Honda
+(Supra fit dan
+Suprafit S)
+1.220.523 unit 1.575.041 unit 211.132 unit
+Yamaha
+(New Vega
+dan Jupiter Z)
+787.583 unit 1.037.900 unit 228.436 unit
+Skutik
+Honda
+(Vario) 0 unit 74.181 unit 79.869 unit
+Yamaha
+(Mio) 154.369 unit 263.113 unit 104.082 unit
+Total
+penjualan
+Honda 2.648.888 unit 2.340.661 unit 452.801 unit
+Yamaha 1.236.114 unit 1.481.562 unit 435.554 unit
+Sumber: www.bisnis.com
+www.AISI.com
+Berdasarkan tabel data di atas, pada tahun 2005 total penjualan yang di lakukan
+oleh Honda mencapai 2.648.888 unit kendaraan bermotor, sedangkan Yamaha
+melakukan penjualan sebesar 1.236.114 unit kendaraan bermotor, pada tahun 2006
+total penjualan yang di lakukan oleh Honda sebesar 2.340.661 unit, turun sebesar
+11.6% dari periode tahun kemarin, sedangkan Yamaha menjual sebanyak 1.481.562
+unit atau naik sebesar 19.8% dari tahun kemarin. Secara umum penjualan sepeda
+motor di Indonesia mengalami penurunan sebesar 12.16% dari tahun 2005 kemarin,
+hal ini di sebabkan oleh naiknya harga bahan bakar minyak bumi di negara kita
+2 www.bisnis.com
+sebesar 12% pada periode oktober 2005 serta belum pulihnya perekonomian di
+negara kita. Pada tahun 2007 peta persaingan penjualan sepeda motor di negara kita,
+mengalami pergolakan. Hal ini di sebabkan karena setelah 3o tahun, untuk pertama
+kalinya di dalam sejarah penjualan sepeda motor di negara kita, akhirnya Yamaha,
+dapat mengunguli Honda. Tercatat Honda hanya menjual sebanyak 211.132 unit
+motor bebek kelas 100-110cc, sedangkan Yamaha berhasil menjual sebanyak
+228.436 unit kendaraan bermotor. Pangsa pasar terbesar sepeda motor yang dijual di
+Indonesia ialah jenis bebek, hal ini di karenakan selain lebih irit, kapasitas angkut
+penumpang dan barang juga lebih banyak. Jenis skutik, termasuk jenis yang
+fenomenal dan hingga saat ini semakin berkembang dan digemari oleh pasar. hal ini
+di karenakan pengendara ingin mengendarai dengan mudah tanpa harus
+mengoperasikan gigi, walaupun pada kenyataannya kurang nyaman untuk jarak jauh
+atau melintasi medan luar kota yang jalannya tidak rata. Khusus di Kota Bandung,
+pertumbuhan sepeda motor jenis bebek (mop ad) mencapai 15-20 persen per
+tahunnya.
+1.2 IDENTIFIKASI MASALAH
+Perusahaan pada masa ini menghadapi persaingan yang sangat kompetitif,
+baik dari segi harga, pemasaran, promosi, dan lain-lain. Untuk itu perusahaan di
+tuntut untuk mempunyai nilai-nilai yang harus di ciptakan dan di implementasikan
+dengan tepat, sehingga dengan demikian masyarakat dapat menilai, memutuskan dan
+hingga akhirnya membeli dan mempercayai nilai-nilai yang di ciptakan oleh
+perusahaan tersebut, baik terhadap produk-produk yang di hasilkannya maupun juga
+terhadap merek perusahaan itu sendiri. Perusahaan pada saat ini tentunya tidak hanya
+sekedar di tuntut untuk dapat memasarkan produk-produk yang di hasilkannya
+dengan harga yang tepat dan sesuai, tetapi perusahaan juga di tuntut untuk mampu
+mengkomunikasikan dan mempengaruhi produk-produknya, sehingga masyarakat
+luas sebagai pasarnya dapat mengetahui dan menyadari tentang merek perusahaan
+beserta produk-produk yang di tawarkannya, hingga akhirnya tertarik untuk
+membeli. Berdasarkan data-data di atas peta persaingan industri sepeda motor di
+negara kita saat ini masih di pimpin oleh Honda, tetapi pemetaan market share dari
+tahun ke tahun pun sudah semakin merata3, hal ini tentunya di sebabkan oleh
+beberapa hal seperti:
+1. Strategi promosi yang tepat guna
+2. Kemudahan untuk mendapatkan kendaraan, seperti uang muka dan
+cicilan yang rendah.
+3. Persaingan harga penjualan yang sangat kompetitif, dan
+4. Lembaga-lembaga pembiayaan yang turut mendorong dan
+mendukung penjualan
+Strategi promosi yang di terapkan oleh industri sepeda motor sangat unik,
+selain alat-alat promosi standar yang di gunakan, promosi ini juga berkaitan erat
+hubungannya dengan kegiatan olah raga. Kegiatan olah raga yang di maksudkan
+ialah balapan motor atau yang lebih di kenal dengan road race, hal ini di karenakan
+olah raga ini mencakup manusia sebagai pengemudi, yang di tuntut membutuhkan
+3 Otomotif 24/XVI/ hal 4
+kemampuan baik secara teknis dan fisik individual, serta motor sebagai medianya, di
+mana media yang di gunakan merupakan front liners dari produk-produk yang di jual
+di pasaran, dan keduanya harus menjadi satu kesatuan yang tidak terpisahkan untuk
+mencapai tujuan yang di inginkannya.
+Sebagaimana kita ketahui bahwa anak muda khususnya anak-anak SMU dan
+anak-anak ABG, memiliki kebutuhan akan sarana hiburan yang tinggi, kebutuhan
+inilah yang berusaha di manfaatkan oleh perusahaan untuk dapat menerapkan strategi
+promosi mereka, khususnya yang berkaitan dengan anak muda sebagai pelanggan
+dan calon pelanggan mereka. Walaupun strategi promosi menggunakan biaya yang
+sangat luar biasa per kegiatan-kegiatan yang di adakan, tetapi hal ini terus-menerus
+di lakukan untuk menjaga dan memelihara market yang sudah ada, serta untuk
+menjaring konsumen-konsumen baru. Yamaha menyadari bahwa hal ini merupakan
+salah satu celah pasar yang harus di manfaatkan secara maksimal, di harapkan
+dengan keberhasilan team-team Yamaha di medan road race baik nasional maupun
+daerah, hal ini dapat mendorong untuk terjadinya pergeseran brand awareness dari
+pasar yang merupakan target market Yamaha, dan dengan sendirinya hal ini tentunya
+dapat menimbulkan ketertarikan emosional, dari para calon konsumen yang hadir di
+dalam kegiatan-kegiatan yang di selenggarakan.
+Strategi yang diterapkan dalam mengelola strategi promosi4 yang di lakukan
+oleh PT. Yamaha Motor Indonesia, ialah
+4 www.YamahaIndonesia .co.id.
+• kegiatan Yamaha One Make Race, kegiatan ini merupakan kegiatan
+balapan legal di mana motor-motor yang boleh mengikuti
+perlombaan hanyalah motor-motor produksi Yamaha saja, khususnya
+motor-motor kelas bebek (mop-ad), dan kegiatan ini juga di tambah
+dengan panggung hiburan lainnya.
+• Yamaha juga mengundang pembalap-pembalap Yamaha di
+MOTOGP ataupun di WSBK untuk memberikan coaching clinic
+kepada para pembalap-pembalap lokal, dengan tujuan untuk
+meningkatkan kualitas sumber daya manusia kita.
+• Salah satu program Yamaha ialah “from zero to hero” di mana
+tujuannya ialah untuk mempersiapkan pembalap lokal untuk menjadi
+salah satu pembalap di MotoGP. PT. Yamaha Motor Kencana
+Indonesia bekerja sama dengan Yamaha Jepang serta didukung oleh
+Pertamina dan produsen ban Dunlop, mendukung pembalap lokal
+untuk menjadi pembalap internasional yang dapat mengharumkan
+nama Indonesia di tingkat internasional. Kegiatan ini berlanjut
+menjadi Doni Tata to World GP.
+• Yamaha juga mensponsori bengkel-bengkel yang menggunakan
+motor Yamaha di dalam mengikuti perlombaan-perlombaan balap,
+seperti Yamaha TDR Pertamina Yonk Jaya.
+• Yamaha mensponsori acara MOTOGP di TV7, dan juga
+menyediakan acara nonton bareng MOTOGP, yang di putar dari kota
+ke kota di seluruh Indonesia.
+• Yamaha mengakomodasi dan mensponsori klub-klub motor Yamaha.
+• Yamaha menjalin kerjasama dengan pemerintah, dengan cara
+menyediakan unit-unit kendaraan bermotor bagi POLRI dan ABRI
+(YAMAHA SECA 1300cc)
+• Yamaha melakukan program Yamaha Safety Riding Science ke
+sekolah-sekolah dan tempat-tempat umum, dengan tujuan untuk
+meningkatkan kemampuan berkendaraan yang baik bagi para
+pengendara, serta mempunyai misi untuk membangun kesadaran bagi
+generasi muda, agar menggunakan kendaraan dengan cara yang baik,
+sopan dan santun di jalanan.
+• Untuk mendukung program Yamaha Safety Riding Science (YSRS)
+Yamaha mengundang Miss Universe 2006 Zuleyka Rivera dan Puteri
+Indonesia 2006 Agni Pratistha, dan mengadakan seminar-seminar
+seperti seminar anti Narkoba Dan Yamaha Safety Riding Science di
+Bali, bekerja sama dengan GRANAT dan Polda Bali.
+• Yamaha bekerja sama dengan KH. Abdullah Gymnastiar atau yang
+lebih akrab di panggil dengan Aa Gym untuk melakukan road show
+siraman rohani yang bertema dasar SENTUH HATI DENGAN
+CINTA. Dengan tujuan untuk memberikan pencerahan bagi
+masyarakat kita, dengan harapan bisa membantu memberikan
+keseimbangan kebutuhan jasmani dan kebutuhan rohani
+• Yamaha juga mengunakan aktris dan aktor lokal sebagai duta besar
+Yamaha seperti H. Dedy Mizwar, Didi Petet, Ida Kusuma, Conny C.,
+Komeng, Thessa Kaunang, DJ Tata, Bunga Citra Lestari, group
+lawak CAGUR, DEWA19, dll
+• Yamaha mengadakan acara Automatic Modification Contest Yamaha
+cuzztomatic, di mana Yamaha mendorong para pemilik motor
+Yamaha khususnya motor Mio untuk memodifikasi kendaraannya, di
+acara cuzztomatic ini.
+Strategi promosi yang di terapkan oleh Honda tidak seperti yang di terapkan
+oleh Yamaha, Honda lebih memfokuskan pada pendekatan-pendekatan yang bersifat
+konvensional. Penetrasi yang di lakukan terhadap pasar tidak di lakukan segencar
+Yamaha, hal ini di karenakan Honda telah memegang lebih dari 50 persen dari
+pangsa pasar yang ada.
+Berdasarkan data yang di peroleh selama dua periode terakhir, terlihat
+terjadinya pergeseran di dalam peta persaingan penjualan kendaraan bermotor roda
+dua khususnya di Indonesia, oleh karena itu peneliti merumuskan masalah yaitu:
+Bagaimana sikap pelajar SMU di Bandung, atas pelaksanaan kebijakan
+bauran promosi motor Yamaha yang di lakukan oleh PT. Yamaha Motor
+Indonesia?
+Dengan demikian judul penelitian ini ialah:
+“Sikap pelajar SMU di Bandung, atas pelaksanaan kebijakan bauran promosi motor
+Yamaha yang di lakukan oleh PT. Yamaha Motor Indonesia”
+1.3 Tujuan Penelitian
+Peneliti ingin mengetahui:
+Bagaimana sikap pelajar SMU di Bandung, atas pelaksanaan kebijakan bauran
+promosi motor Yamaha yang di lakukan oleh PT. Yamaha Motor Indonesia?
+1.3.1 KEGUNAAN PENELITIAN
+• Bagi PT. Yamaha Motor Indonesia:
+Memberikan saran atau pendapat, khususnya kepada bagian promosi PT.
+Yamaha Motor Indonesia daerah Jawa Barat, Bandung khususnya, sebagai
+bahan referensi untuk meningkatkan kinerja dan atau menemukan rumusan
+yang lebih tepat lagi dalam menerapkan strategi promosi yang tepat guna,
+terutama hubungannya dengan sikap konsumen.
+• Bagi Peneliti
+Selain untuk menambah pengetahuan, peneliti ingin membandingkan apa
+yang di dapat peneliti selama menimba ilmu di FISIP (ANI) UNPAR dengan
+kenyataan yang sebenarnya yang ada di lapangan.
+1.4 KERANGKA TEORITIS
+1.4.1 Bauran Promosi (Promotion mix)
+Menurut Philip Kotler 5
+“Promosi adalah bagian dari komunikasi yang terdiri dari pesan-pesan
+perusahaan yang di desain untuk menstimulasi terjadinya kesadaran
+(awareness), ketertarikan (interest), dan berakhir dengan tindakan pembelian
+(purchased), yang di lakukan oleh pelanggan terhadap suatu produk ataupun
+jasa perusahaan. Perusahaan biasanya menggunakan iklan (advertising),
+promosi penjualan (sales promotion), pengerahan tenaga-tenaga penjualan
+(personal selling), dan hubungan masyarakat (public relation) sebagai alat
+penyampaian pesan-pesan tersebut dengan tujuan untuk dapat menarik
+perhatian dan minat masyarakat.”
+Menurut Richard E.Stanley 6
+“Promotion mix is designed to inform and persuade customers and potential
+customers of the merits of the product or service. It can place primary stress
+on any one of promotion tools and relegate the others to minor roles.“ (bauran
+promosi di desain untuk menginfomasikan dan membujuk konsumen, dan
+konsumen potensial terhadap kebaikan atau keunggulan dari produk ataupun
+jasa yang di tawarkan. Hal tersebut dapat memberi tekanan pada salah satu
+dari alat-alat promosi tersebut dan atau di pindahkan kepada yang lainnya
+untuk hal-hal yang lebih meringankan.)
+Bauran Promosi terdiri dari pesan-pesan perusahaan yang di desain untuk
+menginfomasikan dan membujuk konsumen, dan konsumen potensial terhadap
+kebaikan atau keunggulan dari produk ataupun jasa yang di tawarkan, dan untuk
+menstimulasi terjadinya kesadaran, ketertarikan, dan berakhir dengan tindakan
+pembelian, yang di lakukan oleh pelanggan terhadap suatu produk ataupun jasa
+perusahaan, dan digunakan untuk mencapai tujuan marketing serta untuk
+menginformasikan dan membujuk konsumen agar melakukan pembelian. Promosi
+merupakan suatu media penghubung dari produsen ke konsumen agar mau
+5 Philip Kotler , Marketing insight from A to Z 80 Concepts Every Manager Needs To Know,
+Penerbit Erlangga, 2003, pg.22
+6 Richard E.Stanley, Promotion: Advertising, Publicity, Personal Selling, Sales Promotion, 2nd edition,
+Englewood Cliffs, New Jersey:Prentice-Hall, Inc.,1982,pg.10
+melak
+dari ik
+masya
+1.4.1.1
+Unsur
+a.
+b.
+c.
+d.
+7 Philip
+2000, p
+kukan pembe
+klan, promo
+arakat. Eleme
+Adverti
+Sales P
+Direct
+1 Unsur-uns
+r-unsur baur
+Periklanan
+barang atau
+Promosi P
+berbagai i
+merangsan
+Hubungan
+mempromo
+individualn
+Penjualan
+atau lebih
+pesanan.
+p Kotler , Mar
+pg.550
+elian terhad
+osi penjualan
+en-elemen d
+ising
+Promotion
+Marketing
+sur bauran
+ran promosi
+n adalah se
+u jasa yang d
+Penjualan a
+insentif, um
+ng pembelian
+n masyarak
+osikan dan
+nya
+n secara pr
+untuk melak
+rketing manag
+ap produk y
+n, pengeraha
+dari bauran p
+Personal
+Public R
+promosi
+yang dikemu
+emua bentuk
+dibayar oleh
+adalah bentu
+mumnya berj
+n produk ata
+kat dan Pu
+n/atau meli
+ibadi adalah
+kukan presen
+gement, Mille
+yang ditawa
+an tenaga-te
+promosi terdi
+Selling
+elation
+ukakan oleh
+k penyajian
+h suatu spons
+uk persuasif
+jangka pend
+aupun jasa ya
+ublisitas ad
+indungi cit
+h interaksi
+ntasi, menja
+ennium edition
+arkan. Alat-a
+enaga penjua
+iri dari:
+h Philip Kotle
+nonpersona
+sor tertentu.
+langsung, m
+dek, yang d
+ang di tawark
+dalah berbag
+tra perusah
+lansung den
+awab pertany
+n, New Jersey
+alat promos
+alan, dan hu
+er7 ialah:
+al dan prom
+melalui peng
+dapat di atu
+kan.
+gai program
+haan atau
+ngan calon p
+yaan, dan m
+y : Prentice H
+si terdiri
+ubungan
+mosi ide,
+ggunaan
+ur untuk
+m untuk
+produk
+pembeli
+enerima
+Hall, Inc.,
+e. Pemasaran Langsung adalah penggunaan surat, telepon, faksimili, e-mail
+dan alat penghubung nonpersonal lain untuk berkomunikasi secara langsung
+dengan atau mendapat tanggapan langsung dari pelanggan tertentu dan calon
+pelanggan
+1.4.1.2 Tujuan dari penerapan bauran promosi
+Tujuan8 dari pengaplikasiannya bauran promosi, harus mencakup:
+a. Menetapkan target audiencenya
+b. Menetapkan tujuan jangka pendek dan tujuan jangka panjangnya
+c. Menetapkan pesan yang ingin di sampaikan
+d. Menetapkan saluran komunikasi yang akan di gunakan untuk menyampaikan
+pesan yang ingin di sampaikan
+e. Menetapkan dana yang akan di gunakan
+f. Menetapkan bauran promosi
+g. Menetapkan pengintegrasian dengan elemen-elemen bauran-bauran
+pemasaran lainnya
+h. Menetapkan hasil yang di inginkan.
+8 Gilligan Collin Richard M. S. Wilson, Strategic Marketing Management Planning, Implementation
+and Control, Butterworth Heinemann., 1997, pg.462
+1.4.2 ADVERTISING (PERIKLANAN)
+Menurut Philip Kotler9
+“Advertising is any paid form of nonpersonal presentation and promotion of
+ideas, goods, or service by an identified sponsor. “(periklanan adalah segala
+bentuk presentasi non-personal yang mempromosikan ide-ide, barang-barang
+jadi, ataupun jasa yang di biayai oleh pihak sponsor tertentu)
+Menurut William J.Stanton10
+“Advertising consists of all activities involved in presenting to a group, a
+non-personal, oral or visual openly sponsor-identified message regarding a
+product, service or idea. “(periklanan mencakup semua aktifitas yang terlibat
+di dalam memperkenalkan sekelompok grup, nonpersonal, lisan atau secara
+visual pesan yang terbuka terhadap sponsor yang teridentifikasi terhadap
+sebuah produk, jasa atau ide).”
+Periklanan adalah suatu kegiatan komunikasi non-personal untuk memberi
+informasi atau pesan pada konsumen mengenai gagasan, ide barang atau jasa untuk
+jangka waktu tertentu. Maksud non-personal karena penyampaian informasi tidak
+secara langsung (membutuhkan perantara) yang bentuknya bisa sangat beragam, baik
+secara visual maupun lisan. periklanan umumnya dibiayai oleh sponsor yang dikenal.
+Hal utama yang perlu di perhatikan di dalam melaksanakan aktivitas periklanan:
+1. Penetapan sasaran atau tujuan periklanan. Kesemuanya mendefinisikan tugas
+yang harus dilakukan periklanan dalam program pemasaran secara keseluruhan.
+2. Keputusan memilih pesan periklanan11 harus disampaikan dengan strategi yang
+kreatif, tepercaya dan dapat dibuktikan.
+9 Ibid., pg. 578
+10 William J.Stanton and Charles Futrell , Fundamentals of Marketing, 8th Edition, (Kogakusha :
+McGraw Hill, International Book Company, 1989),pg462
+11 Kotler,2000, op.cit., pg.580
+1.4.2.1 Tujuan periklanan
+Menurut Kotler tujuan periklanan12 dapat diklasifikasikan menjadi :
+a. Periklanan Informatif
+memberitahukan kegunaan serta manfaat produk yang ditawarkan kepada
+konsumen. Dilakukan secara besar-besaran dalam tahap awal suatu jenis produk,
+tujuannya adalah untuk membentuk permintaan pertama.
+b. Periklanan Persuasif
+Membangun permintaan selektif dan berusaha untuk meyakinkan konsumen
+bahwa produk perusahaan jauh lebih unggul dibandingkan dengan pesaingnya.
+c. Iklan Pengingat
+bersifat mengingatkan, untuk menjaga konsumen agar selalu ingat terhadap
+produk yang ditawarkan perusahaan.
+Menurut O‘Guinn, Allen, Semenik tujuan periklanan13 yaitu:
+a. Untuk meningkatkan kesadaran dan keingintahuan konsumen
+b. Untuk mengubah perilaku konsumen terhadap produk.
+c. Untuk mendorong terjadinya penjualan.
+d. Untuk mendorong konsumen untuk mencoba produk ataupun jasa
+yang baru.
+e. Untuk meningkatkan loyalitas konsumen
+f. Untuk menarik konsumen pesaing
+12 Ibid., pg.578
+13 O’Guinn, Allen, Semenik, Advertising and Integrated Brand Promotion, 3rd Edition, (South-
+Western, 2003), pg281
+g. Untuk meningkatkan penjualan.
+Dalam mempersiapkan suatu kampanye iklan, pengiklan biasanya menyiapkan
+suatu pernyataan strategi berita yang menjelaskan mengenai:
+• Tujuan
+• Isi
+• bujukan, dan
+• nada dari iklan yang diinginkan.
+Orang-orang yang kreatif harus menemukan gaya, nada, kata-kata dan format
+untuk melaksanakan pesan. Semua elemen ini harus menyampaikan suatu citra dan
+pesan yang terpadu.
+Hal ini akan menentukan keberhasilan program periklanan perusahaan, terutama
+pada produk yang serupa dengan pesaingnya. Periklanan harus dapat disampaikan
+dengan baik, sehingga mampu menarik minat dan perhatian dari konsumen
+sasarannya.
+1.4.2.2 Pesan
+Pesan14 apapun dapat disajikan dalam salah satu dari berbagai kombinasi yang
+ada:
+14 Kotler , 2000, op.cit., pg.582-585
+1. Bentuk atau ragam
+Semua pesan dapat di tampilkan dalam berbagai macam bentuk yang kreatif.
+contohnya:
+• Fantasi = bentuk iklan ini umumnya mengacu dalam bentuk khayalan,
+proses penggambaran objek atau peristiwa yang sering kali di lebihlebihkan
+pada penampilannya.
+• Musikal = bentuk iklan ini mengacu pada jingle, musik atau penampilan
+langsung dari sebuah band yang menjadi duta besar perwakilan dari
+perusahaan terhadap produk atau jasa yang di tawarkan oleh perusahaan.
+• Kesaksian = bentuk iklan ini mengacu pada kesaksian hidup dari orangorang
+yang sudah mencoba, menggunakan atau mengalami sendiri, bisa
+tanpa di sadari oleh orang tersebut, atau juga bisa dalam bentuk yang
+sudah di atur oleh naskah.
+• Edukasi = bentuk iklan ini mengandung unsur pembelajaran dan
+berfungsi untuk mengajarkan atau merubah atau mendorong.
+2. Kata-kata
+Kata-kata yang mudah dan diingat serta menarik perhatian harus ditemukan.
+Kreatifitas khususnya dibutuhkan untuk tajuk berita utama. Jenis dasar tajuk
+berita utama :
+.. Berita = bentuk berita ini dapat mencakup hasil dari penelitian terakhir,
+keberhasilan pencapaian, penemuan teknologi terbaru, kegiatan-kegiatan yang
+di lakukan oleh perusahaan.
+.. Pertanyaan = bentuk dari pertanyaan umumnya bersifat mengundang keingin
+tahuan seseorang, bersifat provokatif, sehingga mendorong orang tersebut
+untuk membacanya.
+.. Narasi = bentuk dari narasi ini ialah berbentuk cerita yang menunjukkan
+kebaikkan, keunggulan dari produk atau jasa yang di wakilkan serta
+menunjukkan kekurangan-kekurangan dari produk pesaing sejenis.
+3. Format.
+Elemen-elemennya, antara lain: ukuran, warna dan ilustrasi iklan membuat
+perbedaan terhadap dampak iklan maupun biayanya.
+• Ukuran iklan harus pula dipertimbangkan. Kadang sebuah iklan
+berukuran lebih besar dan bisa dipasang dimana-mana secara keseluruhan
+biayanya lebih rendah dibandingkan dengan membuat yang lebih kecil
+untuk media yang kurang penting dan murah, iklan berukuran besar
+menarik lebih banyak perhatian.
+• Warna: Penggunaan warna pada iklan koran dan majalah hampir selalu
+mengundang pembaca, demikian pula dengan ukuran. Warna memang
+bersifat subjektif, tapi juga merupakan seni dalam promosi. Warna yang
+dipilih harus menunjang daya jual sekaligus keindahan. Warna mencolok
+yang dipergunakan dalam sebuah iklan akan membuatnya lebih menarik
+untuk dilihat.
+• ilustrasi iklan. Sedikit penataan ulang atas elemen-elemen mekanis
+dalam iklan dapat meningkatkan kemampuannya untuk menarik
+perhatian.
+Sejumlah riset mengenai iklan cetakan melaporkan bahwa gambar, tajuk
+berita utama, kata-kata itu penting sesuai urutannya. Pertama, pembaca akan
+memperhatikan gambar, dan gambar harus cukup kuat untuk menarik perhatian.
+Kemudian, tajuk berita utama harus mendorong orang untuk membaca kata-katanya
+dan kata-kata itu sendiri harus disusun dengan baik.
+1.4.2.3 SIFAT KHUSUS
+Sifat khusus yang membedakan periklanan dari media promosi lainnya15
+1. Public Presentation (Presentasi Umum)
+Periklanan merupakan cara komunikasi yang sangat umum. Karena sifatnya
+yang umum itu, periklanan memberi semacam keabsahan produk dan penawaran
+yang terstandarisasi. Tema cara penyajiannya harus mempunyai ciri yang umum
+sehingga dapat dimengerti oleh publik (dalam hal ini adalah konsumen) secara
+keseluruhan/umum.
+2. Pervasiveness (Tersebar luas)
+Periklanan adalah medium berdaya sebar luas-daya tembus yang sangat kuat,
+yang memungkinkan penjual mengulang satu pesan berkali-kali. Iklan juga
+memungkinkan pembeli menerima dan membandingkan pesan dari berbagai
+pesaing. Periklanan berskala besar oleh seorang penjual menunjukkan sesuatu
+yang positif tentang ukuran, kekuatan, dan keberhasilan penjual.
+15 Kotler, op.cit., pg.564
+3. Amplified Expressiveness (Ekspresi yang lebih kuat)
+Periklanan memberikan kesempatan untuk mendramatisasi perusahaan dan
+produknya melalui penggunaan seni penyusunan huruf (cetakan), suara dan
+warna yang penuh seni. Namun, kadang-kadang kemampuan berekspresi yang
+terlalu berhasil dari iklan dapat memperlemah pesan atau mengalihkan maksud
+pesan yang sesungguhnya.
+4. Impersonality (Tidak bersifat pribadi)
+Periklanan tidak memiliki kemampuan memaksa seperti wiraniaga perusahaan.
+Audiens tidak merasa wajib memperhatikan atau menanggapi. Karena sifat iklan
+yang tidak personal, maka iklan tidak dapat menjamin terjadinya transaksi
+penjualan. Iklan bersifat monolog (satu arah- tidak ada dialog dengan audiens).
+1.4.3 SALES PROMOTION (PROMOSI PENJUALAN)
+Menurut Philip Kotler 16
+“Sales promotion consist of a diverse collection of incentive tools, mostly
+short term, designed to stimulate quicker or greater purchase of particular
+products or services by consumers or the trade.”(bentuk persuasif langsung
+melalui penggunaan berbagai insentif, umumnya berjangka pendek, yang
+dapat di atur untuk merangsang pembelian produk dengan segera atau untuk
+meningkatkan jumlah barang yang dapat di beli oleh konsumen ataupun
+pedagang)
+Menurut Richard E.Stanley 17
+“ Sales promotion is those marketing activities other than personal selling,
+advertising and publicity, that stimulate consumer purchasing and dealer
+effectiviness, such as displays, shows and exhibitions, demontrations and
+various, non recurrent selling efforts not in the ordinary routine.”(promosi
+16 Kotler,2000, op.cit., pg.597
+17.Stanley, 1982, op.cit., pg.302
+penjualan adalah aktifitas pemasaran yang berbeda dengan penjualan
+personal, periklanan dan publisitas, yang dapat menstimulasi konsumen untuk
+membeli dan memberikan keefektifan, seperti pajangan, pertujukkan dan
+eksebisi, demonstrasi dan berbagai bentuk lainnya untuk mendorong
+terjadinya penjualan.)
+Promosi penjualan terdiri dari kumpulan alat-alat insentif, berbeda satu dengan
+yang lain, dirancang untuk mendukung aktifitas promosi dan bersifat tidak rutin dan
+berjangka waktu pendek, diarahkan untuk mendorong terjadinya pembelian yang
+lebih cepat atau lebih besar dari suatu produk /jasa tertentu oleh konsumen.
+1.4.3.1 KARAKTERISTIK PROMOSI PENJUALAN
+Karakteristik Promosi Penjualan18, antara lain:
+1. Komunikasi: Promosi penjualan menarik perhatian dan biasanya memberikan
+informasi yang dapat mengarahkan konsumen kepada produk
+2. Insentif: Promosi penjualan menggabungkan sejumlah kebebasan, dorongan, atau
+kontribusi yang memberi nilai bagi konsumen
+3. Ajakan: Promosi penjualan merupakan ajakan untuk melakukan transaksi
+pembelian sekarang
+1.4.3.2 TUJUAN PROMOSI PENJUALAN
+Tujuan Promosi Penjualan19 yang ditujukan kepada konsumen, menurut Kotler :
+1. Promosi penjualan dapat mendorong konsumen untuk mencoba produk baru
+18 Kotler, 2000,op.cit., pg.564
+19 Kotler,2000, op.cit., pg 598-599
+2. Promosi penjualan bertujuan untuk menghargai pelanggan yang setia
+3. Promosi penjualan bertujuan untuk menaikkan tingkat pembelian ulang dari
+pembeli yang baru mencoba-coba
+4. Promosi penjualan memungkinkan produsen untuk menyesuaikan variasi
+penawaran dan permintaan jangka pendek
+5. Promosi penjualan dapat mendorong pembelian dalam unit yang lebih besar
+Perusahaan menggunakan alat-alat promosi di dalam menjual produk-produknya
+kepada para kosumen, dan calon konsumen. Alat-alat yang di gunakan ialah:
+Tabel 1.3
+Alat-alat Promosi20
+KIAT URAIAN
+Sampel
+Penawaran gratis untuk sejumlah produk atau jasa. Sampel itu
+dapat dikirim dari rumah ke rumah, dikirim melalui pos,
+diambil di toko, disertakan pada produk lain, atau dipajang
+dalam suatu penawaran iklan. Pemberian sampel adalah cara
+yang paling efektif dan paling mahal untuk memperkenalkan
+suatu produk baru.
+Kupon
+Sertifikat yang memberikan hak pada pemegangnya untuk
+mendapat pengurangan harga seperti yang tercetak untuk
+pembelian produk tertentu. Kupon dapat dikirim, disertakan
+atau dilampirkan pada produk, atau diselipkan dalam iklan
+majalah dan koran. Kupon dapat efektif dalam mendorong
+penjualan merek yang mapan dan membujuk percobaan awal
+bagi merek baru.
+Rabat
+Atau
+Tawaran
+pengembalian
+tunai
+Memberikan pengurangan harga setelah pembelian terjadi dan
+bukan pada toko pengecer. Konsumen mengirim “bukti
+pembelian” tertentu pada produsen; yang “mengembalikan”
+sebagian dari harga beli lewat pos.
+20 Kotler, 2000, op.cit., pg 601-602
+Paket harga
+Menawarkan bagi konsumen penghematan dari harga biasa
+suatu produk yang tertera pada label atau kemasan.
+Paket harga sangat efektif untuk mendorong penjualan jangka
+pendek, bahkan lebih daripada kupon
+Premi -
+Hadiah
+Barang yang ditawarkan dengan biaya yang relatif rendah atau
+gratis sebagai insentif untuk membeli produk tertentu.
+Produsen saat ini menawarkan berbagai macam hadiah dengan
+nama perusahaan.
+Hadiah
+• kontes,
+• undian,
+• permainan
+Hadiah: tawaran kesempatan untuk memenangkan uang tunai,
+perjalanan atau barang karena membeli sesuatu.
+Kontes: menghendaki konsumen memberikan masukan.
+Jingle: perkiraan, saran - yang akan diuji oleh sekelompok juri
+yang akan memilih peserta terbaik.
+Undian: akan meminta konsumen untuk menyebutkan nama
+mereka dalam penarikan undian.
+Permainan: memberikan suatu pada konsumen setiap kali
+mereka membeli -nomor bingo, huruf yg hilang - yang
+memungkinkan konsumen memenangkan hadiah.
+Patronage
+Award
+Hadiah langganan berupa uang tunai atau bentuk lain yang
+proporsional dengan pola langganan seseorang pada seorang
+atau sekelompok penjual.
+Diberikan pada pelanggan khusus atau tetap berupa hadiah
+uang atau bentuk lain
+Percobaan
+Gratis
+Percobaan gratis mengundang pembeli prospektif untuk
+mencoba produk tersebut secara cuma - cuma, dengan harapan
+mereka akan membeli produk itu.
+Garansi
+produk
+Janji yang diberikan oleh penjual baik secara eksplisit maupun
+implisit, bahwa produknya akan bekerja sesuai spesifikasi,
+atau, jika produknya gagal, penjual akan membetulkannya atau
+mengembalikan uang pelanggan selama periode tertentu
+Promosi
+gabungan
+(tie-in
+promotion)
+Melibatkan beberapa merek atau perusahaan yang bekerja
+sama mengeluarkan kupon, pembayaran kembali dan kontes
+untuk meningkatkan daya tarik mereka.
+Promosi silang Melibatkan penggunaan satu merek untuk menghilangkan
+merek lain yang tidak bersaing
+Pajangan dan
+demonstrasi
+POP-display
+and
+demonstrations
+Pajangan dan demonstasi POP (point of purchase) berlangsung
+di tempat pembelian atau penjualan. Produsen menciptakan
+materi POP yang baik, mengaitkannya dengan pesan televisi
+dan media cetak, serta menawarkan untuk memasangnya.
+1.4.4 PUBLIC RELATIONS (HUBUNGAN MASYARAKAT)
+Menurut Philip Kotler 21
+“ Public Relation involves a variety of programs designed to promote or
+protect a company’s image or its individual products. A Public is any group
+that has an actual or potential interest or impact in a company’s abilitiy to
+achieve its objectives.” (hubungan masyarakat mencakup berbagai macam
+program yang di desain untuk mempromosikan atau melindungi citra
+perusahaan dan produk-produknya. Publik merupakan sekelompok yang
+langsung atau secara potensial berkepentingan atau berdampak pada
+kemampuan perusahaandi dalam mencapai tujuannya)
+Menurut Monash Faculty of business and economics 22
+“This promotional tool aims at building good relations between the company
+and it's various publics through favourable publicity, building corporate
+image and handling unfavourable events. The public relations department
+achieves this through press relations, product publicity, corporate
+communications, lobbying and counseling.”(alat promosi ini di tujukan untuk
+membangun relasi yang baik antara perusahaan dan public melalui publisitas,
+membangun citra perusahaan dan mengatasi kegiatan-kegiatan. Departemen
+publisitas mencapainya melalui relasi dengan pers, publisitas produk,
+membangun komunikasi korporasi, lobi dan konseling)
+Fungsi hubungan masyarakat penting dalam menjaga dan untuk membangun
+nama baik perusahaan. Hal ini di capai dengan menggunakan media-media seperti
+hubungan dengan pers, presentasi produk, pengkomunikasian perusahaan, lobi-lobi
+dan konselling. Di dalam menjaga hubungannya dengan masyarakat, perusahaan
+harus sadar benar dengan siapa perusahaan berhadapan dan membedakan pendekatan
+yang dilakukannya. Untuk memelihara hubungan dapat dilakukan dengan
+memberikan pelayanan yang baik, terkait dengan etika berkomunikasi, dan juga
+dengan menggunakan public figure sebagai duta besar produk-produk Yamaha.
+21 Kotler, 2000, op.cit.,pg.605
+22 www.buseco/monash.unv.au
+1.4.4.1 Media yang di gunakan
+Media yang di gunakan di dalam Humas menurut Kotler23 ialah:
+a. Publikasi: perusahaan menyandarkan diri pada pencarian yang luas terhadap
+materi yang di butuhkan publikasi, untuk dapat mencapai dan mempengaruhi
+target market mereka. Hal ini mencakup laporan tahunan, brosur, artikel
+buletin yang di terbitkan oleh perusahaan, majalah dan materi-materi
+audiovisual
+b. Kegiatan-kegiatan (events) : perusahaan dapat mengganti perhatian terhadap
+produk baru yang mereka luncurkan atau aktivitas perusahaan lainnya dengan
+mengatur event-event special seperti konferensi pers, seminar, tamasya
+bersama, pameran, kontes dan kompetisi, perayaan ulang tahun, dan olah raga
+dan sponsorship yang dapat mencapai target market mereka.
+c. Siaran berita : salah satu tugas utama dari para profesional Public Relation
+ialah untuk mencari atau membuat berita yang di inginkan masyarakat
+mengenai perusahaan, baik mengenai produk-produknya ataupun mengenai
+orang-orangnya. Generasi berita membutuhkan kemampuan di dalam
+membangun sebuah konsep cerita, mencari tahu keberadaannya, dan
+menulisnya untuk di terbitkan. Tetapi kemampuan para profesional Public
+Relation harus lebih dari hanya sekedar membuat cerita saja. Kemampuan itu
+harus mencakup membuat media menerima berita yang di keluarkan dan
+menghadiri panggilan dari konferensi pers yang di adakan untuk melakukan
+pemasaran dan kemampuan interpersonal.
+23 Kotler, A to Z, op. cit., hlm 164
+d. Hubungan dengan komunitas: sponsorship dapat menunjukkan bahwa
+perusahaan peduli terhadap masyarakat, dan hal ini dapat menaikkan citra
+perusahaan di mata masyarakat. Hasil penelitian terbaru menunjukkan
+sponsorship memberikan transfer positif dari citra di dalam kegiatan menjadi
+merek misalnya MOTOGP dengan YAMAHA
+e. Pemberitahuan pada media massa: memungkinkan perusahaan untuk
+mendapatkan publisitas yang positif dengan cara membangun berita yang
+baik dan berkesinambungan di media-media yang tersedia. berita mengenai
+produk baru, penemuan-penemuan hasil riset R&D dan penemuan-penemuan
+sains terbaru, pegawai baru, fasilitas baru perusahaan,dll dapat membangun
+citra positif perusahaan baik secara intern maupun secara extern.
+f. Pendekatan-pendekatan melalui lobi: Lobi dapat membantu perusahaan
+dalam berurusan dengan pemerintah. Baik untuk menangguhkan ataupun
+untuk menggagalkan peraturan perundang-undangan yang akan di sahkan,
+bila hal tersebut dapat di anggap merugikan perusahaan. Perusahaanperusahaan
+besar menjaga secara aktif dan agresif lobi-lobi yang di lakukan
+di antara kedua belah pihak (perusahaan dan pemerintah). Kotler juga
+menjelaskan fungsi dari lobi ialah untuk menjalin hubungan yang erat dengan
+para penentu kebijakan dan kalangan legislatif, dan untuk mendukung atau
+justru menggagalkan peraturan dan perundang-undangan tertentu.
+g. investasi dalam bidang sosial : perusahaan dapat membangun goodwill
+dengan ikut mengkontribusikan uang dan waktu untuk tujuan yang baik.
+Perusahaan besar secara tipikal meminta para eksekutifnya untuk mendukung
+kegiatan masyarakat. Di dalam kondisi dan kejadian yang berbeda,
+perusahaan akan mendonasikan sejumlah uang untuk tujuan yang spesifik.
+Seperti pemasaran “kejadian yang berdampak”, di gunakan untuk
+menumbuhkan citra baik perusahaan di mata masyarakat.
+1.4.4.2 Marketing Public Relation (MPR)
+Marketing Public Relation (MPR) 24 di gunakan untuk:
+1. membangun kesadaran, MPR dapat membuat cerita untuk menarik perhatian
+terhadap produk, jasa, organisasi ataupun ide-ide dari perusahaan
+2. untuk membangun kredibilitas, MPR dapat menambahkan kredibilitas
+perusahaan dengan cara mengkomunikasikan berita melalui media-media
+yang ada
+3. untuk menstimulasi tenaga penjualan dan dealer-dealer, MPR dapat
+mendorong antusias dari tenaga penjualan dan dealer-dealer dengan cara
+membuat cerita mengenai produk baru sebelum di launching dan hal tersebut
+dapat mendorong terjadinya penjualan.
+1.4.5 PERSONAL SELLING (PENJUALAN SECARA PRIBADI)
+Menurut Kotler dan Armstrong 25
+“ Personal selling is personal presentation by the firm’s sale force for the
+purpose of making sales and building customer relationships.(penjualan
+personal merupakan presentasi personal oleh perusahaan oleh kekuatan
+penjualan dengan tujuan untuk membuat penjualan dan membangun
+hubungan dengan para konsumen)”
+24 Kotler, 2000, op.cit.,pg.607
+25 Kotler and Gary Armstrong, Principles of Marketing, 9th edition, New Jersey : Prentice-Hall., 2001,
+pg 512
+Menurut Terence A.Shimp 26
+“ Personal selling is a form of person to person communication in which a
+sales person works with prospective buyers and attempts to influence their
+purchase needs in the direction of his or her company’s products or services.
+(penjualan secara personal ialah sebuah bentuk komunikasi antar personal, di
+mana seorang penjual bekerja dengan pembeli potensial dan mencoba untuk
+mempengaruhi kebutuhan mereka untuk membeli dan mengarahkannya pada
+produk ataupun jasa perusahaan yang di wakilkannya) “
+Penjualan perorangan adalah adalah bentuk komunikasi antar individu,
+dimana tenaga penjual atau wiraniaga menginformasikan, mendidik dan melakukan
+persuasi kepada calon pembeli untuk membeli produk atau jasa perusahaan secara
+langsung (face-to-face). Cara ini memerlukan tenaga keahlian penjual secara khusus,
+dalam memberikan pengertian pada konsumen serta melakukan persuasi (bujukan),
+agar konsumen mau membeli produk yang dijualnya. Penjualan personal melibatkan
+komunikasi dua arah antara wiraniaga dan prospek, sangat berbeda dengan
+Periklanan dan public relation, yang bersifat monolog. Penjualan personal
+merupakan komunikasi dua arah yang bersifat langsung.
+1.4.5.1 Tujuh tahap di dalam Personal selling
+Tujuh tahap di dalam Personal selling27 ialah:
+a.Memperkirakan dan mengkualifikasikan (Prospecting and qualifying),
+hal ini merupakan langkah awal dari kegiatan penjualan secara
+pribadi. Perusahaan dapat melakukannya dengan cara mengolah data,
+misalnya dengan melakukan penelitian melalui media cetak maupun
+radio, mengundang para konsumen yang ada saat ini untuk
+mengajukan calon konsumen, menggunakan telefon, internet ataupun
+media-media yang lain untuk mengintepretasikan prospect consumer.
+26 Terence A.Shimp, Promotion Management and Marketing Communication, 3rd edition, University
+of South Carolina : The Dryen Press, Harcourt Brave Jovanovich, 1993, pg.609
+27 Kotler, 2000, op.cit.,pg.636
+b. Pra pendekatan (Preapproach), para penjual harus mencari informasi
+sedetail mungkin mengenai calon konsumen tersebut, mencari relasi,
+dan melakukan proses penjualan sesegera mungkin.
+c. Pendekatan (Approach), para penjual harus mengetahui kapan harus
+berkenalan dengan calon konsumen. Kalimat pembuka dan kesan
+pertama yang di timbulkan oleh para penjual sangat mempengaruhi
+dari terjadinya proses penjualan.
+d. Presentasi dan demonstrasi (Presentation and demonstration), pada
+saat ini para penjual harus menceritakan sejarah dari produk yang di
+tawarkan, mengacu pada formula AIDA, mendapatkan perhatian
+(Attention), mempertahankan ketertarikan (Interest), membangkitkan
+ketertarikan (Desire), dan memperoleh atau menghasilkan tindakan
+(Action). Presentasi produk dapat di maksimalisasi dengan bantuan
+dari demo produk. Bentuk visual nyata seringkali dapat menunjukkan
+performa dari produk tersebut dan memberikan nilai lebih di mata
+konsumen.
+e. Menghadapi keberatan (Overcoming objections), di dalam
+menghadapi kendala-kendala yang terjadi selama proses presentasi
+dan demo, para penjual harus secara terus menerus memberikan citra
+yang sepositif mungkin terhadap citra produk dan citra perusahaan,
+dan para penjual di tuntut untuk dapat menghadapinya misalnya
+dengan cara meminta untuk menjabarkan masakah yang di dapatkan
+konsumen.
+f. Penutupan (Closing), di sini mereka dapat mengajukan mengenai
+pemesanan, memberikan hadiah, ataupun mengajukan penawaran
+dengan harga khusus, ataupun mengucapkan terima kasih.
+g. Menindak lanjuti dan pemeliharaan (Follow up and maintenance), hal
+ini harus di lakukan oleh para penjual dengan tujuan untuk
+meyakinkan kepuasan konsumen dan pengulangan terhadap bisnis.
+Para penjual tentunya harus mempertahankan kepuasan konsumen
+sehingga kesetiaan konsumen baik terhadap produk maupun citra
+perusahaan dapat terjaga.
+1.4.6 SIKAP KONSUMEN
+Perilaku konsumen di pengaruhi oleh faktor-faktor kultural, sosial, personal, dan
+psikologis serta latar belakang dari konsumen itu sendiri. Perilaku konsumen28
+menurut Schiffman dan Kanuk dapat didefinisikan sebagai berikut:
+”Consumer behavior may be defined as the behaviour that consumers display in
+searching for, purchasing, using, evaluating and disposing of products and services
+that they expect will satisfied they needs ”
+(perilaku konsumen diterjemahkan sebagai perilaku yang di tunjukkan oleh
+konsumen di dalam mencari, membeli, menggunakan, mengevaluasi dan membuang
+produk dan jasa yang mereka harapkan dapat memuaskan apa yang mereka
+inginkan).
+Dari definisi di atas dapat dikatakan bahwa perilaku konsumen merupakan perilaku
+yang di tunjukkan oleh konsumen d dalam mencari, membeli, menggunakan,
+mengevaluasi dan membuang produk ataupun jasa yang mereka harapkan dapat
+memuaskan apa yang mereka inginkan serta di pengaruhi oleh faktor-faktor kultural,
+sosial, personal, dan psikologis serta latar belakang dari konsumen itu sendiri.
+Keputusan konsumen berada dalam otak konsumen, sedangkan dalam membuat
+keputusannya, konsumen lebih banyak dipengaruhi oleh pihak luar seperti orang di
+sekitarnya, iklan, pengalaman masa lalu, dan lain-lain.
+28 Schiffman Leon G and Kanuk L.L., Consumer Behavior, international edition. Prentice Hall., 2004,
+p.8
+1.4.6.1 Tiga komponen sikap
+Tiga komponen sikap29 ialah:
+• Komponen Kognitif
+Komponen Kognitif merupakan pengetahuan dan persepsi yang di butuhkan
+oleh kombinasi dari pengalaman langsung dengan sikap terhadap objek dan
+informasi yang berhubungan langsung dengan dari sumber sebelumnya.
+Kognisi30 merupakan suatu konsep umum yang mencakup semua bentuk
+pengenalan, termasuk di dalamnya ialah mengamati, melihat, memperhatikan,
+memberikan, menyangka, membayangkan, memperkirakan, berfikir,
+mempertimbangkan, menduga, dan menilai.
+• Komponen Afektif
+Komponen Afektif ialah emosi atau perasaan konsumen terhadap merek atau
+produk tertentu yang memunculkan komponen afektif dari sebuah sikap.
+Afeksi31 merupakan kasih sayang, kesayangan, cinta, perasaan yang sangat
+kuat.
+• Komponen Konatif
+Komponen Konatif merupakan kecenderungan, yang akan di lakukan oleh
+seseorang terhadap tindakan atau sikap yang spesifik terhadap objek tertentu.
+Konatif32 ialah bereaksi, berkemauan, berkehendak, kepribadian yang di
+tandai dengan tingkah-laku yang bertujuan dan dorongan-dorongan untuk
+bertindak
+29 Leslie Lazar Kanuk & Leon G. Schiftman, 2004, op.cit.,pg.256-259
+30 C.P. Chaplin. Dictionary of Psiychology, ed 1, cet 5, 1999, Rajagrafindo Persada, Jakarta, hlm 90
+31 C.P. Chaplin, 1999, op. cit., hlam 13
+32 C.P. Chaplin, 1999, op. cit., hlam 101
+Penelitian mengenai sikap konsumen merupakan suatu informasi yang penting
+bagi perusahaan, karena dengan mengetahui sikap konsumen terhadap perusahaan
+maka perusahaan dapat mengevaluasi program pemasarannya dan meningkatkan
+serta memperbaiki beberapa hal yang perlu dilakukan.
+Dunia usaha pada saat ini, menghadapi situasi globalisasi dan persaingan
+yang akan jauh lebih ketat di banding sebelumnya, oleh karena itu perusahaan perlu
+menerapkan strategi pemasarannya jauh lebih efektif dan efisien di banding para
+pesaing-pesaingnya, serta melakukan usaha-usaha umpan balik yang harus terusmenerus
+di lakukan oleh perusahaan, untuk melakukan penilaian kinerja perusahaan
+agar menjadi lebih baik dari waktu ke waktu. Promotion tools, berguna untuk
+membantu meningkatkan dan meyakinkan prospect customer, bahwa merek dari
+perusahaan, selalu positif dan berada pada bagian teratas dari pikiran para konsumen
+dan calon konsumen. Dana untuk melakukan strategi promosi di event ini memang
+sangat besar, tetapi hal tersebut merupakan salah satu cara yang di harapkan dapat
+mereposisikan merek-merek yang ada di dalam benak calon konsumen. Demikian
+pula halnya dengan PT. Yamaha Motor Indonesia memerlukan program dari strategi
+sponsorship terpadu yang telah di sesuaikan dalam memasarkan produk-produknya.
+Perusahaan-perusahaan saat ini secara teratur dan berkesinambungan, di undang oleh
+berbagai kelompok kepentingan tertentu untuk menjadi sponsor di dalam berbagai
+acara, kegiatan-kegiatan, dan kejadian-kejadian yang berguna, dan perusahaanpun
+secara aktif, juga mencari-cari kesempatan untuk menempatkan merek mereka di
+hadapan masa, dengan harapan memperoleh perhatian yang positif dari masyarakat,
+dan juga untuk menjamu rekanan-rekanan dari perusahaan dalam acara-acara atau
+kejadian-kejadian yang mereka sponsori.
+1.5 Operasionalisasi Variabel
+Operasionalisasi variabel yang di gunakan ialah:
+Tabel 1.4
+Operasionalisasi variabel
+Sub Variabel Indikator Sub Indikator Sub sub Indikator
+Advertising
+• Bentuk atau
+ragam
+• Kata-kata dan
+Huruf
+• Fantasi
+• Musikal
+• Kesaksian
+• edukasi
+o Berita
+o Pertanyaan
+• Penggambaran
+obyek
+• Model
+• Jingle
+• Musik
+.. Unsur
+pembelajaran
+.. Merubah
+.. Penelitian
+terakhir
+.. Keberhasilan
+pencapaian
+.. Kegiatankegatan
+yang di
+lakukan oleh
+perusahaan
+.. Mengundang
+keingin tahuan
+• Format
+o Narasi
+.. Ukuran iklan
+.. Warna
+.. Ilustrasi iklan
+.. Cerita yang
+menunjukkan
+kebaikkan
+.. Cerita yang
+menunjukkan
+keunggulan
+.. Berwarna
+Sales
+Promotion
+• Pengembalian
+tunai
+• Paket harga
+• Premi hadiah
+• Hadiah
+• Percobaan gratis
+• Garansi produk
+• Pajangan dan
+demonstrasi
+• Pengurangan
+harga
+• Barang gratis
+sebagai insentif
+membeli produk
+• Kontes
+• Undian
+• Permainan
+• Mencoba produk
+• Perlombaan
+• Kuis
+Public
+Relation
+• Publikasi
+• Kegiatan-
+• Brosur
+• Artikel
+• Seminar
+• Nonton bersama
+kegiatan
+• Hubungan
+dengan
+komunitas
+• Pemberitahuan
+pada media
+massa
+• Investasi dalam
+bidang sosial
+• Kompetisi OMR
+• Sponsorship
+• Berita mengenai
+produk baru
+• Penemuanpenemuan
+hasil
+riset R&D
+• Kegiatan
+masyarakat
+• Acara
+Personal
+Selling
+• Pendekatan
+• Presentasi dan
+demonstrasi
+• Menghadapi
+keberatan
+• Penutupan
+• Menindak
+lanjuti dan
+• Mendapatkan
+perhatian
+• Mempertahankan
+ketertarikan
+• Membangkitkan
+ketertarikan
+• Menghasilkan
+tindakan
+• Demo produk,
+bentuk nyata
+pemeliharaan
+1.6 Pengukuran
+1.6.1 Metode Penelitian
+Dalam penelitian ini, penulis menggunakan metode penelitian survei33 , yaitu
+penelitian yang diadakan untuk memperoleh fakta-fakta dari gejala-gejala yang ada
+dan mencari keterangan-keterangan secara faktual baik tentang institusi sosial,
+ekonomi, politik dari suatu kelompok atau suatu daerah.
+1.6.2 Jenis Penelitian
+Sedangkan jenis penelitian yang dilakukan termasuk jenis penelitian secara
+deskriptif analitis34, yaitu suatu metode yang melukiskan keadaan perusahaan saat
+ini, dimaksudkan untuk memberikan gambaran secara sistematis dan akurat
+mengenai sifat dan hubungan antara fenomena yang diteliti, dengan berusaha
+mengumpulkan menyajikan serta menganalisis data untuk kemudian menarik
+kesimpulan. Analisis deskriptif ini memuat gambaran, deskripsi atau lukisan secara
+sistematis, faktual dan alurat mengenai fakta-fakta yang ada, sifat serta hubungan
+antar fenomena yang diteliti.
+33 Masri Singarimbun dan Sofian Effendi, Metode Penelitian Survai, Edisi Revisi, Jakarta, 1989, hal 4
+34 Surachman Winarno, Pengantar penelitian Ilmiah Dasar Metode Teknik, Tarsito, Bandung, 1989,
+hal. 130-140
+1.6.3 Teknik Pengumpulan Data
+Teknik pengumpulan data dilakukan melalui kuesioner untuk mengumpulkan
+data dan studi dokumen.
+• Kuesioner sebagai alat untuk mengukur pengaruh kebijakan bauran promosi
+motor Yamaha terhadap sikap konsumen di kalangan anak muda (konsumen
+dan calon konsumen umur 15-20 tahun) di Bandung. Kuesioner ini terdiri
+dari pernyataan yang logis dan disusun secara sistematis sehingga setiap
+pernyataan merupakan jawaban yang mempunyai makna untuk menguji
+hipotesis. Kuesioner ini diisi oleh pelajar SMU (konsumen dan calon
+konsumen umur 15-20 tahun) di Bandung
+• Studi dokumen, maksudnya penulis mengumpulkan data dan informasi
+perusahaan yang berhubungan dengn penelitian. Studi dokumen merupakan
+proses pengumpulan data yang bersumber dari data perusahaan yang
+bersangkutan.
+1.6.4 Populasi dan Sampel
+• Populasi
+Populasi menurut Masri Singarimbun dan Sofian Effendi adalah jumlah
+keseluruhan dari unit analisa yang ciri-cirinya akan diduga. Adapun populasi
+tersebut adalah anak SMU yang berada di Bandung, berumur 15-20 tahun.
+• Sampel
+Sampel yaitu bagian dari populasi yang diambil untuk diselidiki. Sampel
+dengan menggunakan non probability sampling, yaitu teknik sampling yang
+tidak memberikan peluang atau kesempatan yang sama bagi setiap unsur atau
+anggota populasi untuk dipilih menjadi sampel. Jumlah sampel yang diambil
+dalam penelitian ini sebanyak 120 responden, yang merupakan pelanggan
+ataupun calon pelanggan yang berumur 15-20 tahun di Bandung.
+1.7 Lokasi dan waktu Penelitian
+Penelitian dilakukan di:
+1. PT. Yamaha Motor Indonesia yang terletak di Jl. Soekarno-Hatta
+No.474, Bandung.
+2. SMU Sumatra 40, di jalan Pahlawan
+3. SMU BPI, dan
+4. SMU Negeri 2 di Champelas.
+BAB II
+OBJEK PENELITIAN
+2.1 Sejarah Perusahaan
+PT. Yamaha Motor Indonesia mfg., merupakan tempat di mana peneliti
+melakukan penelitian. Yamaha mulai berdiri pertama kali di Indonesia pada tanggal
+6 Juli 1974. Di dalam perkembangannya Yamaha telah mencapai banyak prestasi,
+misalnya pada bulan Agustus 2001, Yamaha telah mendapatkan ISO 9001, untuk
+memenuhi persyaratan ISO 9001:2000, maka setiap proses manufaktur harus
+mengikuti pedoman mutu yang sudah dibakukan. Pedoman ini mengatur semua
+aspek prosedur, perencanaan, dan instruksi kerja yang mutlak harus dilaksanakan
+dengan tepat, sehingga mutu setiap produksi tetap terpelihara dengan baik. Pada
+tahun 2006 Yamaha telah mendapatkan penghargaan atas pelayanannya terhadap
+kepuasan konsumen (ICSA, Indonesia Consumer Satisfaction Award), dan juga
+Yamaha telah mendapatkan penghargaan best of the best dari majalah marketing.
+Pada hari Jumat tanggal 27 Januari 2006, Bapak Presiden RI Susilo Bambang
+Yudhoyono, atau yang biasa dikenal dengan SBY, meresmikan pabrik Yamaha yang
+kedua di Indonesia. Pabrik tersebut memiliki luas 300.000 meter persegi, dan
+berada di Karawang Jawa Barat. Pabrik tersebut memiliki nilai investasi sebesar 70
+Juta US Dollar. Pabrik tersebut merupakan pabrik Yamaha yang terbesar dan
+tercanggih dari seluruh pabrik Yamaha yang ada di dunia. Pabrik tersebut
+menggunakan teknologi robot yang mutakhir dan kontrol kualitas dengan sistem
+komputer pada setiap hasil produksi motor Yamaha.Pabrik Yamaha tersebut
+mempunyai kapasasitas produksi sebanyak 3.000 sepeda motor per hari. Dengan
+standar operasional yang tepat, ketat dan efisien, lebih dari 280 suku cadang
+disatukan menjadi sepeda motor yang berkualitas tinggi, menarik, tangguh, dan
+seolah langsung menjadi hidup, setelah selesai dirakit. Rencananya pabrik tersebut
+hanya akan memproduksi motor Yamaha jenis Vega saja.
+Untuk memastikan konsumen Yamaha di seluruh pelosok Nusantara dapat
+menikmati standar kualitas yang sama untuk setiap produk dan pelayanannya,
+Yamaha telah menunjuk pihak-pihak yang profesional dan dapat diandalkan sebagai
+mitra kerjanya. Melalui jaringannya, Yamaha telah menyediakan dukungan penuh
+atas pelayanan yang lengkap, termasuk jasa perawatan dan lebih dari 140.000 jenis
+suku cadang, yang selalu tersedia. Hingga saat ini Yamaha memiliki jaringan kerja
+lebih dari 800 unit dealer dan sub-dealer yang terpadu.
+2.2 Produk yang di jual oleh Yamaha
+Produk-produk motor Yamaha di Indonesia mencakup:
+1. Yamaha New Vega R
+2. Yamaha Jupiter Z
+3. Yamaha Jupiter MX
+4. Yamaha Mio
+5. Yamaha Mio Soul
+6. Yamaha V-ixion
+7. Yamaha Scorpio
+8. Yamaha RX King
+2.3 Aktivitas bauran Promosi Yamaha
+Berdasarkan hasil dari wawancara dari respoden, Yamaha Motor Indonesia
+membagi strategi promosinya menjadi dua bagian yaitu:
+1. Above the line
+2. Bellow the line
+yang di maksud dengan Above the line ialah alat-alat promosi yang
+memberikan pengaruh langsung, baik kepada konsumen dan para calon konsumen,
+sedangkan yang di maksud dengan Bellow the line ialah alat-alat promosi yang
+memberikan pengaruh tidak langsung, baik kepada konsumen dan calon konsumen.
+yang termasuk Above the line ialah:
+o Membuat event-event balapan lokal, event-event balapan One
+Make Race, dimana pada event ini motor-motor yang di lombakan
+hanyalah motor-motor Yamaha.
+o Mengundang pembalap-pembalap Yamaha yang berlaga di kelaskelas
+MOTOGP ataupun di WSBK untuk memberikan coaching
+clinic kepada para pembalap-pembalap lokal, sekaligus
+mempraktekkannya.
+o membuat acara-acara seperti MOTOGP di TV7, nonton bareng
+MOTO GP yang di rolling dari kota ke kota, talk show di radioradio
+lokal, dll
+o Iklan-Iklan, baik di media cetak seperti koran-koran dan majalah
+khusus kendaraan roda dua, maupun di media elektronik lainnya.
+o membuat berita yang selalu berkesinambungan mengenai produkproduknya,
+baik mengenai kesuksesan tim balap, maupun hasil
+inovasi terbaru dari penelitian yang dilakukan oleh tim R&D
+Yamaha
+o mengakomodasi dan mensponsori club-club motor Yamaha
+o Mempunyai Tim Balap yang didukung langsung pabrikan. Seperti
+Yonk Jaya, Gandhoel Racing Team, dll
+o memiliki website (www.yamaha-motor.co.id/
+Sedangkan yang termasuk Bellow The Line :
+o Menjalin kerjasama dengan pemerintah, dengan cara menyediakan
+unit-unit kendaraan bermotor bagi POLRI dan ABRI (YAMAHA
+SECA)
+o katalog produk, diskon-diskon, billboard, umbul-umbul, spanduk, dan
+brosur
+o Exhibition (mal-mal, kampung-kampung,dll), gerai-gerai yang dibuka
+memamerkan kendaraan atau produk dari Yamaha, termasuk produkproduk
+CBU dan Import seperti YZF R1.
+o Fun Aerobic
+o City Tour, Yamaha melakukan promosi dengan menggunakan klub
+motor-klub motor Yamaha dengan cara berkeliling kota menggunakan
+produk-produk Yamaha yang di posisikan sesuai dengan
+segmentasinya.
+o Yamaha melakukan safety riding course ke sekolah-sekolah, dengan
+tujuan membangun kesadaran bagi generasi muda untuk
+menggunakan kendaraan dengan cara yang baik, sopan dan santun di
+jalanan.
+o Membuat acara live interaction seperti nonton bareng MOTOGP
+o Merchandise (baju, gambar tempel, gantungan kunci, dll)
+Yamaha juga melakukan perbaikan-perbaikan fasilitas dan pelatihan-pelatihan yang
+di berikan baik kepada para mekanik maupun juga para salesnya.
+1. Yamaha menggunakan salesmannya sebagai ujung tombak utama, untuk
+menjangkau para konsumennya.
+2. Sebelum menjual produknya ke pasar, Yamaha menguji produk tersebut
+terlebih dahulu, sampai batas rmaksimal kemampuan produk tersebut, dan
+salesman tersebut harus merasakan kemampuan dari kendaraan itu
+sendiri.
+3. Pada setiap produk-produknya Yamaha memberikan kesempatan bagi
+konsumen untuk dapat mencoba produk tersebut melalui program TEST
+DRIVE.
+BAB III
+HASIL PENELITIAN DAN PEMBAHASAN
+Setelah penulis mengetahui aktivitas bauran promosi yang sudah dilakukan
+oleh Yamaha, maka penulis melanjutkannya dengan melakukan proses pengambilan
+data. Informasi yang berhasil dikumpulkan dengan menggunakan teknik wawancara
+dan kuesioner tersebut, akan di analisa lebih jauh di Bab III ini. Dan data tersebut
+akan dibandingkan hasilnya dengan teori yang dipakai oleh penulis. Aktivitas bauran
+promosi yang dilakukan oleh Yamaha merupakan kombinasi dari alat-alat promosi
+yang ada, yaitu periklanan, promosi dan hubungan masyarakat atau PR. Selanjutnya
+penulis mencoba untuk menganalisa mengenai program-program bauran promosi
+yang telah dilakukan Yamaha saat ini. Penulis juga berusaha untuk memberikan
+saran terhadap kelemahan dari program promosi yang ada, terkait dengan topik
+bauran promosi yang di teliti oleh peneliti di Yamaha. Dengan demikian, penulis
+berharap dapat membantu memberikan kontribusi yang baik untuk pelaksanaan
+program promosi yang lebih baik lagi.
+3.1 Gambaran Umum Responden
+Tabel 3.1
+Jenis kelamin responden
+KATEGORI F %
+Pria 60 50
+Wanita 60 50
+JUMLAH 120 100
+Pada tabel 3.1 di atas jenis kelamin responden terdiri dari 60 orang pria dan
+60 orang wanita, sehingga total keseluruhan responden yang di minta untuk mengisi
+kuesioner dan di wawancara ialah sebanyak 120 orang murid SMU yang ada di
+Bandung. Hal ini terjadi tanpa di sengaja oleh peneliti, karena kuesioner di sebarkan
+pada saat jam pulang sekolah.
+Tabel 3.2
+Usia responden
+KATEGORI F %
+15-16 33 27.5
+16-17 41 34.17
+18-19 36 30
+>20 10 8.33
+JUMLAH 120 100
+Pada tabel 3.2 usia responden yang berumur 15 sampai 16 tahun berjumlah
+sebesar 27.50% dari jumlah total responden yang ada, responden yang berumur 16
+sampai 17 tahun berjumlah sebesar 34.17% dari jumlah responden yang ada,
+responden yang berumur 18 sampai 19 tahun berjumlah sebesar 30% dari jumlah
+responden yang ada, responden yang berumur 20 tahun ke atas berjumlah sebesar
+8.33%.
+• Dari data responden yang ada, kelompok responden terbesar terdapat pada
+kelompok umur 16 sampai dengan umur 17 tahun, yaitu sebesar 34.17% dari
+jumlah total responden yang ada, hal ini di sebabkan karena ketika kuesioner
+di sebarkan, sebagian dari siswa-siswi kelas III sedang mengikuti kelas
+pelajaran tambahan, sehingga pelajar yang terjaring lebih banyak yang
+berasal dari kelas 1 dan kelas 2.
+• Pada tingkat ke dua ialah responden kelompok umur 18-19 tahun sebesar
+30% dari total responden yang ada. Di mana pada range ini banyak terdapat
+anak-anak dari kelas III SMU.
+• Pada tingkat ke tiga ialah kelompok umur 15-16 tahun sebesar 27.50% dari
+total responden yang ada. Di mana pada range ini banyak terdapat anak-anak
+dari kelas I SMU.
+• Kelompok responden terkecil terdapat pada kelompok umur 20 tahun keatas,
+sebesar 8.33% dari jumlah total responden yang ada, hal ini di sebabkan
+karena umumnya yang berumur 20 tahun ke atas ialah anak-anak yang
+tertunda kelulusannya dan umumnya usia tersebut sudah memasuki jenjang
+kuliah.
+3.2 Sikap responden terhadap bauran promosi Yamaha
+3.2.1.1 Strategi Periklanan Yamaha
+Pada saat ini strategi periklanan yang sedang di terapkan oleh
+Yamaha, lebih memfokuskan pada proses untuk merubah pola pikir yang selama ini
+sudah tertanam selama puluhan tahun di benak masyarakat kita, terutama mengenai
+nilai-nilai yang sudah tertanam mengenai pesaing Yamaha yaitu Honda. Nilai-nilai
+yang telah tertanam tersebut seperti bahan bakar yang lebih irit, nilai jual yang lebih
+tinggi, dan desain produk yang lebih moderen, saat ini sedikit demi sedikit sedang di
+rubah oleh Yamaha, salah satunya melalui iklan yang di tayangkan hampir secara
+terus-menerus dan berkelanjutan, baik di acara-acara TV, maupun acara-acara yang
+di siarkan oleh radio-radio lokal, dan juga melalui iklan-iklan di media cetak. Usahausaha
+yang di lakukan oleh Yamaha saat ini, di lakukan secara terus menerus dan
+berlangsung secara berkesinambungan tahap demi tahap hingga tercapainya
+perubahan pola pikir yang di harapkan oleh Yamaha, ada pada masyarakat kita.
+3.2.1.1.1 Aspek Kognitif Periklanan Yamaha
+Tabel 3.3
+Penggambaran di media cetak menunjukkan keunggulan produk
+Yamaha
+KATEGORI F %
+Ya 95 79.17
+Tidak 25 20.83
+JUMLAH 120 100
+Pada tabel 3.3 di atas, menjelaskan mengenai penggambaran di media cetak
+menunjukkan keunggulan dari produk-produk Yamaha. Sebesar 79.17% dari total
+responden yang ada menjawab Ya, sedangkan 20.83% dari total responden yang ada
+menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 79.17% dari total responden
+yang ada menjawab ya. Berdasarkan penelitian, hal ini menunjukkan bahwa
+penggambaran di media cetak yang di lakukan oleh Yamaha, telah berhasil
+menunjukkan keunggulan dan kelebihan dari produk-produk Yamaha di
+bandingkan dengan para pesaing-pesaing sejenis lainnya. Iklan di media
+cetak yang berupa cerita bergambar, dan cerita-cerita yang bersifat deskriptifnarasi
+tersebut telah mampu menunjukkan dan membuktikan keunggulan dari
+produk-produk Yamaha. Di bandingkan dengan Honda, iklan yang di tujukan
+untuk kelas sejenisnya, di mana kelas tersebut di tujukan untuk kelas anak
+muda, penggambarannya menampilkan penggambaran yang elegan. Hal ini
+bukan menjadi keunggulan dari Honda, karena pangsa sasarannya ialah untuk
+anak muda, sehingga sebaikmya iklan yang di gunakannya lebih di sesuaikan
+dengan karakter anak muda yang enerjik, dan berwarna-warni yang ceria.
+Dan iklan Honda yang elegan tersebut, lebih cocok untuk menggugah hati
+para orang tua, di bandingkan dengan menarik perhatian anak-anak mudanya
+• Sedangkan sebesar 20.83% dari total responden yang ada menjawab tidak,
+hal ini menunjukkan bahwa, bentuk iklan tersebut tidak menunjukkan
+keunggulan Yamaha yang sebenarnya. Berdasarkan pendapat responden,
+seharusnya Yamaha memberikan pembanding untuk menunjukkan
+keunggulan dari produk-produk Yamaha. Misalnya dari bentuk bodi motor,
+kecepatan maksimalnya, keunggulan-keunggulan dari fitur-fitur yang di
+miliki oleh motor Yamaha, dll.
+Tabel 3.4
+Model-model yang ada di dalam iklan Yamaha dapat menunjukkan
+keunggulan Yamaha
+KATEGORI F %
+Ya 85 70.83
+Tidak 35 29.17
+JUMLAH 120 100
+Pada tabel 3.4 di atas menjelaskan mengenai model-model yang ada di dalam
+iklan Yamaha dapat menunjukkan keunggulan Yamaha. 70.83% dari total responden
+yang ada menjawab Ya, 29.17% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 70.83% dari total responden
+yang ada menjawab ya. Hal ini menunjukkan bahwa penggambaran dari
+model-model yang ada di dalam iklan Yamaha memang menunjukkan
+keunggulan dari produk-produk Yamaha di bandingkan para pesaing-pesaing
+dari Yamaha lainnya. Di dalam penampilannya model-model yang di
+tampilkan pun di sesuaikan dengan produk motor yang di jadikan pasar
+sasaran oleh pabrikan. Misalnya pada model iklan motor Jupiter MX, di
+dalam iklan tersebut, di tampilkan motor sedang berlari sangat kencang
+hingga menimbulkan angin topan yang membuat sebuah jembatan yang telah
+di bangun menjadi hancur porak poranda, dan pengemudinya yang tadinya
+mengenakan pakaian lengkap dan pakaian yang bagus, setelah menggunakan
+motor tersebut pakaiannya menjadi compang-camping, hal tersebut di
+sebabkan oleh kemampuan motor tersebut sangat kencang, sehingga pakaian
+yang di kenakannya pun menjadi rusak. Sedangkan Honda cenderung lebih
+konvensional di dalam menampilkan iklannya. Lebih menunjukkan sex
+appeal, misalnya menonjolkan sisi maskulin atau sisi feminim dari modelnya.
+Jika di bandingkan, terlihat hal yang sangat jauh berbeda di dalam
+mepresentasikan iklan dari kedua merek motor tersebut, Yamaha dengan
+pakaian yang compang-camping dan bentuk iklan yang cenderung hiperbolis
+dan “nyeleneh” di bandingkan dengan Honda yang menampilkan penampilan
+yang elegan dan fashionable, serta di bantu dengan artis-artis yang memang
+memiliki citra sebagai artis yang sangat peduli dengan penampilannya,
+seperti Agnes Monica. Keduanya memiliki perbedaan yang sangat besar, dan
+berdasarkan pendapat responden, bentuk iklan Yamaha lebih menarik untuk
+di lihat, hal ini karena iklan tersebut lebih terlihat sebagai anak muda, di
+bandingkan dengan iklan Honda. Cerita yang lucu dan bentuk iklan yang
+hiperbolis, serta pakaian yang compang-camping, ternyata lebih sukai oleh
+para responden penulis.
+• Sedangkan sebesar 29.17% dari total responden yang ada menjawab tidak,
+berdasarkan hasil penelitian yang di lakukan oleh peneliti, reponden
+menyatakan bahwa model-model yang ada di dalam iklan Yamaha tersebut
+tidak dapat menunjukkan keunggulan dari produk-produk Yamaha,
+berdasarkan pendapat responden hal ini dikarenakan iklan Yamaha tersebut
+hanya memakai artis lokal, tidak menggunakan pembalap lokal atau
+pembalap tingkat nasional untuk menunjukkan bahwa produk yang
+diwakilkannya memang memiliki performa yang baik.
+Tabel 3.5
+Jingle mewakili dari produk yang di presentasikan
+KATEGORI F %
+Ya 78 65
+Tidak 42 35
+JUMLAH 120 100
+Pada tabel 3.5 di atas menjelaskan mengenai jingle mewakili dari produk yang di
+presentasikan. 72.5% dari total responden yang ada menjawab Ya, 27.5% dari total
+responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 72.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa jingle yang di gunakan oleh Yamaha saat ini sudah
+dapat mewakili dari produk yang di wakilkannya. Honda hingga saat ini
+belum menggunakan jingle di dalam iklan-iklannya, mereka lebih
+menggunakan aransemen musik.
+• Sedangkan sebesar 27.50% dari total responden yang ada menjawab tidak,
+hal ini menunjukkan bahwa berdasarkan hasil penelitian yang di lakukan oleh
+peneliti, reponden yang menjawab tidak tersebut menyatakan bahwa jingle
+tersebut tidak mewakili produk Yamaha, karena jingle tersebut hanya sebagai
+pengingat dari Yamaha, bukan sebagai pewakil dari produk.
+Tabel 3.6
+Jingle yang anda dengar mengenai Yamaha mudah di ingat
+KATEGORI F %
+Ya 87 72.5
+Tidak 33 27.5
+JUMLAH 120 100
+Pada tabel 3.6 di atas menjelaskan mengenai jingle yang di dengar mengenai
+Yamaha mudah di ingat. 72.5% dari total responden yang ada menjawab Ya, 27.5%
+dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, 72.50% dari total responden yang ada
+menjawab ya. Berdasarkan pendapat dari responden hal ini menunjukkan
+bahwa jingle yang di gunakan oleh Yamaha saat ini sudah tepat, enak di
+dengar dan mudah di ingat baik oleh masyarakat luas. Honda hingga saat ini
+belum menggunakan jingle di dalam iklan-iklannya.
+• Sedangkan 27.50% dari total responden yang ada menjawab tidak, hal ini
+menunjukkan bahwa berdasarkan hasil penelitian yang di lakukan oleh
+peneliti, reponden yang menjawab tidak tersebut menyatakan bahwa jingle
+yang di gunakan tidak mudah di ingat, karena jingle tersebut tidak pernah di
+putar secara terus menerus.
+Tabel 3.7
+Musik yang ada di dalam iklan Yamaha mewakili slogan Yamaha
+KATEGORI F %
+Ya 78 65
+Tidak 42 35
+JUMLAH 120 100
+Pada tabel 3.7 di atas menjelaskan mengenai musik yang ada di dalam iklan
+Yamaha dapat mewakili slogan Yamaha. 65% dari total responden yang ada
+menjawab Ya, 35% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 65% dari total responden yang
+ada menjawab ya. Berdasarkan pendapat responden hal ini menunjukkan
+bahwa musik yang ada di dalam iklan Yamaha memang sudah dapat
+mewakili slogan Yamaha sebagai selalu yang terdepan. Penggunaan band
+lokal untuk membuat lagu yang dapat mewakili Yamaha sudah benar dan
+tepat. Dan hal ini juga menunjukkan bahwa band lokal sudah menjadiraja di
+tempatnya sendiri. Honda hingga saat ini tidak menggunakan band di dalam
+iklan-iklannya, tetapi menggunakan aransemen musik saja.
+• Sedangkan sebanyak 35% dari total responden yang ada menjawab tidak, hal
+ini menunjukkan bahwa berdasarkan hasil penelitian yang di lakukan oleh
+peneliti, reponden yang menjawab tidak tersebut menyatakan bahwa musik
+yang ada di dalam iklan Yamaha memang tidak dapat mewakili slogan
+Yamaha. Hal ini di karenakan lagu di dalam iklan tersebut sudah lama dan
+belum di perbaharui, dan penggunaan band lokal yang pamornya sudah mulai
+menurun, karena berbagai masalah yang menimpa band tersebut turut
+memberikan pengaruh yang besar terhadap Yamaha. Oleh sebab itu saat ini
+Yamaha lebih memfokuskan diri iklan-iklan yang bersifat mind oriented yang
+bertujuan untuk merubah pola pikir masyarakat kita.
+Tabel 3.8
+Kesaksian yang di lihat dan di dengar mengenai Yamaha menyentuh
+hati
+KATEGORI F %
+Ya 76 63.33
+Tidak 44 36.67
+JUMLAH 120 100
+Pada tabel 3.8 di atas menjelaskan mengenai kesaksian yang di lihat dan dengar
+mengenai Yamaha menyentuh hati. 63.33% dari total responden yang ada menjawab
+Ya, 36.67% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 63.33% dari total responden
+yang ada menjawab ya. Hal ini menunjukkan bahwa kesaksian yang di lihat
+dan dengar mengenai Yamaha memang menyentuh hati orang-orang yang
+melihatnya. Hal ini karena iklan layanan tersebut memang menggunakan
+masyarakat kita pada umumnya. Kesaksian ini juga menggunakan kejadian
+nyata, dan mengikut sertakan murid-murid yang ada untuk memilih guru
+yang tepat untuk di beri sebuah motor mio untuk menjadi kendaraan
+operasional guru tersebut. Honda hingga saat ini belum pernah memberikan
+iklan layanan yang berupa kesaksian, baik kesaksian dari konsumennya
+maupun juga kesaksian dari orang-orang yang pernah merasakan bantuan dari
+Honda.
+• Sedangkan sebanyak 36.67% dari total responden yang ada menjawab tidak,
+hal ini menunjukkan bahwa berdasarkan hasil penelitian yang di lakukan oleh
+peneliti, reponden yang menjawab tidak tersebut menyatakan bahwa
+kesaksian tersebut bisa saja sudah di atur oleh naskah dan cenderung di lebihlebihkan
+di dalam penampilannya.
+Tabel 3.9
+Iklan Yamaha tersebut mendorong untuk merubah sikap anda di
+dalam berkendara
+KATEGORI F %
+Ya 120 100
+Tidak 0
+JUMLAH 120 100
+Pada tabel 3.9 di atas menjelaskan mengenai iklan Yamaha yang di lihat,
+mendorong anda untuk merubah sikap di dalam berkendara. 100% dari total
+responden yang ada menjawab Ya, 0% dari total responden yang ada menjawab
+tidak.
+• Berdasarkan jawaban yang di peroleh, 100% dari total responden yang ada
+menjawab ya. Hal ini menunjukkan bahwa terdapat unsur pembelajaran.
+Berdasarkan pendapat responden iklan layanan tersebut, yang di sajikan
+dalam bentuk kartun yang lucu, telah membantu merubah sikap anak-anak
+SMU di dalam berkendara sehari-harinya, dan hal ini juga memberikan nilai
+lebih bagi Yamaha, di karenakan para pesaing-pesaing Yamaha lainnnya
+tidak ada yang memberikan iklan layanan yang serupa, hal ini menunjukkan
+bahwa Yamaha sangat peduli akan masa depan genenrasi muda bangsa kita,
+dan perubahan gaya berkendara kita, harus di mulai dari para generasi muda
+kita, sehingga di harapkan terjadi perubahan yang sangat signifikan pada
+masa yang akan datang, khususnya terhadap gaya berkendaraan di jalanan
+umum.
+Tabel 3.10
+Berita mengenai penelitian terakhir mengenai mesin Yamaha selalu di
+tunggu-tunggu
+KATEGORI F %
+Ya 74 61.67
+Tidak 46 38.33
+JUMLAH 120 100
+Pada tabel 3.10 di atas menjelaskan mengenai penelitian terakhir mengenai
+perkembangan mesin Yamaha selalu di tunggu-tunggu. 61.67% dari total responden
+yang ada menjawab Ya, 38.33% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 61.67% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa memang hasil penelitian yang di lakukan oleh team riset
+Yamaha, yang tersebar tersebut, memang saling melakukan inovasi-inovasi
+dan kompetisi untuk selalu menjadi yang terdepan. Hal ini terbukti pada
+kegiatan-kegiatan balap lokal maupun pada tingkat asia, di mana pembalappembalap
+kita beserta teknologi Yamaha mampu memberikan yang terbaik
+bagi negara kita. Berdasarkan pendapat responden juga, Honda hingga saat
+ini belum terlalu serius untuk menggarap pasar balapan di negara kita,
+mereka (Honda) lebih memfokuskan pada penjualan bebek massal. Padahal
+di negara tetangga seperti Thailand Honda seringkali menjuarai pertarungan
+di kelas bebek.
+• Sedangkan sebanyak 38.33% dari total responden yang ada menjawab tidak,
+hal ini menunjukkan bahwa, berdasarkan pendapat responden, berita tersebut
+masih terlalu dini untuk langsung di aplikasikan pada motor balapnya, dan di
+perlukan pengujian lebih lanjut. Hal tersebut juga belum tentu benar, karena
+bisa saja informasi yang di tampilkan merupakan salah satu strategi lawan
+untuk mengecoh.
+Tabel 3.11
+Berita di media cetak mengenai keunggulan dari motor Yamaha mengundang
+keingin tahuan untuk membaca lebih
+KATEGORI F %
+Ya 71 59.17
+Tidak 49 40.83
+JUMLAH 120 100
+Pada tabel 3.11 di atas menjelaskan mengenai berita di media cetak mengenai
+keunggulan dari motor Yamaha mengundang keingintahuan untuk membaca lebih.
+59.17% dari total responden yang ada menjawab Ya, 40.83% dari total responden
+yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 59.17% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa berita maupun artikel yang terdapat di majalah-majalah
+memang menarik untuk di baca, sehingga mengundang keingin tahuan kita
+untuk membacanya. Berita tersebut memang di rancang untuk menambah
+keingin tahuan kita, sehingga kita ingin membacanya lebih lanjut lagi.
+Sedangkan pesaing-pesaing Yamaha lainnya belum ada yang berani
+menunjukkan keunggulan dari produk mereka, atau mungkin belum terlalu
+“vokal” di dalam memberitakannnya.
+• Sedangkan sebanyak 40.83% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa berita tersebut
+cenderung untuk menjatuhkan lawan di bandingkan untuk menunjukkan
+keunggulan dari produk Yamaha itu sendiri.
+Tabel 3.12
+Kegiatan nonton bersama MOTOGP yang di lakukan oleh Yamaha
+selalu di nanti kehadirannya
+KATEGORI F %
+Ya 81 67.5
+Tidak 39 32.5
+JUMLAH 120 100
+Pada tabel 3.12 di atas menjelaskan mengenai kegiatan nonton bersama
+MotoGP yang di lakukan oleh Yamaha selalu di nanti kehadirannya. 67.50% dari
+total responden yang ada menjawab Ya, 32.50% dari total responden yang ada
+menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 67.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, kegiatan yang di
+lakukan oleh Yamaha sudah tepat, media yang di gunakan juga sudah tepat,
+kombinasi dari kuis, live musik, sulap, dan acara nonton bersama untuk
+mendukung team Yamaha dan Valentino Rossi yang sedang bersaing di
+kelas MotoGP. Hal ini juga merupakan media untuk mengumpulkan massa
+dalam jumlah yang banyak, dan dapat di gunakan untuk melakukan
+pendekatan secara langsung untuk para salesman Yamaha. Hal ini juga di
+sebabkan Yamaha sebagai sponsor utama dari penayangan acara MotoGP,
+dan acara nonton bersama ini di rolling keliling kota hampir di seluruh
+Indonesia.
+• Sedangkan 32.50% dari total responden yang ada menjawab tidak.
+Berdasarkan hasil penelitian yang di lakukan oleh peneliti, reponden yang
+menjawab tidak tersebut menyatakan bahwa lebih baik menonton di rumah,
+dari pada berdesak-desakkan menonton di lapangan terbuka, seperti di
+lapangan BSM.
+Tabel 3.13
+Ukuran iklan Yamaha yang di lihat membuat tertarik untuk
+membacanya
+KATEGORI F %
+Ya 87 72.5
+Tidak 33 27.5
+JUMLAH 120 100
+Pada tabel 3.13 di atas menjelaskan mengenai ukuran iklan yang di lihat membuat
+tertarik untuk membacanya. 72.50% dari total responden yang ada menjawab Ya,
+27.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, ukuran iklan
+Yamaha sudah tepat dan baik, sehingga hal ini mendorong orang untuk
+tertarik membacanya lebih dalam lagi, karena ukuran yang di gunakan sudah
+tepat, tidak terlau besar dan juga tidak terlau kecil, serta mudah di cari
+keberadaannya di media cetak yang kita baca sehari-hari. Pesaing-pesaing
+lainnya seringkali menggunakan bentuk iklan yang berubah-ubah setiap kali
+di tampilkan.
+• Sedangkan 30% dari total responden yang ada menjawab tidak. Hal ini
+menunjukkan bahwa berdasarkan pendapat responden, ukuran iklan yang di
+gunakan seringkali berubah-rubah, dan bentuknya sudah cenderung monoton.
+Tabel 3.14
+Ilustrasi iklan Yamaha yang di lihat, dapat di percaya
+KATEGORI F %
+Ya 72 60
+Tidak 48 40
+JUMLAH 120 100
+Pada tabel 3.14 di atas menjelaskan mengenai ilustrasi iklan yang di lihat
+dapat di percaya. 60% dari total responden yang ada menjawab Ya, 40% dari total
+responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, walaupun di dalam
+penggambarannya menggunakan metode penggambaran yang terlalu di
+lebih-lebihkan dan berbentuk cerita pendek yang lucu, bukan berbentuk
+penjabaran secara mekanis, tetapi hal ini tetap dapat di percaya baik bagi
+orang yang melihatnya maupun bagi yang tertarik untuk membelinya.
+• Sedangkan sebanyak 30% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, reponden yang menjawab tidak tersebut
+menyatakan bahwa ilustrasi iklan tersebut tidak dapat di percaya, karena
+ilustrasi iklan tersebut merupakan kejadian yang tidak nyata, dan terlalu di
+lebih-lebihkan di dalam penyampaiannya.
+Kesimpulannya aspek kognitif terhadap strategi periklanan Yamaha sangat positif,
+hal ini terbukti berdasarkan jawaban-jawaban yang di berikan oleh responden, yang
+berdasarkan pengetahuan dan persepsi mereka, berasal dari pengalaman, informasi
+yang mereka dapatkan, dan pengamatan terhadap Yamaha.
+3.2.1.1.2 Aspek Afektif Periklanan Yamaha
+Tabel 3.15
+Penggambaran produk Yamaha di media cetak menarik
+KATEGORI F %
+Ya 84 70
+Tidak 36 30
+JUMLAH 120 100
+Pada tabel 3.15 di atas menjelaskan mengenai penggambaran produk Yamaha di
+media cetak menarik. 70% dari total responden yang ada menjawab Ya, sedangkan
+sebesar 30% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 70% dari total responden yang
+ada menjawab ya. Hal ini menunjukkan bahwa penggambaran dari produk
+Yamaha di media cetak memang menarik. Berdasarkan pendapat responden,
+komposisi dari iklan Yamaha seperti bentuk ukuran, kombinasi warna, huruf,
+dan kata-kata, menunjukkan bahwa iklan Yamaha di media cetak memang
+lebih menarik dari pada iklan dari produk-produk pesaingnya yang lain.
+Memang iklan yang di tampilkan di media cetak, di sesuaikan dengan segmen
+dari pasar sasaran yang di tuju oleh pabrikan terhadap produk yang di
+tampilkannya, sehingga bentuk iklan pun berubah-ubah sesuai dengan
+kebutuhannya pasar sasarannya. Cakupan dari iklan tersebut tidak hanya pada
+produk utamanya yaitu sepeda motor, tetapi juga mencakup suku cadang, oli
+dan undangan-undangan untuk mengajak masyarakat untuk mengikuti
+pertandingan yang di adakan oleh pabrikan, dalam hal ini ialah pertandingan
+road race. Iklan Honda di media cetak juga di sesuaikan dengan
+kebutuhannya, tetapi bila di bandingkan Yamaha, Honda terkesan terlambat
+untuk menghadang laju dari Yamaha. Hal ini terjadi mungkin karena Honda
+merasa sebagai market leader dari penjualan sepeda motor di negara kita
+hampir selama 30 tahun, sehingga ketika Yamaha berusaha untuk tampil
+beda, Honda tetap pada penampilannya, di mana iklan-iklan Honda lebih
+berkesan formil, dengan bentuk huruf dan kata-kata yang terkesan baku, baru
+belakangan Honda menyesuaikan diri untuk berperang dengan Yamaha,
+berdasarkan produk motor yang di tuju untuk kalangan anak muda dan untuk
+kalangan wanita.
+• Sebesar 30% dari total responden yang ada menjawab tidak, hal ini
+menunjukkan bahwa berdasarkan hasil penelitian yang di lakukan oleh
+peneliti, penggambaran produk Yamaha di media cetak kurang menarik. Hal
+ini di sebabkan karena, bentuk iklan yang cenderung monoton, dan di
+tampilkan secara terus menerus sehingga sudah tidak menarik lagi untuk di
+lihat. Walaupun mempunyai tujuan untuk merubah pola pikir masyarakat
+kita, dan mungkin hal tersebut sudah terserap di dalam benak konsumen kita,
+tetapi bentuk iklan yang ada memang sudah lama, dan perlu di rubah atau di
+perbaharui, atau mungkin karena mereka sudah melihat ikaln dari motor
+Honda.
+Tabel 3.16
+Model-model di dalam iklan Yamaha menarik
+KATEGORI F %
+Ya 87 72.5
+Tidak 33 27.5
+JUMLAH 120 100
+Pada tabel 3.16 di atas menjelaskan mengenai model-model yang ada di dalam
+iklan Yamaha menarik. 72.5% dari total responden yang ada menjawab Ya, 27.5%
+dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 72.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa model-model yang ada di dalam iklan Yamaha memang
+menarik untuk di lihat, walaupun hanya menggunakan artis lokal sebagai
+model yang di gunakan di dalam iklan motor Yamaha. keputusan Yamaha
+sudah tepat dengan menggunakan aktor dan aktris lokal untuk menjadi duta
+besar dari produk Yamaha yang diwakilkannya. Aktor dan aktris ini juga
+mempunyai tujuan untuk merubah pola pikir masyarakat kita saat ini,
+mengenai nilai-nilai yang sudah tercipta pada masyarakat kita
+terhadapYamaha melalui dialog-dialog yang terdapat di dalam iklan.
+Misalnya untuk skuter matik Yamaha menggunakan Tessa Kaunang dan DJ
+Rara, Ida Lestari sebagai artis senior dan Bunga Citar Lestari, untuk
+menunjukkan agar wanita jangan mau ketinggalan, tidak ada yang salah
+dengan mengendarai sepeda motor, terutama sepeda motor Yamaha Mio.
+Yamaha juga mengajak Putri Indonesia dan Miss Universe untuk
+mempromosikan Yamaha MIO sebagai ikon dari skuter matik untuk wanita.
+Hal ini menunjukkan untuk mendorong para wanita, khususnya para wanita
+Indonesia, agar berani untuk menggunakan sepeda motor.
+• Sedangkan 27.50% dari total responden yang ada menjawab tidak. Beberapa
+reponden yang menjawab tidak tersebut menyatakan bahwa model-model
+yang ada di dalam iklan Yamaha tidak menarik. Hal ini di karenakan di
+dalam iklan tersebut lebih sering muncul artis-artis senior, di bandingkan
+artis-artis mudanya.
+Tabel 3.17
+Jingle yang di dengar mengenai Yamaha enak di dengar
+KATEGORI F %
+Ya 85 70.83
+Tidak 35 29.17
+JUMLAH 120 100
+Pada tabel 3.17 di atas menjelaskan mengenai jingle yang di dengar mengenai
+Yamaha enak untuk di dengar. 70.83% dari total responden yang ada menjawab Ya,
+29.17% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 70.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa jingle yang di gunakan oleh Yamaha saat ini sudah tepat
+dan enak untuk di dengar. Honda hingga saat ini belum menggunakan jingle
+di dalam iklan-iklannya.
+• Sedangkan sebesar 29.17% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, reponden yang menjawab tidak tersebut
+menyatakan bahwa jingle tersebut tidak enak untuk di dengar.
+Tabel 3.18
+Musik yang di dengar di dalam iklan Yamaha menarik
+KATEGO
+RI
+F %
+Ya 78 65
+Tidak 42 35
+JUMLAH 120 100
+Pada tabel 3.18 di atas menjelaskan mengenai musik yang di dengar di dalam
+iklan Yamaha menarik. 65% dari total responden yang ada menjawab Ya, 35% dari
+total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 65% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa musik yang di dengar di dalam iklan Yamaha memang
+menarik dan tidak membosankan. Penggunaan lagu dari band Dewa19
+memang sudah dapat menarik dan sudah tepat. Penggunaan band lokal untuk
+membuat lagu yang dapat mewakili Yamaha sudah benar dan tepat. Honda
+hingga saat ini belum serius untuk menggunkan seluruh sumber daya yang
+ada, misalnya band-band lokal, ataupun juga ikon-ikon lokal, serta lembagalembaga
+yang berkecimpung dengan anak muda di dalam iklan-iklannya.
+• Sedangkan sebanyak 35% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa musik yang di
+dengar di dalam iklan Yamaha kurang menarik, hal ini di tunjukkan dengan
+tidak adanya penjualan lagu tersebut baik di dalam album dari band yang
+bersangkutan, ataupun juga terhadap pendownloadan theme song dari
+Yamaha tersebut di dalam website dari Yamaha Indonesia.
+Tabel 3.19
+Kesaksian yang di lihat dan di dengar mengenai Yamaha dapat di
+percaya
+KATEGORI F %
+Ya 88 73.33
+Tidak 32 26.67
+JUMLAH 120 100
+Pada tabel 3.19 di atas menjelaskan mengenai kesaksian yang di lihat dan dengar
+mengenai Yamaha dapat di percaya. 73.33% dari total responden yang ada menjawab
+Ya, 26.67% dari total responden yang ada menjawab tidak. Hal ini menunjukkan
+bahwa kesaksian yang di lihat dan dengar mengenai Yamaha dapat di percaya.
+• Berdasarkan jawaban yang di peroleh, sebanyak 73.33% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini dikarenakan
+iklan layanan tersebut memang memberikan bukti-bukti yang dapat di
+percayai dan mudah untuk di mengerti dengan baik oleh orang awam, dan
+model-model yang di gunakan memang orang-orang pada umumnya, bukan
+publik figur atau artis ataupun profesional model. Honda hingga saat ini
+belum pernah memberikan iklan layanan yang berupa kesaksian, baik
+kesaksian dari konsumennya maupun juga kesaksian dari orang-orang yang
+pernah merasakan bantuan dari Honda.
+• Sedangkan sebanyak 26.67% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini di karenakan kesaksian tersebut bisa
+saja sudah di atur oleh naskah dan cenderung di lebih-lebihkan di dalam
+penampilannya, agar masyarakat luas menjadi simpati terhadap Yamaha.
+Tabel 3.20
+Unsur pembelajaran dari iklan Yamaha yang di lihat, mendapat
+tambahan pengetahuan
+KATEGORI F %
+Ya 120 100
+Tidak 0 0
+JUMLAH 120 100
+Pada tabel 3.20 di atas menjelaskan mengenai unsur pembelajaran dari iklan
+Yamaha yang di lihat, membuat mendapat tambahan pengetahuan. 100% dari total
+responden yang ada menjawab Ya, 0% dari total responden yang ada menjawab
+tidak.
+• Berdasarkan jawaban yang di peroleh, 100% dari total responden yang ada
+menjawab ya. Berdasarkan pendapat responden, terdapat unsur pembelajaran.
+Hal ini di karenakan iklan tersebut memang memuat perkembangan terbaru
+dari hasil penelitian terakhir yang telah di lakukan oleh team riset Yamaha.
+Hingga saat ini hanya Yamaha yang berani memberikan iklan layanan
+terhadap masyarakat. Dan hal ini juga menunjukkan bahwa Yamaha sangat
+peduli terhadap masyarakat, dan khususnya terhadap konsumen Yamaha.
+Honda hingga saat ini belum pernah memberikan iklan, yang berupa iklan
+layanan terhadap masyarakat, yang mengandung unsur pembelajaran, untuk
+menambah pengetahuan terhadap masyarakat luas.
+Tabel 3.21
+Penelitian terakhir mengenai perkembangan mesin Yamaha dapat di
+percayai
+KATEGORI F %
+Ya 81 67.5
+Tidak 39 32.5
+JUMLAH 120 100
+Pada tabel 3.21 di atas menjelaskan mengenai penelitian terakhir mengenai
+perkembangan mesin Yamaha dapat di percayai. 67.50% dari total responden yang
+ada menjawab Ya, 32.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 67.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa penelitian terakhir yang di lakukan oleh Yamaha
+memang dapat di percayai dan dapat langsung di terapkan, khususnya divisi
+balap dan divisi safety riding. Di mana hal ini tentunya juga akan sangat
+membantu perkembangan dari team balap road race Yamaha, sehingga
+dengan penyebaran teknologi yang merata, maka di harapkan peta kekuatan
+team-team Yamaha berimbang di setiap daerah. Honda termasuk baru dalam
+mengikuti pertarungan di kelas bebek, Honda baru memulai debutnya tahun
+ini, di dalam mengikuti perlombaan road race. Tampaknya Honda mulai
+menyadari bahwa balapan road race merupakan salah satu tolak ukur dari
+kemampuan mesin-mesin bebek yang beredar di masyarakat. Dan masyarakat
+kita yang semakin kritis, juga memperhatikan kemampuan dari motor melalui
+acara road race yang di lihatnya, sehingga muncul keinginnan untuk membeli
+motor baru.
+• Sedangkan sebanyak 32.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan masih terlalu dini
+untuk di terapkan, dan di perlukan pengujian lebih lanjut.
+Tabel 3.22
+Program from zero to hero Yamaha untuk mempersiapkan pembalap
+lokal untuk menjadi salah satu pembalap di MotoGP, membuat percaya
+pada Yamaha
+KATEGORI F %
+Ya 84 70
+Tidak 36 30
+JUMLAH 120 100
+Pada tabel 3.22 di atas menjelaskan mengenai program from zero to hero Yamaha
+untuk mempersiapkan pembalap lokal untuk menjadi salah satu pembalap di kelas
+MotoGP. 70% dari total responden yang ada menjawab Ya, 30% dari total responden
+yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa program from zero to hero Yamaha di dukung oleh
+masyarakat kita, dan juga mempunyai tujuan untuk membantu mengangkat
+dan juga untuk memperbaiki citra negara kita di mata dunia, hal ini juga
+untuk membuktikan bahwa sumber daya manusia kita juga mampu untuk
+bersaing di kelas balapan dunia dengan menggunakan motor Yamaha. Hingga
+saat ini Honda belum mempunyai program-program yang mendukung
+perkembangan dari para pembalap-pembalap lokal kita. Padahal di luar
+negeri Honda sendiri mempunyai sekolah khusus untuk menjadi pembalap
+profesional.
+• Sedangkan sebanyak 30% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa olah raga ini
+termasuk yang memiliki resiko kecelakaan yang tinggi, sehingga walaupun
+olah raga ini dapat memajukan citra dan harga diri bangsa kita, tetapi perlu
+untuk di pikirkan kembali.
+Tabel 3.23
+Bentuk iklan Yamaha yang berwarna lebih menarik untuk di lihat
+KATEGORI F %
+Ya 84 70
+Tidak 36 30
+JUMLAH 120 100
+Pada tabel 3.2.1.1.2.9 di atas menjelaskan mengenai bentuk iklan Yamaha
+yang berwarna, lebih menarik untuk di lihat. 70% dari total responden yang ada
+menjawab Ya, 30% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa bentuk iklan berwarna memang lebih menarik untuk di
+lihat di bandingkan dengan bentuk iklan yang berwarna hitam putih.
+Walaupun pesaing-pesaing Yamaha lainnya juga menggunakan iklan
+berwarna, tetapi kombinasi warna dari iklan Yamaha, terlihat lebih menarik.
+• Sedangkan sebanyak 30% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa warna-warna
+yang di gunakan di dalam iklan Yamaha, kurang menarik untuk di lihat,
+seharusnya lebih berwarna-warni, atau bila perlu di tampilkan secara grafiti
+Tabel 3.24
+Ilustrasi iklan Yamaha yang di lihat menarik
+KATEGORI F %
+Ya 88 orang 73.33
+Tidak 32 orang 26.67
+JUMLAH 120 orang 100
+Pada tabel 3.24 di atas menjelaskan mengenai ilustrasi iklan Yamaha yang di
+lihat menarik. 73.33% dari total responden yang ada menjawab Ya, 26.67% dari total
+responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 73.33% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa walaupun ilustrasi iklan yang di tayangkan bersifat
+hiperbolis atau terlalu di besar-besarkan, tetapi hal ini tetap dapat menarik
+perhatian baik bagi orang yang melihatnya maupun bagi yang tertarik untuk
+membelinya.
+• Sedangkan sebanyak 26.67% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa iklan tersebut
+kurang menarik, hal ini mungkin di karenakan di dalam penyampaiannya
+yang terlalu di lebih-lebihkan.
+Kesimpulannya aspek afektif terhadap strategi periklanan, hal ini terbukti
+berdasarkan jawaban-jawaban yang di berikan oleh responden, yang berdasarkan
+pada emosi atau perasaan responden terhadap Yamaha.
+3.2.1.2 Sales Promotion Yamaha
+Pada saat ini strategi periklanan yang sedang di terapkan oleh Yamaha, lebih di
+terapkan untuk mendukung proses dari periklannan, yang sedang berusaha untuk
+merubah pola pikir masyarakat kita terhadap merek dagang Yamaha. Dan juga, di
+dalam peta persaingan penjualan sepeda motor bebek di negara kita, Yamaha sedang
+bersaing sengit dengan pesaing utamanya Honda, sehingga areal sales promotion
+merupakan pertarungan utama di dalam proses untuk mencari dan menjaring
+pelanggan sebanyak-banyaknya.
+3.2.1.2.1 Aspek Kognitif Sales PromotionYamaha
+Tabel 3.25
+Pengurangan harga yang di berikan oleh Yamaha sewaktu melakukan
+promosi berjalan menarik dan besar jumlahnya, sehingga menguntungkan
+KATEGORI F %
+Ya 101 84.17
+Tidak 19 15.83
+JUMLAH 120 100
+Pada tabel 3.25 di atas menjelaskan mengenai pengurangan harga yang di
+berikan oleh Yamaha sewaktu melakukan promosi berjalan, menarik dan besar
+jumlahnya, sehingga menguntungkan konsumen. 84.17% dari total responden yang
+ada menjawab Ya, 15.83% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 73.33% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa promosi berjalan yang dilakukan oleh Yamaha, menarik
+dan besar jumlahnya, sehingga menguntungkan bagi konsumen yang tertarik
+untuk membelinya. Di bandingkan pesaing-pesaing Yamaha lainnya, harga
+dari produk Yamaha memang berada di tengah-tengah, artinya tidak terlalu
+mahal dan juga tidak terlalu murah, dan dengan adanya pengurangan harga
+yang cukup besar, terutama pada saat terjadinya promosi berjalan seperti di
+mal-mal, maka harga yang di berikan memudahkan konsumen untuk membeli
+dan untuk mengangsurnya.
+• Sedangkan sebanyak 15.83% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa pengurangan
+harga yang di lakukan oleh Yamaha kurang banyak jumlahnya, sehingga
+kurang menguntungkan bagi konsumen.
+Tabel 3.26
+Barang-barang yang di berikan oleh Yamaha (helm dan jaket) ketika
+membeli motor Yamaha mendorong untuk membeli motor Yamaha
+KATEGORI F %
+Ya 85 70.83
+Tidak 35 29.13
+JUMLAH 120 100
+Pada tabel 3.26 di atas menjelaskan mengenai barang-barang yang di berikan
+oleh Yamaha ( helm dan Jaket) ketika membeli motor Yamaha, mendorong anda
+untuk membeli motor Yamaha. 70.83% dari total responden yang ada menjawab Ya,
+29.13% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa barang-barang yang di berikan oleh Yamaha ( helm dan
+Jaket) ketika membeli motor Yamaha, merupakan salah satu faktor
+pendorong bagi konsumen untuk membeli motor Yamaha. Desain helm dan
+jaket yang modis dan trendi juga mendorong konsumen untuk membeli
+motor, hal ini menunjukkan bahwa Yamaha sangat serius untuk memanjakan
+para konsumennya, jika di bandingkan dengan para pesaing lainnya, yang
+terkesan hanya sekedar memberikan, sebagai bentuk standar dari pelayanan
+mereka terhadap konsumennya. Sedangkan pesaing-pesaing lainnya seakanakan,
+setengah-setengah di dalam memberikannya kepada konsumen, padahal
+hadiah-hadiah tersebut sudah merupakan standar dari pabrikan, dan juga
+merupakan hak dari konsumen untuk mendapatkannya.
+• Sedangkan sebanyak 29.13% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa berdasarkan
+hasil penelitian yang di lakukan oleh peneliti, reponden yang menjawab tidak
+tersebut menyatakan bahwa barang-barang yang di berikan oleh Yamaha
+(helm dan jaket) kurang menarik bagi konsumen, karena konsumen lebih
+memilih paket harga yang murah di bandingkan insentif-insentif yang di
+berikan baik berupa jaket maupun helm.
+Tabel 3.27
+Percobaan gratis yang di sediakan oleh perusahaan membuat semakin
+percaya Yamaha
+KATEGORI F %
+Ya 89 74.17
+Tidak 31 25.83
+JUMLAH 120 100
+Pada tabel 3.27 di atas menjelaskan mengenai percobaan gratis yang di
+sediakan oleh perusahaan membuat anda semakin percaya kepada Yamaha. 74.17%
+dari total responden yang ada menjawab Ya, 25.83% dari total responden yang ada
+menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 74.17% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa percobaan gratis yang di sediakan oleh Yamaha,
+merupakan salah satu standard service yang di sediakan oleh perusahaan, dan
+faktor ini juga merupakan salah satu dari faktor pendorong utama bagi
+konsumen untuk membeli motor Yamaha, karena dengan merasakan
+mengendarai motor Yamaha, konsumen dapat menrasakan membeli sebuah
+motor yang benar-benar dapat mereka gunakan dan nikmati. Percobaan gratis
+dari sebuah produk merupakan hak dari konsumen untuk mencobanya
+sehingga konsumenpun tidak di rugikan, dan tidak akan merasa di tipu oleh
+principal ketika membeli produk yang di tawarkan kepadanya.
+• Sedangkan sebanyak 25.83% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa mencoba
+sebuah motor, merupakan hak dari konsumen di dalam membeli ataupun
+mencoba sebuah produk motor yang akan di belinya. Selain itu masih banyak
+hal-hal lainnya yang perlu di pikirkan, dari pada hanya sekedar mencobanya.
+Tabel 3.28
+Garansi motor Yamaha yang di berikan oleh perusahaan adalah garansi
+yang menguntungkan pembelinya
+KATEGORI F %
+Ya 93 77.5
+Tidak 27 22.5
+JUMLAH 120 100
+Pada tabel 3.28 di atas menjelaskan garansi motor Yamaha yang di berikan
+oleh perusahaan adalah garansi yang menguntungkan pembelinya. 77.5% dari total
+responden yang ada menjawab Ya, 22.5% dari total responden yang ada menjawab
+tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 77.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa garansi motor Yamaha yang di berikan oleh perusahaan
+adalah garansi yang menguntungkan pembelinya, hal ini merupakan salah
+satu faktor penting bagi konsumen untuk membeli motor Yamaha, dan juga
+merupakan salah satu faktor yang menarik minat dari para konsumen untuk
+membeli motor Yamaha. Yamaha termasuk berani untuk mengganti
+produknya yang cacat dengan sebuah produk baru bagi konsumenkonsumennya.
+Dan dengan demikian merekapun (Yamaha) mendapat nilai
+lebih di mata masyarakat kita. Contohnya di luar negri semua produk motor
+Yamaha YZF-250 SE periode 2005 di tarik keseluruhannya, karena
+departemen riset Yamaha menemukan cacat dari salah satu spare parts yang
+menempel pada motor yang di jual massal tersebut, setelah di lakukan recall
+motorpun di kembalikan kepada konsumen, layaknya seperti motor baru.
+Untuk di Indonesia hal tersebut belum pernah terjadi, hal ini di karenakan
+kasus seperti di atas belum pernah terjadi sebelumnya, dan bila memang
+terjadi Yamaha tidak segan-segan untuk merecall produk yang bermasalah
+tersebut.
+• Sedangkan sebanyak 22.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa garansi dari
+pabrikan cenderung lebih melindungi pabrikan di banding untuk melndungi
+konsumen.
+Tabel 3.29
+Pajangan yang di lakukan oleh Yamaha sudah mencakup semua
+produk motornya
+KATEGORI F %
+Ya 81 67.5
+Tidak 39 32.5
+JUMLAH 120 100
+Pada tabel 3.29 di atas menjelaskan mengenai pajangan yang di lakukan oleh
+Yamaha, sudah mencakup semua produk motornya. 67.50% dari total responden
+yang ada menjawab Ya, 32.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 67.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa pajangan yang di lakukan oleh Yamaha, sudah
+mencakup semua produk motornya. Pajangan merupakan salah satu faktor
+pendorong bagi konsumen untuk membeli motor Yamaha. Kelengkapan dari
+sebuah pajangan dapat memberikan ikatan emosi dari konsumen, dan hal ini
+juga merupakan salah satu faktor yang menarik minat dari para konsumen
+untuk membeli motor Yamaha.
+• Sedangkan sebanyak 32.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa pajangan yang
+di lakukan oleh Yamaha, belum mencakup semua produk-produknya.
+Sehingga konsumenpun tidak dapat melihat dan memegangnya, walaupun
+motor tidak dalam keadaan hidup.
+Tabel 3.30
+Demonstrasi yang di lakukan oleh Yamaha mengenai produk motornya
+membuat semakin percaya pada Yamaha
+KATEGORI F %
+Ya 73 Orang 60.83
+Tidak 47 orang 39.17
+JUMLAH 120 orang 100
+Pada tabel 3.30 di atas menjelaskan mengenai demonstrasi yang di lakukan oleh
+Yamaha mengenai produk motornya membuat anda semakin percaya pada Yamaha.
+60.83% dari total responden yang ada menjawab Ya, 39.17% dari total responden
+yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 60.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa demonstrasi yang di lakukan oleh Yamaha, mengenai
+produk motornya membuat anda semakin percaya pada Yamaha. Demonstrasi
+sebuah produk, merupakan sebuah bentuk nyata dari pabrikan untuk terbuka,
+dengan cara menunjukkan keungggulan dari produk yang telah di
+hasilkannya. Hal ini merupakan salah satu faktor pendorong bagi konsumen
+untuk membeli motor Yamaha.
+• Sedangkan sebanyak 39.17% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa demonstrasi
+yang di lakukan oleh Yamaha, tidak semakin membuat percaya konsumen,
+karena bisa saja motor yang di demonstrasikan sudah mengalami perubahan
+spesifikasinya, di bandingkan dengan model standar yang di jual di pasaran.
+Kesimpulannya aspek kognitif terhadap strategi sales promotion Yamaha sangat
+positif, hal ini terbukti berdasarkan jawaban-jawaban yang di berikan oleh
+responden, yang berdasarkan pengetahuan dan persepsi mereka, berasal dari
+pengalaman, informasi yang mereka dapatkan, dan pengamatan terhadap
+Yamaha.
+3.2.1.2.2 Aspek Afektif Sales PromotionYamaha
+Tabel 3.31
+Paket harga yang di berikan oleh Yamaha menarik dan
+menguntungkan
+KATEGORI F %
+Ya 76 63.33
+Tidak 44 36.67
+JUMLAH 120 100
+Pada tabel 3.31 di atas menjelaskan mengenai paket harga harga yang di
+berikan oleh Yamaha, menarik dan menguntungkan. 63.33% dari total responden
+yang ada menjawab Ya, 36.67% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 63.33% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa paket harga yang diberikan oleh Yamaha, menarik dan
+menguntungkan konsumen. Paket harga ini pun di tujukan untuk membantu
+meringankan konsumen baik di dalam membayar kredit motor berjalan, juga
+untuk meningkatkan kualitas hidup masyarakat kita pada umumnya.
+• Sedangkan sebesar 36.67% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa paket harga
+yang di lakukan oleh Yamaha kurang menarik dan kurang menguntungkan
+bagi konsumen, karena jumlahnya yang kurang rendah, dan hal ini juga di
+sebabkan oleh karena persaingan harga yang sangat kompetitif antar industri
+sepeda motor di dalam negara kita.
+Tabel 3.32
+Barang-barang yang di berikan oleh Yamaha (helm, jaket, TV, Voucher
+belanja, voucher bensin, motor) ketika membeli motor Yamaha, menarik
+KATEGORI F %
+Ya 90 75
+Tidak 30 25
+JUMLAH 120 100
+Pada tabel 3.32 di atas menjelaskan mengenai barang-barang yang di berikan
+oleh Yamaha (helm ,jaket, TV, voucher belanja, voucher bensin, motor) ketika
+membeli motor Yamaha, menarik. 75% dari total responden yang ada menjawab Ya,
+25% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 75% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa barang-barang yang di berikan oleh Yamaha (helm
+,jaket, TV, voucher belanja, voucher bensin, motor) ketika membeli motor
+Yamaha, menarik sehingga hal ini merupakan salah satu faktor pendorong
+bagi konsumen untuk membeli motor Yamaha. Hal ini menunjukkan bahwa
+Yamaha sangat serius untuk memanjakan para konsumennya, di bandingkan
+dengan para pesaing-pesaing lainnya. Walaupun pesaing-pesaing lainnya juga
+membarikan hadiah serupa, tetapi hal tersebut termasuk di dalam undian
+besar, yang akan di undi setelah satu periode tertentu.
+• Sedangkan sebanyak 25% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa barang-barang
+yang di berikan oleh Yamaha (helm dan jaket) kurang menarik bagi
+konsumen.
+Tabel 3.33
+Perlombaan (autocontest, automodification) yang di adakan oleh
+Yamaha menarik untuk di ikuti
+KATEGORI F %
+Ya 78 65
+Tidak 42 35
+JUMLAH 120 100
+Pada tabel 3.33 di atas menjelaskan mengenai perlombaan (autocontest,
+automodification) yang di adakan oleh Yamaha, menarik untuk di ikuti. 65% dari
+total responden yang ada menjawab Ya, 35% dari total responden yang ada
+menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 65% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa perlombaan-perlombaan yang di adakan oleh Yamaha,
+menarik untuk diikuti. Trend ini sedang menjamur di kota-kota besar pada
+umumnya, dan hal ini menunjukkan juga bahwa orang-orang semakin peduli
+akan motor yang di pakainya sehari-hari dan hal ini juga merupakan salah
+satu faktor pendorong bagi konsumen untuk membeli motor Yamaha. Hingga
+saat ini para pesaing-pesaing Yamaha belum begitu serius untuk menggelar
+lomba-lomba modifikasi ataupun perlombaan-perlombaan lainnya, dan
+pabrikanpun tidak mendukung perlombaan modifikasi ini, kecuali Yamaha
+tentunya.
+• Sedangkan sebanyak 35% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa perlombaan
+tersebut kurang menarik untuk di ikuti, hal ini di sebabkan, jumlah biaya
+yang harus di keluarkan untuk melakukan modifikasi sangatlah mahal,
+sehingga kurang menarik untuk di ikuti.
+Tabel 3.34
+Undian (Yamaha YZF-R6) yang di lakukan oleh Yamaha menarik
+KATEGORI F %
+Ya 80 66.67
+Tidak 40 33.33
+JUMLAH 120 100
+Pada tabel 3.34 di atas menjelaskan mengenai undian (Yamaha YZF-R6)
+yang di lakukan oleh Yamaha, menarik. 66.67% dari total responden yang ada
+menjawab Ya, 33.33% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 66.67% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa undian yang di lakukan oleh Yamaha (Yamaha YZFR6)
+menarik, hal ini merupakan salah satu faktor pendorong bagi konsumen
+untuk membeli motor Yamaha, walaupun hanya berupa hadiah utama tetapi
+undian ini juga merupakan salah satu faktor yang menarik minat dari para
+konsumen untuk mendapatkannya. Sedangkan pesaing-pesaing Yamaha
+lainnya belum ada yang memberikan hadiah yang begitu besar, hadiah yang
+di berikan cenderung hanya berbentuk lips services untuk memuaskan
+pelanggannya, dan untuk menarik perhatian dari konsumennya.
+• Sedangkan sebanyak 33.33% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa undian yang di
+lakukan oleh Yamaha (YAMAHA YZF-R6) kurang menarik bagi konsumen,
+dan sangat tidak masuk akal, karena untuk mengendarai sebuah motor 600cc
+sangat susah dan resiko yang di timbulkan juga sangat berbahaya, selain itu,
+motor ini jusru dapat membahayakan orang yang mendapatkannya.
+Tabel 3.35
+Kuis-kuis yang di berikan oleh Yamaha baik dan menarik untuk di
+ikuti
+KATEGORI F %
+Ya 69 57.5
+Tidak 51 42.5
+JUMLAH 120 100
+Pada tabel 3.35 di atas menjelaskan mengenai kuis-kuis yang di berikan oleh
+Yamaha, baik dan menarik untuk di ikuti. 57.50% dari total responden yang ada
+menjawab Ya, 42.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 57.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa kuis-kuis yang di lakukan oleh Yamaha baik dan
+menarik untuk di ikuti serta di tayangkan secara nasional. Sedangkan
+pesaing-pesaingnya masih memberikan kuis-kuis yang mengikutsertakan
+lembaga-lembaga lainnya untuk memberikan hadiah, contohnya seperti
+undian pada bank-bank.
+• Sedangkan sebanyak 42.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa kuis-kuis yang
+di lakukan oleh Yamaha kurang menarik bagi konsumen, hal ini di
+karenakan, kuis-kuis yang di adakan tersebut hanya bersifat sementara, tidak
+dalam satu periode yang lama, dan kuis-kuis tersebut tidak mencakup
+pengetahuan umum, melainkan hanya mencakup sekitar dunia motor saja,
+terutama MotoGP.
+Tabel 3.36
+Pajangan yang di lakukan oleh Yamaha terhadap semua produk
+motornya menarik
+KATEGORI F %
+Ya 81 67.50
+Tidak 39 32.50
+JUMLAH 120 100
+Pada tabel 3.36 di atas menjelaskan mengenai pajangan yang di lakukan oleh
+Yamaha terhadap semua produk motornya menarik. 67.50% dari total responden
+yang ada menjawab Ya, 32.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 67.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa pajangan yang di lakukan oleh Yamaha terhadap semua
+produk motornya menarik. Pajangan merupakan faktor pendorong bagi
+konsumen untuk membeli motor Yamaha. Kelengkapan dari sebuah pajangan
+dapat memberikan dorongan untuk menarik perhatian dari konsumen
+terhadap motor Yamaha.
+• Sedangkan sebanyak 32.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa pajangan yang
+di lakukan oleh Yamaha, kurang menarik. Konsumen saat ini sangat kritis di
+dalam membeli sebuah kendaraan, sehingga pajangan yang merupakan
+bentuk nyata ketersediaan pabrikan untuk melayani konsumen, tidak dapat
+memuaskan keinginan dari pelanggannya.
+Tabel 3.37
+Demonstrasi yang di lakukan oleh Yamaha mengenai produk
+motornya menarik untuk di lihat
+KATEGORI F %
+Ya 120 100
+Tidak 0 0
+JUMLAH 120 100
+Pada tabel 3.37 di atas menjelaskan mengenai demonstrasi yang di lakukan oleh
+Yamaha mengenai produk motornya menarik untuk di lihat. 100% dari total
+responden yang ada menjawab Ya, 0% dari total responden yang ada menjawab
+tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 100% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa demonstrasi yang di lakukan oleh Yamaha, mengenai
+produk motornya memang menarik untuk di lihat. Saat ini demonstrasi
+sebuah produk, sudah di lakukan oleh sekelompok team profesional, sehingga
+kemampuan motor yang bisa di tunjukkan bisa di coba hingga pada titik
+maksimal, dan juga demonstrasi ini dapat memberikan hiburan yang menarik
+bagi masyarakat yang menontonnya.
+Kesimpulannya aspek afektif terhadap strategi sales promotion Yamaha sangat
+positif, hal ini terbukti berdasarkan jawaban-jawaban yang di berikan oleh
+responden, yang berdasarkan pada emosi atau perasaan responden terhadap
+Yamaha
+3.2.1.3 Public Relation
+Humas atau public relation merupakan kepanjangan langsung dari pabrikan
+untuk berhadapan langsung dengan para konsumennya. Dan hal ini merupakan
+komitmen langsung Yamaha, terhadap pelayanannya kepada masyarakat, dan
+terhadap konsumen Yamaha pada khususnya. Departemen bagian humas saat ini
+mempunyai tugas yang sangat berat, karena bagian humas, terutama humas Yamaha,
+mempuyai kewajiban untuk dapat mengatasi semua permasalahan yang di hadapi
+oleh masyarakat kita secara hampir secara keseluruhan, dan juga harus mempunyai
+kemampuan untuk menghasilkan win win solution baik bagi konsumen, maupun bagi
+Yamaha.
+3.2.1.3.1 Aspek Kognitif Publik Relation Yamaha
+Tabel 3.38
+Artikel mengenai Yamaha dapat di percaya
+KATEGORI F %
+Ya 83 69.17
+Tidak 37 30.83
+JUMLAH 120 100
+Pada tabel 3.38 di atas menjelaskan mengenai artikel mengenai Yamaha
+dapat di percaya. 69.17% dari total responden yang ada menjawab Ya, 30.83% dari
+total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 69.17% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa artikel mengenai Yamaha dapat di percaya. Di
+karenakan artikel tersebut di terbitkan oleh surat kabar yang memiliki
+kredibilitas yang baik, sehingga tulisannya dapat di percaya. Dan juga artikel
+tersebut di susun, berdasarkan keadaan di lapangan, dan di lakukan oleh
+orang-orang yang profesional di bidangnya.
+• Sedangkan sebesar 30.83% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa artikel
+mengenai Yamaha tidak dapat di percaya, karena bisa saja artikel tersebut di
+tulis untuk menaikkan pamor dari Yamaha, dan bisa juga artikel tersebut di
+buat-buat, agar konsumen dapat mempercayainya.
+Tabel 3.39
+Seminar safety riding science yang di lakukan oleh Yamaha sangat berguna
+untuk menambah wawasan
+KATEGORI F %
+Ya 120 100
+Tidak 0 0
+JUMLAH 120 100
+Pada tabel 3.39 di atas menjelaskan mengenai seminar safety riding science
+yang di lakukan oleh Yamaha, sangat berguna untuk menambah wawasan. 100% dari
+total responden yang ada menjawab Ya, 0% dari total responden yang ada menjawab
+tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 120 orang atau sebesar 100%
+dari total responden yang ada menjawab ya. Berdasarkan pendapat
+responden, hal ini menunjukkan bahwa seminar safety riding science yang di
+lakukan oleh Yamaha, sangat berguna untuk menambah wawasan,terutama
+bagi para pengendara sepeda motor.
+Tabel 3.40
+Acara MOTOGP di Trans7 yang di sponsori oleh Yamaha membuat anda
+lebih tertarik terhadap Yamaha
+KATEGORI F %
+Ya 85 70.83
+Tidak 35 29.17
+JUMLAH 120 100
+Pada tabel 3.40 di atas menjelaskan mengenai acara MOTOGP di Trans7
+yang di sponsori oleh Yamaha membuat anda lebih tertarik terhadap Yamaha.
+70.83% dari total responden yang ada menjawab Ya, 29.17% dari total responden
+yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa acara MOTOGP di Trans7 yang di sponsori oleh
+Yamaha memang membuat lebih tertarik terhadap Yamaha. Karena pada
+acara tersebut, telah di kemas bentuk hiburan yang menarik untuk di tonton.
+• Sedangkan sebanyak 29.17% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa acara
+MOTOGP di Trans7 yang di sponsori oleh Yamaha tidak membuatnya lebih
+tertarik terhadap Yamaha. Karena acara ini hanya merupakan bentuk hiburan
+semata, yang di sponsori oleh sebuah produk motor.
+Tabel 3.41
+Berita mengenai penemuan-penemuan dan hasil riset R&D Yamaha
+dapat di percayai
+KATEGORI F %
+Ya 90 75
+Tidak 30 25
+JUMLAH 120 100
+Pada tabel 3.41 di atas menjelaskan mengenai berita mengenai penemuanpenemuan
+dan hasil riset R&D Yamaha dapat di percayai. 75% dari total responden
+yang ada menjawab Ya, 25% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa berita mengenai penemuan-penemuan dan hasil riset
+R&D Yamaha dapat di percayai. Karena penelitian dan penemuan-penemuan
+yang terjadi di lakukan oleh orang-orang yang profesional di bidangnnya, dan
+sudah berpengalaman.
+• Sedangkan sebanyak 25% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa berita
+mengenai penemuan-penemuan dan hasil riset R&D Yamaha belum dapat di
+percayai, hal ini di karenakan di butuhkan pembuktian lebih lanjut terhadap
+penemuan-penemuan baru tersebut.
+Tabel 3.42
+Kegiatan sosial acara road show siraman rohani yang bertema SENTUH
+HATI DENGAN CINTAyang di buat oleh Yamaha bersama Aa Gym layak
+untuk di ikuti
+KATEGORI F %
+Ya 45 37.5
+Tidak 75 62.5
+JUMLAH 120 100
+Pada tabel 3.42 di atas menjelaskan mengenai kegiatan sosial acara road show
+siraman rohani yang bertema SENTUH HATI DENGAN CINTA yang di buat
+oleh Yamaha bersama Aa Gym layak untuk di ikuti. 37.50% dari total responden
+yang ada menjawab Ya, 62.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 37.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa kegiatan sosial acara road show siraman rohani yang
+bertema SENTUH HATI DENGAN CINTA yang di buat oleh Yamaha
+bersama Aa Gym layak untuk di ikuti.
+• Sedangkan sebanyak 62.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa kegiatan sosial
+acara road show siraman rohani yang bertema SENTUH HATI DENGAN
+CINTA yang di buat oleh Yamaha bersama Aa Gym tidak layak untuk di
+ikuti, hal ini di karenakan kasus Aa Gym yang menikah kembali, memberikan
+dampak yang luar biasa besarnya, bahkan terhadap program ini.
+Kesimpulannya aspek kognitif terhadap strategi publik relationYamaha sangat
+positif, hal ini terbukti berdasarkan jawaban-jawaban yang di berikan oleh
+responden, yang berdasarkan pengetahuan dan persepsi mereka, berasal dari
+pengalaman, informasi yang mereka dapatkan, dan pengamatan terhadap
+Yamaha.
+3.2.1.3.2 Aspek Afektif Publik Relation Yamaha
+Tabel 3.43
+Brosur mengenai Yamaha yang anda lihat menarik dan menunjukkan
+Yamaha adalah motor yang unggul
+KATEGORI F %
+Ya 85 70.83
+Tidak 35 29.17
+JUMLAH 120 100
+Pada tabel 3.43 di atas menjelaskan mengenai brosur mengenai Yamaha yang
+anda lihat menarik dan menunjukkan Yamaha adalah motor yang unggul. 70.83%
+dari total responden yang ada menjawab Ya, sedangkan 29.17% dari total responden
+yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa brosur mengenai Yamaha yang di lihat memang
+menarik dan menunjukkan Yamaha adalah motor yang unggul, walaupun
+hanya berupa brosur tetapi brosur ini dapat memberikan dorongan untuk
+membeli, jika brosur tersebut di rancang untuk tampil menarik dan
+menunjukkan keunggulan dari produk yang di wakilkannya. Hal ini di
+karenakan selain menjual motor, Yamaha pun menjual mimpi, dengan cara
+memberikan brosur yang terbaik, baik dari materi dari brosur tersebut sampai
+dengan materi dari kertas yang terbaik untuk brosur tesebut.
+• Sedangkan sebanyak 29.17% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa brosur
+mengenai Yamaha yang di lihat kurang menarik dan tidak menunjukkan
+Yamaha adalah motor yang unggul, karena brosur tersebut bersifat hiperbolis
+dan tidak menunjukkan keunggulan Yamaha lebih mendetail.
+Tabel 3.44
+Artikel mengenai Yamaha menarik untuk di baca
+KATEGORI F %
+Ya 80 66.67
+Tidak 40 33.33
+JUMLAH 120 100
+Pada tabel 3.44 di atas menjelaskan mengenai artikel mengenai Yamaha
+dapat menarik untuk di baca. 66.67% dari total responden yang ada menjawab Ya,
+33.33% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 66.67% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa artikel mengenai Yamaha memang menarik untuk di
+baca. Hal ini di karenakan bahwa artikel tersebut di memuat pengetahuanpengetahun
+baru bagi, penelitian-penelitian terakhir yang di lakukan oleh
+team R&D Yamaha yang profesional di bidangnya.
+• Sedangkan sebanyak 33.33% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa artikel
+mengenai Yamaha dapat menarik untuk di baca, karena artikel tersebut di
+tulis untuk menaikkan pamor dari Yamaha, dan bisa juga artikel tersbut di
+buat-buat, agar konsumen dapat mempercayainya.
+.
+Tabel 3.45
+Seminar safety riding science yang di lakukan oleh Yamaha menarik
+untuk di ikuti
+KATEGORI F %
+Ya 120 100
+Tidak 0 0
+JUMLAH 120 100
+Pada tabel 3.45 di atas menjelaskan mengenai seminar safety riding science
+yang di lakukan oleh Yamaha, menarik untuk di ikuti. 100% dari total responden
+yang ada menjawab Ya, 0% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 100% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa seminar safety riding science yang di lakukan oleh
+Yamaha, menarik untuk di ikuti dan sangat berguna untuk menambah
+wawasan, terutama bagi para pengendara sepeda motor.
+Tabel 3.46
+Acara nonton bersama yang di lakukan oleh Yamaha menarik
+KATEGORI F %
+Ya 101 84.17
+Tidak 19 15.83
+JUMLAH 120 100
+Pada tabel 3.46 di atas menjelaskan mengenai acara nonton bersama yang di
+lakukan oleh Yamaha menarik. 84.17% dari total responden yang ada menjawab Ya,
+15.83% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 84.17% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa acara nonton bersama yang di lakukan oleh Yamaha
+memang menarik untuk di ikuti. Di dalam acara nonton bersama terdapat
+hiburan, kuis dan harga khusus selama pameran berlangsung, sehingga bayak
+penonton atau pengunjug yang datang ke stand-stand Yamaha.
+• Sedangkan sebanyak 15.83% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa acara nonton
+bersama yang di lakukan oleh Yamaha kurang menarik, karena penuh dengan
+orang, serta acara yang padat, membuat mereka lebih memilih untuk
+menonton di rumah ataupun di kafe-kafe.
+Tabel 3.47
+Kompetisi One Make Race (OMR) Yamaha menarik untuk di ikuti
+KATEGORI F %
+Ya 83 69.17
+Tidak 37 30.83
+JUMLAH 120 100
+Pada tabel 3.47 di atas menjelaskan mengenai kompetisi One Make Race
+(OMR) Yamaha, menarik untuk di ikuti. 69.17% dari total responden yang ada
+menjawab Ya, 30.83% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 69.17% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa kompetisi One Make Race (OMR) Yamaha, menarik
+untuk di ikuti. Karena kompetisi ini hanya memperlombakan merek yang
+sama, sehingga persaingan pun akan semakin ramai, karena kekuatan
+motornya pun tidak akan jauh berbeda.
+• Sedangkan sebanyak 30.83% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa mengenai
+kompetisi One Make Race (OMR) Yamaha, kurang menarik untuk di ikuti,
+karena selain mahal, kompetisi ini juga memiliki tingkat kecelakaan yang
+tinggi.
+Tabel 3.48
+Acara MOTOGP di Trans7 yang di sponsori oleh Yamaha menarik
+untuk di tonton
+KATEGORI F %
+Ya 82 68.33
+Tidak 38 31.67
+JUMLAH 120 100
+Pada tabel 3.48 di atas menjelaskan mengenai acara MOTOGP di Trans7
+yang di sponsori oleh Yamaha menarik untuk di tonton. 68.33% dari total responden
+yang ada menjawab Ya, 31.67% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh sebanyak 68.33% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa acara MOTOGP di Trans7 yang di sponsori oleh
+Yamaha menarik untuk di tonton. Karena pada acara tersebut, telah di kemas
+suatu bentuk hiburan yang menarik untuk di tonton.
+• Sedangkan sebanyak 31.67% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, responden menyatakan bahwa acara
+MOTOGP di Trans7 yang di sponsori oleh Yamaha kurang menarik untuk di
+tonton. Karena pertandingan di motogp tidak semenarik pertandingan olah
+raga lainnya, misalnya sepakbola.
+Tabel 3.49
+Berita mengenai produk terbaru Yamaha V-ixion menarik
+KATEGORI F %
+Ya 87 72.5
+Tidak 33 27.5
+JUMLAH 120 100
+Pada tabel 3.49 di atas menjelaskan mengenai berita mengenai produk terbaru
+Yamaha V-ixion menarik. 72.50% dari total responden yang ada menjawab Ya,
+27.50% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 70.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa berita mengenai produk terbaru Yamaha V-ixion
+menarik, dan animo masyarakat terhadap produk ini sangat baik.
+• Sedangkan sebanyak 27.50% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa berita
+mengenai produk terbaru Yamaha V-ixion kurang menarik, hal ini di
+karenakan produk motor ini masih sangat baru, dan harganya juga cukup
+mahal.
+Tabel 3.50
+Berita mengenai penemuan-penemuan dan hasil riset R&D Yamaha
+menarik
+KATEGORI F %
+Ya 91 75.83
+Tidak 29 24.17
+JUMLAH 120 100
+Pada tabel 3.50 di atas menjelaskan mengenai berita mengenai penemuanpenemuan
+dan hasil riset R&D Yamaha menarik. 75.83% dari total responden yang
+ada menjawab Ya, 24.17% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebesar 75.83% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa berita mengenai penemuan-penemuan dan hasil riset
+R&D Yamaha menarik. Karena penelitian dan penemuan-penemuan yang
+terjadi di lakukan oleh orang-orang yang profesional di bidangnnya, dan
+sudah berpengalaman.
+• Sedangkan sebesar 24.17% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa berita
+mengenai penemuan-penemuan dan hasil riset R&D Yamaha kurang
+menarik, hal ini di karenakan di butuhkan pembuktian lebih lanjut terhadap
+penemuan-penemuan baru tersebut.
+Tabel 3.51
+Kegiatan sosial acara road show siraman rohani yang bertema SENTUH
+HATI DENGAN CINTA yang di buat oleh Yamaha bersama Aa Gym
+menarik untuk di ikuti
+KATEGORI F %
+Ya 49 40.83
+Tidak 71 59.17
+JUMLAH 120 100
+Pada tabel 3.51 di atas menjelaskan mengenai kegiatan sosial acara road show
+siraman rohani yang bertema SENTUH HATI DENGAN CINTA yang di buat
+oleh Yamaha bersama Aa Gym menarik untuk di ikuti 40.83% dari total
+responden yang ada menjawab Ya, 59.17% dari total responden yang ada
+menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 37.50% dari total responden
+yang ada menjawab ya. Berdasarkan pendapat responden, hal ini
+menunjukkan bahwa kegiatan sosial acara road show siraman rohani yang
+bertema SENTUH HATI DENGAN CINTA yang di buat oleh Yamaha
+bersama Aa Gym menarik untuk di ikuti, karena seminar ini mencakup
+pengetahuan baik secara rohani maupun jasmani.
+• Sedangkan sebanyak 59.17% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa kegiatan sosial
+acara road show siraman rohani yang bertema SENTUH HATI DENGAN
+CINTA yang di buat oleh Yamaha bersama Aa Gym tidak layak untuk di
+ikuti, hal ini di karenakan kasus Aa Gym yang menikah kembali, memberikan
+dampak yang luar biasa besarnya, bahkan terhadap program ini. Yamaha pun
+telah melakukan antisipasi dengan mengganti program ini. Saat ini Yamaha
+tengah mendekati Ustadz Jefrey atau yang lebih di kenal dengan UJE. Hal ini
+di karenakan, menurut Yamaha, figur Uje bisa menggantikan figur Aa Gym,
+dan di harapkan memberikan pengaruh yang lebih baik di bandingkan dengan
+Aa Gym.
+Kesimpulannya aspek afektif terhadap strategi publik relation Yamaha sangat positif,
+hal ini terbukti berdasarkan jawaban-jawaban yang di berikan oleh responden, yang
+berdasarkan pada emosi atau perasaan reponden terhadap.
+3.3 Aspek Konatif
+Pada tabel berikut menunjukkan niat beli dari siswa-siswi SMU, terhadap
+motor Yamaha.
+Tabel 3.52
+Jika akan membeli motor dalam waktu dekat, akan membeli Yamaha
+KATEGORI F %
+Ya 76 63.33
+Tidak 44 36.67
+JUMLAH 120 100
+Pada tabel 3.52 di atas menjelaskan mengenai jika responden akan membeli
+motor dalam waktu dekat, maka responden akan membeli motor Yamaha 63.33%
+dari total responden yang ada menjawab Ya, 36.67% dari total responden yang ada
+menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 63.33% dari total responden
+yang ada menjawab ya, responden akan membeli motor Yamaha. Hal ini di
+karenakan, berdasarkan pendapat responden, Yamaha telah mampu untuk
+membuktikan bahwa produk-produk motor yang di pasarkan, memang telah
+sesuai dengan keinginan responden. Dan motor-motor Yamaha memang enak
+untuk di kendarai.
+• Sedangkan sebanyak 36.67% dari total responden yang ada menjawab tidak.
+Berdasarkan pendapat responden, hal ini menunjukkan bahwa responden
+tidak akan membeli motor Yamaha, banyak faktor yang menjadi penghalang,
+misalnya kondisi keuangan, atau mungkin respoden telah menetapkan akan
+memiliki motor apa, dan motor itu tentu bukanlah salah satu dari line produk
+Yamaha.
+Tabel 3.53
+Walaupun banyak motor yang di tawarkan akan tetap memilih
+Yamaha
+KATEGORI F %
+Ya 71 59.17
+Tidak 49 40.83
+JUMLAH 120 100
+Pada tabel 3.53 di atas menjelaskan mengenai walaupun banyak motor yang
+di tawarkan responden akan tetap memilih Yamaha. 59.17% dari total responden
+yang ada menjawab Ya, 40.83% dari total responden yang ada menjawab tidak.
+• Berdasarkan jawaban yang di peroleh, sebanyak 63.33% dari total responden
+yang ada menjawab Ya. Hal ini di karenakan, berdasarkan pendapat
+responden, Yamaha memang telah menghasilkan produk-produk motor yang
+baik, dan konsumen yang akan membeli motor Yamaha pun, telah di
+manjakan, bahkan sebelum responden membeli motor Yamaha.
+• Sedangkan sebanyak 36.67% dari total responden yang ada menjawab tidak.
+Hal ini di karenakan, responden merasa kebutuhannya saat ini masih banyak
+yang harus di selesaikan, sehingga belum akan membeli motor, atau mungkin
+juga karena responden telah memilih line produk dari motor merek lainnya,
+sehingga tidak akan membeli motor Yamaha.
+BAB IV
+KESIMPULAN DAN SARAN
+4.1 Kesimpulan
+Berdasarkan penelitian yang telah dilakukan, terhadap sikap pelajar SMU di
+Bandung, atas pelaksanaan kebijakan bauran promosi motor Yamaha yang di
+lakukan oleh PT. Yamaha Motor Indonesia, maka penulis menarik kesimpulan
+bahwa:
+1. Sikap para pelajar SMU positif, atas bauran promosi yang di lakukan
+oleh Yamaha. Para pelajar melihat bauran promosi yang di lakukan
+oleh Yamaha sudah tepat, dan dapat di terima oleh anak-anak muda
+pada umumnya, terutama anak-anak pelajar SMU. Aspek yang paling
+baik ialah aspek afektifnya, karena berdasarkan penelitian, Yamaha
+berusaha untuk memberikan impulse-impulse terhadap anak mudanya,
+bukan terhadap orang tua sebagai sponsor dari anak-anak SMU.
+2. Strategi periklanan yang di terapkan oleh Yamaha sudah tepat, hal ini
+terbukti berdasarkan penelitian yang di lakukan oleh peneliti. Bentuk
+iklan yang menarik dan tidak baku, bahkan cenderung nyeleneh,
+justru lebih di terima oleh anak-anak muda, khususnya para pelajar
+SMU, di bandingkan dengan bentuk iklan yang konvensional yang
+kaku dan hanya menampilkan sex appeal dari model yang di
+tampilkan beserta motor yang di wakilkannya. Dan juga iklan ini
+menggunakan bahasa mereka sehari-hari dan mengikuti
+perkembangan gaya hidup anak muda pada saat ini, sehingga lebih
+mudah untuk di terima. Bahkan para pelajar SMU mendapatkan
+pelajaran dari iklan yang di tayangkan oleh Yamaha, karena iklan
+tersebut mengandung nilai-nilai yang positif bagi para anak-anak
+muda.
+3. Strategi Sales Promotion yang di terapkan oleh Yamaha sudah baik,
+hal ini terbukti dari hasil penelitian yang di lakukan oleh peneliti.
+Strategi-strategi yang di teapkan oleh Yamaha sudah tepat, mulai dari
+strategi pengurangan harga, pemberian barang-barang ketika membeli
+motor Yamaha, percobaan gratis yang di sediakan oleh Yamaha,
+garansi yang menguntungkan pembelinya, pajangan motor, hingga
+demonstrasi produk yang menarik. Apalagi saat ini sedang menjamur
+aksi-aksi free styler yang dengan berani menunjukkan keunggulan
+motor Yamaha hingga batas akhir, dengan atraksi-atraksi yang
+menarik. Para pelajar SMU sangat menerima dan mendukung strategi
+yang di terapkan oleh Yamaha untuk menjual motor-motornya, hal ini
+di karenakan Yamaha sangat memanjakan para konsumennya, bahkan
+yang belum memiliki motor Yamaha
+4. Strategi Publik relation yang di terapkan oleh Yamaha sudah baik, hal
+ini terbukti dari hasil penelitian yang di lakukan oleh peneliti. Para
+pelajar SMU menerima strategi yang di terapkan oleh Yamaha, hal ini
+di tunjukkan dengan kehadiran mereka di setiap acara-acara yang di
+adakan oleh Yamaha. Bahkan beberapa di antara mereka ada yang
+terdaftar sebagai pembalap dari Yamaha. Hal ini menunjukkan bahwa
+Yamaha sangat memanjakan para konsumen dan calon-calon
+konsumennya. Yamaha pun sangat mendukung kegiatan-kegiatan
+yang di lakukan oleh masyarakat kita pada umumnya, misalnya acara
+17 Agustusan, atau acara balapan motor yang di jalankan hampir
+setiap minggunya, aatu mensponsori kegiatan-kegiatan klub motor
+Yamaha yang bersifat kegiatan kemanusiaan.
+Kesimpulannya strategi bauran promosi yang di lakukan oleh Yamaha, sangat di
+terima oleh kalangan anak muda kita, terutama para anak-anak SMU. Sehingga
+hasilnya pun positif. Dan hasil ini pun memberikan preseden yang baik bagi
+perkembangan Yamaha di masa yang akan datang.
+4.2 Saran
+Berdasarkan penelitian yang telah dilakukan, terhadap sikap pelajar SMU di
+Bandung, atas pelaksanaan kebijakan bauran promosi motor Yamaha yang di
+lakukan oleh PT. Yamaha Motor Indonesia, maka penulis ingin memberikan saran,
+penulis berharap agar saran yang di berikan dapat memberikan masukan bagi
+perkembangan strategi promosi Yamaha di masa yang akan datang. Saran tersebut
+sebagai berikut:
+1. Sikap para pelajar SMU yang positif pada saat ini, harus di pertahankan di
+masa yang akan datang oleh Yamaha.
+2. Untuk strategi periklanan, iklan-iklan yang sudah sering di tayangkan, atau di
+dengar, baik di media cetak, maupun di media-media elektronik, harus segera
+di perbaharui. Berdasarkan penelitian yang di lakukan oleh peneliti, keluhan
+yang di dapat di lapangan menunjukkan bahwa responden sudah mengalami
+kejenuhan di dalam melihat iklan yang sama, sehingga di harapkan Yamaha
+mampu untuk merubah atau untuk mengganti iklan tersebut.
+3. Untuk strategi promosi penjualan, service yang di berikan oleh Yamaha,
+harus tetap di pertahankan, karena para front man ini merupakan para striker
+dari pabrikan untuk menjangkau para konsumen dan calon-calon kosumen,
+untuk membeli motor Yamaha. Dan service yang di berikan kepada Yamaha,
+bahkan terhadap calon-calon konsumennya sudah sangat memuaskan.
+4. Untuk strategi PR, ada baiknya bila Yamaha membuat Yamaha center untuk
+mewadahi perkumpulan dari para pemilik motor, khususnya motor Yamaha.
+Dan dengan demikian Yamaha pun dapat dapat membantu pemerintah
+dengan mengurangi atau pun mengarahkan para anak muda, dengan melalui
+pendidikan misalnya.

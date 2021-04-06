@@ -1,0 +1,2035 @@
+- 1 -
+BAB I
+Pendahuluan
+1.1 Latar Belakang.
+Dewasa ini teknologi sudah semakin canggih untuk memenuhi kebutuhan
+masyarakat. Perkembangan teknologi sangat cepat dan sangat pesat, terkadang
+apa yang kita pikirkan tentang sesuatu yang tidak mungkin bisa saja terjadi,
+perkembangan itu bahkan meliputi segala bidang, diantaranya teknologi
+informasi. Perkembangan teknologi informasi telah banyak dimanfaatkan baik
+dalam bidang ekonomi, politik, sosial budaya, pertahanan dan keamanan, serta
+dalam kehidupan sehari-hari kita sendiri. Pada tahun 1946 komputer digital
+pertama didunia ENIAC I dikembangkan.1 Perkembangan peradaban manusia
+diiringi dengan perkembangan cara penyampaian informasi (yang selanjutnya
+dikenal dengan istilah Teknologi Informasi). Mulai dari gambar-gambar yang tak
+bermakna di dinding-dinding gua, peletakkan tonggak sejarah dalam bentuk
+prasasti sampai diperkenalkannya dunia arus informasi yang kemudian dikenal
+dengan nama internet.2 Dimulai pada pertengahan tahun 70'an pada masa perang
+dingin dan mencapai puncaknya pada tahun 1994, ketika interface grafis dan isi
+dari jaringan tersebut diciptakan dan diperuntukan kepada masyarakat umum
+1 http://bebetin.wordpress.com/tag/teknologi/ 12 Januari 2008
+2 Ibid
+- 2 -
+sehingga dapat dipergunakan secara lebih mudah.3 Internet memungkinkan kita
+untuk menghilangkan hambatan jarak dan waktu untuk mendapatkan Informasi.
+Sejak diperkenalkannya kepada dunia pada tahun 1972-1973, penggunaan internet
+pun semakin meluas tidak hanya pada kalangan khusus (militer pada saat itu) saja.
+Seiring dengan perkembangannya, orang-orang yang memanfaatkan internet
+membuat sebuah sistem yang memudahkan pengaksesan internet oleh masyarakat
+luas. Sistem ini juga memungkinkan adanya peluang bisnis dalam bidang ini4. Hal
+tersebut ditandai dengan didirikannya provider (penyedia layanan) internet sampai
+warnet (warung internet).5 Dari segi ekonomi, Internet merupakan sebuah
+jawaban yang sangat efisien, efektif dan relatif murah jika dibandingkan dengan
+hasil yang akan didapat, berbagai transaksi jual beli yang sebelumnya hanya bisa
+dilakukan dengan cara tatap muka, kini sangat mudah dan sering dilakukan
+melalui Internet. Transaksi melalui Internet ini dikenal dengan nama e-commerce.
+Istilah internet diperkenalkan dalam sebuah paper mengenai TCP/IP kemudian
+dilakukan pengembangan sebuah protokol jaringan yang kemudian difkenal
+dengan nama TCP/IP yang dikembangkan oleh grup dari DARPA, 1981 National
+Science Foundation mengembangkan Backbone yang disebut CSNET dengan
+kapasitas 56 Kbps untuk setiap institusi dalam pemerintahan, kemudian pada
+tahun 1986 IETF mengembangkan sebuah Server yang berfungsi sebagai alat
+koordinasi diantara; DARPA, ARPANET, DDN dan Internet Gateway.6 Dengan
+munculnya internet yang memudahkan manusia untuk saling berkomunikasi
+dengan wilayah yang tidak terjangkau, hal tersebut dipicu oleh adanya kebutuhan
+3 http://www.blogger.com/feeds/7217759164414000846/posts/default 21 Januari 2008
+4 Loc.cit
+5 http://dolfis-pelor.blogspot.com/ 14 Januari 2008
+6 http://www.balipost.co.id/BaliPostcetak/2007/1/23/ip3.htm 1 Februari 2008
+- 3 -
+manusia akan informasi terbaru yang terjadi di lingkungan sekitarnya bahkan di
+belahan dunia yang lain, hal tersebut sudah bukan mustahil lagi dengan
+munculnya internet, banyak orang yang sudah menggunakan internet sebagai jalan
+mempermudah untuk melakukan sesuatu. Banyak orang yang menggunakan jasa
+internet di tempat yang biasa kita namakan warung internet (warnet), sekarang ini
+sudah banyak bermunculan warnet dimana-mana. Internet tidak hanya digunakan
+oleh orang-orang dewasa saja, tetapi digunakan dari mulai kalangan anak sekolah
+dasar sampai orang-orang yang sudah pensiun sekalipun. Sebenarnya penggunaan
+internet secara pribadi atau penggunaan di rumah ada juga cukup murah,
+penggunaan sarana internet yang dikeluarkan beberapa provider telepon gengam,
+ada yang upload dan download dengan sangat cepat, yaitu dengan teknologi 3G
+dan 3,5G, namun harga yang ditawarkan masih sangat maha, untuk penggunaan
+tanpa batas dikenakan biaya Rp. 750.000,00 setiap bulannya, selain itu, modem
+untuk sebuah PC harga yang paling rendah sekitar Rp. 1.500.000,00, sedangkan
+modem untuk laptop harganya kisaran Rp.850.000, sehingga masih jarang orang
+yang menggunakan teknologi internet 3G dan 3,5G. Tetapi ada pula perusahaan
+telepon pemerintah yang mengeluarkan teknologi internet pula, dengan nama
+Speedy, sarana internet rumah yang ditawarkan oleh speedy terdapat beberapa
+jenis, Time Base, Personal, Unlimited. Untuk speedy time base dikenakan biaya
+abodemen Rp.200.000 dengan pemakaian 50 jam selama 1 bulan, jika lebih dari
+50 jam dikenakan biaya Rp.750/30menit, sedangkan Personal dibagi menjadi 2
+jenis, ada yang 1Gb ada pula yang 3Gb, untuk personal 1Gb setiap bulannya
+dikenakan biaya Rp.200.000, dan untuk personal 3Gb untuk personal dikenakan
+biaya Rp.400.000, untuk setiap kelebihannya dikenakan biaya Rp.0,5/kb untuk
+- 4 -
+personal 1Gb dan 4GB. Dan untuk paket Unlimited setiap bulannya dikenakan
+biaya Rp.750.000. Ada pula daerah khusus yang bisa digunakan untuk browsing
+internet, yang biasa kita kenal dengan nama “Hot Spot”, yang biasa ada di
+restaurant, kafe-kafe, dan food court, tetapi pengguna perlu memiliki Laptop,
+PDA, NoteBook, atau telepon genggam yang sudah memliliki alat yang bernama
+Wi-Fi, tidak semua Laptop, PDA, NoteBook, atau telepon genggam terfasilitasi
+oleh alat tersebut, dan tidak semua produk komunikasi bisa menggunakan Wi-Fi,
+hanya produk-produk yang kiranya lebih modern, yang sudah pasti harganya pun
+terbilang cukup mahal. Oleh karena itu masih banyak orang yang menggunakan
+sarana internet di warnet. Karena penggunaan internet sebagai media
+perdagangan, komunikasi, pembelajaran, dan pengetahuan tentang segala hal itu
+sangat mudah didapat dan terhitung murah dalam penggunaannya daripada
+masyarakat harus melakukannya di dunia nyata, sehingga banyak orang yang
+menggunakan jasa internet tersebut, internet sendiri sudah menjadi kebutuhan
+manusia. Di wilayah Bandung sendiri, warnet mulai dikenal pada akhir tahun
+1996 dan mulai meluas kira-kira mulai akhir tahun 1999. Jumlah pengguna
+Internet yang besar dan semakin berkembang, telah mewujudkan budaya internet.
+Internet juga mempunyai pengaruh yang besar atas ilmu, dan pandangan dunia.
+Data Asosiasi Penyedia Jasa Internet Indonesia (APJII) menunjukkan bahwa
+setiap tahun pemakai internet memang mengalami peningkatan yang cukup
+signifikan. Tentu saja, kenaikan ini ditunjang dengan banyaknya warnet di
+Indonesia. Semakin banyak coverage area keberadaan warnet, semakin tinggi pula
+perkembangan jumlah pemakai internet di Indonesia. Dalam sebuah hasil
+penelitian yang dilakukan oleh Donny B.U dari ICT Watch, pada tahun 2000,
+- 5 -
+warnet merupakan tempat favorit bagi 50% pengguna Internet. Kemudian pada
+tahun 2003 lalu sudah meningkat menjadi hingga 64%. Peningkatan tersebut
+ditengarai merupakan dampak turunnya jumlah pengguna akses rumahan menjadi
+7% pada tahun 2003, dari 13% pada tahun 2000. Tren penurunan tersebut diikuti
+pula oleh pengguna akses kantoran, dari 42% pada tahun 2000 menjadi 18% pada
+tahun 2003. Karena besarnya kemampuan yang dimiliki dunia internet,
+bermacam- macam bentuk kejahatan dan penyimpangan fungsi terjadi. Oleh
+karena itu disusunlah sebuah peraturan yang membatasi pergerakan para 'penjahat
+internet' sekaligus untuk memberikan rasa aman pada pengguna internet lainnya.
+Peraturan tentang Internet di Indonesia dijelaskan melalui Undang-Undang No.36
+tahun 1999 dan Peraturan Pemerintah No. 52 tahun 2000.7 Diantaranya bentukbentuk
+kejahatan internet :
+1. Pornografi, anggapan yang mengatakan bahwa internet identik dengan
+pornografi, memang tidak salah. Dengan kemampuan penyampaian informasi
+yang dimiliki internet, pornografi pun merajalela. Untuk mengantisipasi hal
+ini, para produsen 'browser' melengkapi program mereka dengan kemampuan
+untuk memilih jenis home-page yang dapat di-akses.
+2. Violence and Gore, kekejaman dan kesadisan juga banyak ditampilkan.
+Karena segi bisnis dan isi pada dunia internet tidak terbatas, maka para
+pemilik situs menggunakan segala macam cara agar dapat 'menjual' situs
+mereka. Salah satunya dengan menampilkan hal-hal yang bersifat tabu.
+3. Penipuan, hal ini memang merajalela dibidang manapun. Internet pun tidak
+luput dari serangan para penipu. Cara yang terbaik adalah tidak mengindahkan
+7 http://indonesianlaw.blogspot.com/2006/08/brti-antara-kenyataan-dan-harapan.html
+6 Februari 2008
+- 6 -
+hal ini atau mengkonfirmasi informasi yang Anda dapatkan pada penyedia
+informasi tersebut.
+4. Carding, karena sifatnya yang 'real time' (langsung), cara belanja dengan
+menggunakan kartu kredit adalah cara yang paling banyak digunakan dalam
+dunia Internet. Para penjahat internet pun paling banyak melakukan kejahatan
+dalam bidang ini. Dengan sifat yang terbuka, para penjahat mampu
+mendeteksi adanya transaksi (yang menggunakan kartu kredit) on-line dan
+mencatat kode kartu yang digunakan. Untuk selanjutnya mereka
+menggunakan data yang mereka dapatkan untuk kepentingan kejahatan
+mereka.
+5. Perjudian, dampak negatif lain adalah meluasnya perjudian. Dengan jaringan
+yang tersedia, para penjudi tidak perlu pergi ke tempat khusus untuk
+memenuhi keinginannya. Anda hanya perlu menghindari situs seperti ini,
+karena umumnya situs perjudian tidak agresif dan memerlukan banyak
+persetujuan dari pengunjungnya.
+Perkembangan pesat teknologi internet menyebabkan munculnya usahausaha
+warnet (warung internet) yang tumbuh menjamur, termasuk di kota
+Bandung. Sebuah warnet minimal dilengkapi dengan CPU yang meliputi
+hardware dan sofware, monitor, mouse, keyboard dan server dan lain sebagainya.
+Warnet-warnet tersebut bahkan sudah mulai saling bersaing, antara warnet satu
+dengan warnet yang lainnya, yang berada satu wilayah persaingan, melakukan
+kreasi dan inovasi-inovasi yang berbeda, seperti penggunaan CPU yang lebih
+canggih, monitor dengan layar datar, bahkan tipis, diskon harga dengan minimal
+penggunaan, atau diskon harga dimalam hari, penyediaan makanan dan minuman,
+- 7 -
+fasilitas yang banyak dan canggih seperti headset, webcam, print berwarna,
+bluetooth, scanner, CD re-writer bahkan DVD re-writer, floppy disk dan lain
+sebagainya, dan suasana yang membuat pengunjung merasa nyaman, seperti
+menambah AC (Air Conditioner) di setiap ruangannya, ada pula yang
+memisahkan antara ruangan merokok dan tidak merokok, ada juga ruangan biasa
+dan VIP, dengan yang harga yang berbeda. Warnet sudah menjadi salah satu lahan
+bisnis yang menggiurkan, dengan persaingan yang cukup ketat.
+1.2 Identifikasi Masalah.
+Dalam kesempatan ini penulis mencoba menguraikan beberapa masalah
+yang akan dibahas secara singkat :
+Di daerah Buah Batu, terdapat warnet yang bernama Duya Media, yang
+merupakan warnet yang paling dipadati oleh para pengguna jasa internet dan
+komputer, jika dibandingkan dengan warnet-warnet lain diwilayah persaingannya.
+Selain itu lokasi-lokasi para pesaing Duya Media berada pada posisi yang saling
+berdekatan, bahkan ada yang berhadap-hadapan. Sekiranya terdapat 5 warnet
+yang menjadi pesaing utama bagi Duya Media. Sehingga perlu diketahui alasan
+mengapa para pengguna jasa internet lebih sering mengunjungi warnet Duya
+Media, padahal terdapat warnet lain disekitar wilayah tersebut, salah satu warnet
+yang berhadapan dengan Duya Media bahkan menerapkan harga sedikit lebih
+murah daripada Duya Media, dan sebenarnya strategi dan kebijakan apa yang
+dilakukan pemilik Duya Media, yang menyebabkan warnetnya tersebut selalu
+dipadati pengunjung dan bagaimana cara dari warnet tersebut untuk dapat terus
+- 8 -
+mempertahankan pelanggan mereka. Selain itu apakah sebenarnya terjun dalam
+industri warnet itu termasuk dalam usaha yang cukup menguntungkan atau tidak,
+ditengah munculnya teknologi Wi-Fi, dengan harga pengoprasian yang tidak
+mahal, dan digunakan sepuasnya, bahkan ada beberapa lokasi yang tidak
+mengenakan biaya sama sekali.
+Berdasarkan uraian diatas peneliti telah memiliki pertanyaan penelitian
+yang dirumuskan sebagai berikut :
+1. Apa strategi yang diambil Duya Media dalam persaingan yang begitu ketat
+seperti sekarang ini?
+2. Bagaimana respon pasar terhadap Warnet Duya Media?
+3. Langkah-langkah yang diambil perusahaan dengan melihat respon pasar?
+Berdasarkan faktor-faktor tersebut, maka penulis tertarik untuk membahas
+masalah tersebut dengan judul “Analisis Strategi Bersaing Warnet Duya
+Media”.
+1.3 Tujuan dan Kegunaan Penelitian.
+1.3.1 Tujuan Penelitian
+Penelitian ini bertujuan untuk mengetahui alasan yang menyebabkan para
+konsumen datang mengunjungi Duya Media, padahal terdapat beberapa warnet
+lain di wilayah tersebut, selain itu untuk mengetahui alasan yang mendorong para
+pengunjung mendatangi warnet tersebut.
+Selain itu penulis ingin mengetahui, faktor-faktor apa saja yang dapat
+memajukan usaha dalam industri warung internet, sehingga dapat dijadikan salah
+satu pedoman dan acuan mana kala pembaca atau penulis sendiri ingin terjun
+- 9 -
+dalam indusrti tersebut. Sehingga dapat diketahui apakah bisnis dalam bidang
+tersebut dapat menguntungkan atau merugikan.
+1.3.2 Kegunaan Penelitian.
+Hasil dari penelitian ini diharapkan dapat berguna bagi para pembaca atau
+bagi penulisnya sendiri, yaitu :
+Pembaca diharapkan dapat mengerti, faktor-faktor yang menyebabkan
+sebuah warnet itu ramai pengunjung, sehingga para pembaca yang akan terjun di
+bidang tersebut, dapat mempelajari faktor-faktor yang mempengaruhi keramaian
+sebuah warnet, sehingga para pembaca yang berpotensi menjadi seorang
+pengusaha, tidak terjerumus bila ingin mendirikan sebuah perusahaan dalam
+industri tersebut. Selain itu juga memberikan masukan tentang siapa saja yang
+termasuk dalam pangsa pasar warnet.
+Penulis dapat menambah beberapa pengetahuan dan ilmu, selain itu
+memberikan beberapa masukan dan pembelajaran terhadap penulis bila ingin
+terjun dalam bidang tersebut.
+- 10 -
+BAB II
+Kerangka Teori
+Keadaan industri warnet berada pada posisi yang cukup kompleks, karena
+perkembangan industri warnet yang sangat cepat, warnet-warnet baru cukup
+banyak bermunculan, yang menyebabkan warnet-warnet lama perlu memikirkan
+strategi-strategi aga bisa dipertahankan.
+2.1 Pengertian Jasa
+Kotler and Keller8 mengemukakan pengertian jasa (service) sebagai
+berikut: “A service is any act or performance that one party can offer to another
+that is essentially intangible and does not result in the ownership of anything. Its
+production may or may not be tied to a physical product.” (Jasa adalah setiap
+tindakan atau kinerja yang ditawarkan oleh satu pihak ke pihak lain yang secara
+prinsip tidak berwujud dan tidak menyebabkan perpindahan kepemilikan.
+Produksi jasa dapat terikat atau tidak terikat pada suatu produk fisik).
+Zeithaml and Bitner9 mengemukakan definisi jasa sebagai berikut:
+Include all economic activities whose output is not a physical product or
+construction, is generally consumed at the time it is produced, and provided
+added value in forms (such as convenience, amusement, timeliness, comfort,
+or health) that are essentially intangible concerns of its first purchaser (Jasa pada
+8 Fandy Tjiptono., Manajemen Jasa: Bisnis Jasa, Andi, Yogyakarta, 1996. hlm. 6
+9 Valarie A Zeithaml: Bitner, Mary Jo, Services Marketing, Paperback, 2003. hlm. 3
+- 11 -
+dasarnya adalah seluruh aktivitas ekonomi dengan output selain produk dalam
+pengertian fisik, dikonsumsi dan diproduksi pada saat bersamaan,
+memberikan nilai tambah dan secara prinsip tidak berwujud bagi pembeli
+pertamanya.).
+Berdasarkan beberapa definisi di atas maka jasa pada dasarnya
+adalah sesuatu yang mempunyai ciri-ciri sebagai berikut:
+1. suatu yang tidak berwujud, tetapi dapat memenuhi kebutuhan konsumen
+2. proses produksi jasa dapat menggunakan atau tidak menggunakan bantuan
+suatu produk fisik
+3. jasa tidak mengakibatkan peralihan hak atau kepemilikan
+4. terdapat interaksi antara penyedia jasa dengan pengguna jasa.
+2.2 Karateristik Jasa
+Menurut Zeithaml and Bitner10, jasa memiliki empat ciri (karateristik)
+utama yang sangat mempengaruhi rancangan program pemasaran, yaitu sebagai
+berikut:
+1. Tidak berwujud (Intangibility). Hal ini menyebabkan konsumen tidak
+dapat melihat, mencium, meraba, mendengar dan merasakan hasilnya
+sebelum mereka membelinya. Untuk mengurangi ketidakpastian,
+konsumen akan mencari informasi tentang jasa tersebut, seperti lokasi
+perusahaan, para penyedia dan penyalur jasa, peralatan dan alat komunikasi
+yang digunakan serta harga produk jasa tersebut. Beberapa hal yang dapat
+10 Op.Cit. hlm. 20
+- 12 -
+dilakukan perusahaan untuk meningkatkan kepercayaan calon konsumen,
+yaitu sebagai berikut:
+• Meningkatkan visualisasi jasa yang tidak berwujud,
+• Menekankan pada manfaat yang diperoleh,
+• Menciptakan suatu nama merek (brand name) bagi jasa, atau
+• Memakai nama orang terkenal untuk meningkatkan kepercayaan
+konsumen.
+2. Tidak terpisahkan (inseparability). Jasa tidak dapat dipisahkan dari
+sumbernya, yaitu perusahaan jasa yang menghasilkannya. Jasa diproduksi dan
+dikonsumsi pada saat bersamaan. Jika konsumen membeli suatu jasa maka ia
+akan berhadapan langsung dengan sumber atau penyedia jasa tersebut,
+sehingga penjualan jasa lebih diutamakan untuk penjualan langsung dengan
+skala operasi terbatas. Untuk mengatasi masalah ini, perusahaan dapat
+menggunakan strategi-strategi, seperti bekerja dalam kelompok yang
+lebih besar, bekerja lebih cepat, serta melatih pemberi jasa supaya mereka
+mampu membina kepercayaan konsumen.
+3. Bervariasi (variability). Jasa yang diberikan sering kali berubah-ubah
+tergantung siapa yang menyajikannya, kapan dan dimana penyajian jasa
+tersebut dilakukan. Ini mengakibatkan sulitnya menjaga kualitas jasa
+berdasarkan suatu standar. Untuk mengatasi hal tersebut, perusahaan dapat
+menggunakan tiga pendekatan dalam pengendalian kualitasnya, yaitu sebagai
+berikut:
+• Melakukan investasi dalam seleksi dan pelatihan personil yang baik.
+• Melakukan standarisasi proses produksi jasa.
+- 13 -
+• Memantau kepuasan pelanggan melalui sistem saran dan keluhan,
+survei pelanggan, dan comparison shopping, sehingga pelayanan yang
+kurang baik dapat diketahui dan diperbaiki.
+4. Mudah musnah (perishability). Jasa tidak dapat disimpan sehingga tidak dapat
+dijual pada masa yang akan datang. Keadaan mudah musnah ini bukanlah
+suatu masalah jika permintaannya stabil, karena mudah untuk melakukan
+persiapan pelayanan sebelumnya. Jika permintaan berfluktuasi, maka
+perusahaan akan menghadapi masalah yang sulit dalam melakukan persiapan
+pelayanannya. Untuk itu perlu dilakukan perencanaan produk, penetapan
+harga, serta program promosi yang tepat untuk mengantisipasi ketidaksesuaian
+antara permintaan dan penawaran jasa.
+Berikut kriteria dalam menilai paket jasa11 :
+a. Fasilitas Penunjang (Supporting Facility).
+- Lokasi
+- Dekorasi interior
+- Peralatan pendukung
+- Kesesuaian Aarsitektural
+- Layout fasilitas
+b. Barang-barang Pendukung (Facilitating Goods).
+- Konsistensi
+- Kuantitas
+- Seleksi
+11Farida Jasfar., Manajemen Jasa : Penggolongan dan Strategi Jasa, Ghalia Indonesia, Jakarta,
+2005, hal.32.
+- 14 -
+c. Jasa-jasa Eksplisit (Explicit Service).
+- Pelatihan personel jasa
+- Kelengkapan
+- Konsistensi
+- Ketersediaan
+d. Jasa-jasa Implisit (Implicit Service).
+- Sikap Jasa
+- Suasana
+- Penantian
+- Status
+2.3 Pasar Sasaran
+Dengan ditetapkannya pasar sasaran, maka perusahaan dapat lebih mudah
+menyeimbangkan keterampilan dan kapsitasnya dengan kebutuhan dan keinginan
+pelanggannya.
+Setiap perusahaan jasa dapat menentukan pasar yang akan dilayaninya
+dengan dua macam pendekatan12, yaitu :
+• Pendekatan Pasar Agregat (Mass Market or Market Aggregation)
+Perilaku dan segmen pasar bersifat homogen, perusahaan akan melayani
+pasar sasaran ini dengan program pemasaran maupun produk tanpa
+mempedulikan perbedaan perilaku. Ada beberapa pertimbangan yang
+dapat dipilih :
+12 Op.Cit. hlm. 26
+- 15 -
+1. Sifat jasa maupun perilaku pelanggannya tidak terlalu beda atau
+sulit untuk dibedakan.
+2. Permintaan atas jasa cukup tinggi, sehingga pasar tidak
+mempedulikan bila ada pembedaan jasa.
+3. Kemampuan perusahaan memproduksi jasa relatif seragam, jika
+dibedakan, tidak memberikan manfaat yang berarti.
+• Pendekatan Segmentasi Pasar (Market Segmentation)
+Tidak semua pasar memiliki perilaku dan respon yang homogen. Dengan
+demikian perlu dilakukan pengelompokan pasar kesuluruhan yang bersifat
+heterogen ke dalam segmen-segmen tertentu.
+2.4 Strategi.
+Strategi adalah suatu tindakan, arah tindakan yang diambil perusahaan
+didalam konteks lingkungan persaingan. Pada dasarnya setiap perusahaan
+mempunyai strategi dalam berusaha.
+Strategi menurut Glueck dan Jauch13:
+“Strategi adalah rencana yang disatukan, luas, dan terintegrasi yang
+menghubungkan keunggulan strategi perusahaan dengan tantangan
+lingkungan dan yang dirancang untuk memastikan bahwa tujuan utama
+dari perusahaan itu dapat dicapai melalui pelaksanaan yang tepat oleh
+organisasi”
+Sedangkan Arnoldo C. Hax & Nicolas S. Majluf mengatakan bahwa14 :
+13 William F. Gleueck dan Lawrence R. Jauch, Managemen Strategis dan Kebijakan Perusahaan,
+edisi kedua, Erlangga, Jakarta,1990, hlm. 9
+- 16 -
+“Strategic planning is a process essentially aimed at maintaining a
+viable match between the organization and the environment”.
+Sedangkan Mintzberg mengatakan bahwa strategi adalah rencana yang
+mengintegrasikan tujuan utama organisasi, kebijakan, prioritas alokasi sumber
+daya, urutan tindakan menjadi satu kesatuan utuh.
+Namun saat ini istilah ‘strategi’ dipakai di kehidupan sehari-hari yang
+memerlukan penanganan khusus untuk mencapai suatu tujuan. Strategi dimulai
+dengan adanya persaingan antara dua atau lebih makhluk yang menginginkan
+keadaan yang sama. Bahkan dunia bisnis pun telah terbiasa menggunakan istilah
+tersebut karena memang dunia bisnis dewasa ini tak ubahnya sebagai suatu
+pertempuran antara dua atau lebih perusahaan yang menginginkan tujuan atau
+keadaan yang sama dan masing-masing berjuang keras untuk memperebutkan
+posisi yang sama-sama diincar.
+H. Igor Ansoff memberikan pengertian mengenai strategi15, yaitu :
+ Sebagai acuan untuk mengukur kinerja masa kini dan akan datang, sering
+disebut objectives (kualitatif) dan goals (kuantitatif).
+ Sebagai aturan untuk mengembangkan hubungan antara lingkungan eksternal.
+Hal ini meliputi product-technology apa yang akan dibuat, di mana dan
+kepada siapa produk akan dijual serta bagaimana perusahaan dapat
+memenangkan kompetisi. Ini sering disebut business strategy.
+ Sebagai aturan untuk menentukan hubungan internal dan proses di dalam
+organisasi, sering disebut administrative strategy.
+14 Arnaldo C Hax & Majluf, Nicolas. The Strategy Concept and Process : A Pragmatic Approach.
+New Jersey : Prentice-Hall. Inc,1991
+15 H.Igor Ansoff. The New Corporate Strategy. New York : John Wiley & Son, 1988
+- 17 -
+ Sebagai aturan di mana perusahaan menjalankan bisnisnya sehari-hari yang
+disebut operating stategy.
+Suatu perusahaan pada umumnya mempunyai beberapa tujuan; jumlah dan
+macam tujuan yang diburu oleh suatu perusahaan berbeda dibandingkan dengan
+lainnya. Guna mencapai tujuan perusahaan tersebut diperlukan adanya sejumlah
+strategi yang efektif.
+2.5 Manfaat Strategi
+Beberapa arti penting dan manfaat strategi dalam perusahaan antara lain :
+ Strategi merupakan cara untuk mengantisipasi masalah-masalah dan
+kesempatan masa depan pada kondisi perusahaan berubah dengan cepat.
+ Strategi dapat memberikan tujuan dan arah perusahaan di masa depan dengan
+jelas kepada semua karyawan. Dengan tujuan dan arah masa depan yang jelas
+bermanfaat pada semua karyawan untuk :
+1. Mengetahui apa yang diharapkan dari para karyawan dan ke mana arah
+tujuan perusahaan.
+2. Dapat mengurangi konflik yang timbul karena strategi yang efektif
+mengarahkan para karyawan untuk mengikutinya.
+3. Memberikan semangat atau dorongan pada karyawan dan manajemen
+dalam mencapai tujuannya.
+4. Menjamin adanya dasar pengendalian manajemen dan evaluasi.
+5. Menjamin para eksekutif puncak mempunyai kesatuan opini atas
+mesalah strategi dan tindakan-tindakan.
+- 18 -
+ Pada saat ini strategi banyak dipraktekkan di dalam industri karena membuat
+para eksekutif puncak menjadi lebih mudah bertindak.
+ Strategi adalah kacamata yang bermanfaat untuk memonitor apa yang
+dikerjakan dan terjadi dalam perusahan, dapat memberikan sumbangan
+terhadap kesuksesan perusahaan atau bahkan kegagalan.
+ Memberikan informasi kepada manajemen puncak di dalam merumuskan
+tujuan akhir dari perusahaan dengan memperhatikan etika masyarakat dan
+lingkungannya.
+ Hasil penelitian menunjukan bahwa strategi umumnya lebih efektif
+dibandingkan dengan perusahaan yang tidak menyusun strategi.
+ Perusahaan yang menyusun strategi umumnya lebih efektif dibandingkan
+dengan perusahaan yang tidak menyusun strategi.
+Demikian pula sebaliknya, sehebat-hebatnya strategi kalau tidak sesuai dengan
+kondisi dan tidak bisa dilaksanakan juga tidak bisa menghasilkan apa-apa.
+2.6 Grand Strategi
+Grand strategi merupakan beberapa pengembangan atau variasi strategi
+yang sudah banyak digunakan oleh perusahaan-perusahaan. Grand strategi sendiri
+terdiri dari 14 macam variasi strategi :
+1. Pertumbuhan Terkonsentrasi (Concentrate Growth)
+Tujuan utamanya adalah untuk melakukan penetrasi pasar dimana
+perusahaan mengembangkan usahanya pada persaingan yang terbatas. Perusahaan
+meningkatkan pangsa pasar yang ada untuk produk tertentu dengan cara
+- 19 -
+memasarkan secara besar-besaran. Strategi ini biasa dikenal dengan strategi
+penetrasi pasar.
+2. Pengembangan Pasar (Market Development)
+Dengan strategi ini perusahaan melakukan pemasaran produk lama,
+dengan sedikit perbaikan atau sedikit perubahan.
+3. Pengembangan Produk (Product Development)
+Tujuannya adalah untuk memperpanjang daur hidup yang sudah ada atau
+memanfaatkan keunggulan reputasi.
+4. Inovasi (Inovation)
+Perusahaan memusatkan diri pada penciptaan produk baru, perusahaan
+melakukan riset, pengembangan, dan pra pemasaran untuk keperluan inovasi.
+Inovasi sangat baik untuk perusahaan yang memiliki keuangan yang kuat, karena
+strategi ini memerlukan biaya yang tidak sedikit.
+5. Integrasi Horizontal (Horizontal Integration)
+Proses integrasi dengan mengakuisisi atau menciptakan perusahaan yang
+baru, satu atau beberapa perusahaan sejenis yang beroperasi pada tingkat
+rangkaian produksi pemasaran yang sama, yang bertujuan untuk meniadakan
+pesaing dan memberikan perusahaan yang diakuisisi kepada pasar yang baru,
+dengan begitu maka peruasahaan dapat mengontrol pesaing.
+6. Integarsi Vertikal (Vertical Integration)
+Proses integrasi dengan mengakuisisi atau memuat perusahaan pemasok
+atau juga perusahaan yang membeli produknya, dengan tujuan menciptakan jalur
+distribusi sendiri.
+- 20 -
+7. Diversifikasi Konsentrik (Concentric Diversivication)
+Akuisisi yang terkait dengan perusahaan pengakuisisi, perusahaan
+pengakuisisi mencari usaha-usaha baru, dengan sumber daya yang serupa tetapi
+tak sama dengan perusahaan utamanya, namun menghasilkan suatu sinergi antar
+perusahaan, yang dapat meningkatkan kekuatan dan mengurangi kelemahan dan
+ancaman berupa resiko tanpa menimbulkan saling ketergantungan sepenuhnya.
+8. Diversifikasi Konglomerasi (Conglomerate Diversification)
+Perhatian utama dari strategi ini adalah pola laba usaha, yang berarti
+strategi ini dijalankan, karena memberikan peluang investasi yang menarik dan
+tidak mempermasalahkan sinergi produk pasar.
+9. Berbenah Diri (Turn Around)
+Strategi ini dapat dilakukan bila perusahaan mengalami penurunan laba
+yang bisa disebabkan oleh pesaing atau situasi ekonomi. Pada umumnya
+perusahaan yang melakukan strategi ini melakukan reduksi biaya atau reduksi
+terhadap asetnya (penghematan).
+10. Divestasi (Divestiture)
+Penjualan perusahaan terhadap pihak lain, umumnya dilakukan karena
+terjadi ketidakcocokan antara perusahaan induk dengan perusahaan yang
+diakuisisi, atau adanya dana korporasi.
+11. Likuidasi (Liquidation)
+Dengan dipilihnya strategi ini, biasanya perusahaan dijual sebagian,
+perusahaan dijual bukan sebagai lahan usaha, melainkan dijual dalam bentuk fisik.
+Strategi ini dapat meminimalkan kerugian perusahaan, dengan kata lain menutup
+perusahaan tersebut.
+- 21 -
+12. Usaha Patungan (Joint Venture)
+Apabila terdapat dua atau lebih perusahaan yang tidak memiliki komponen
+yang diperlukan dalam suatu lingkungan persaingan, dengan kesepakatan
+bergabung, yang bertujuan untuk menciptakan suatu kekuatan untuk kembali
+bersaing. Penggabungan perusahaan ini sangat menguntungkan dari sisi perluasan
+hubungan antara pemasok dan konsumen.
+13. Aliansi Strategis (Strategic Alliance)
+Perusahaan saling terlibat, tetapi tidak saling memiliki saham pada
+perusahaan mitranya. Sifat kerjasama yang lebih mengacu pada lisensi, dimana
+lisensor menerima royalty dari penerima lisensi. Dengan strategi ini maka quota
+impor dan tarif dapat dihindari.
+14. Konsorsium (Consortia)
+Hubungan yang kuat, yang saling berkait antara bisnis-bisnis dalam suatu
+industri.
+2.7 Strategi Generik Porter
+Strategi generik dari Porter16 juga perlu diperhatikan untuk sebuah
+industri. Terdapat 3 bentuk strategi generik yang dikemukakan oleh Porter, dan
+Berikut ini dijelaskan ketiga strategi dan aplikasinya pada bisnis jasa17 :
+16 Michael.E Porter., Strategi Bersaing : Teknik Menganalisis Industri dan Pesaing, Erlangga,
+Jakarta, 1995, hal. 83.
+17 Farida Jasfar., Manajemen Jasa : Strategi Bersaing Dalam Bisnis Jasa, Ghalia Indonesia, Jakarta,
+2005, hal.104.
+- 22 -
+1. Keunggulan Biaya Menyeluruh
+Strategi ini mensyaratkan adanya fasilitas yang memungkinkan
+dilaksanakannya suatu produksi massal, kontrol biaya, termasuk kontrol biaya
+tetapyang ketat dan penggunaan teknologi yang dapat mengurangi biaya produksi
+pada tingkat paling rendah. Dengan perhitungan biaya yang lebih rendah, akan
+memperkuat posisi perusahaan di antara para pesaing, karena pesaing yang kurang
+efisien akan kalah, sementara perusahaan dengan biaya yang lebih murah akan
+dapat menahan serangan pesaing
+Untuk menerapkan strategi biaya rendah, biasanya membutuhkan biaya
+investasi yang besar. Disamping itu, perusahaan harus berani dan agresif dalam
+menentukan harga jual, dan strategi harga-harga lainnya, termasuk kemungkinan
+resiko menderita kerugian pada saat ingin meningkatkan pangsa pasar.
+Berikut beberapa strategi biaya rendah yang dapat diterapkan pada bisnis
+jasa :
+a. Mencari konsumen yang dapat dilayani dengan biaya rendah (Seekin Out
+Low Customer).
+b. Membuat sesuatu lebih mudah, sehingga akhirnya menjadi lebih murah
+(Standardizing a Custom Service).
+c. Mengurangi resiko bisa ditawarkan kepada konsumen dengan mengurangi
+peranan personel dalam memberikan pelayanan dan konsumen dapat
+diyakinkan bahwa pengurangan pelayanan ini akan meningkatkan
+kenyamanannya (Reducing the Personal Element in Service Delivery).
+- 23 -
+d. Dengan mengurangi jaringan-jaringan baru secara otomatis biaya akan
+berkurang, tetapi dengan tidak mengurangi pelayanan kepada konsumen
+(Reducing Network Cost).
+2. Diferensiasi
+Strategi generik yang kedua adalah mendiferensiasikan produk atau jasa
+yang ditawarkan perusahaan, yaitu dengan menciptakan sesuatu yang baru dan
+dirasakan oleh keseluruhan industri sebagai hal yang unik. Pendekatan untuk
+melakukan diferensiasi dapat bermacam-macam bentuknya: citra rancangan atau
+merk, teknologi, karakteristik khusus, pelayanan pelanggan, dan jaringan
+penyalur. Idealnya, perusahaan mendiferensiasikan dirinya sendiri dalam
+beberapa dimensi.
+Diferensiasi, jika tercapai, merupakan strategi yang baik untuk
+menghasilkan laba di atas rata-rata dalam suatu industri karena strategi ini
+menciptakan posisi yang aman meskipun berbeda dengan cara yang berbeda
+dengan strategi keunggulan biaya. Diferensiasi memberikan penyekat terhadap
+persaingan karena adanya loyalitas merek dari pelanggan dan mengakibatkan
+berkurangnya kepekaan terhadap harga. Akhirnya, perusahaan yang telah
+mendiferensiasikan dirinya untuk mendapatkan kesetiaan pelanggan akan berada
+pada posisi yang lebih baik terhadap produk pengganti dibandingkan para
+pesaingnya.
+Strategi diferensiasi bukan mengabaikan biaya, tetapi setiap usaha
+diarahkan untuk mendapatkan konsumen yang loyal, sebagai ilustrasi, dapat
+dikatakan bahwa strategi diferensiasi yang dijalankan tidak menimbulkan
+tambahan biaya, meskipun konsumen mendapatkan pelayanan yang sama.
+- 24 -
+Beberapa cara strategi diferensiasi yang dapat dijalankan dalam bisnis jasa adalah
+sebagai berikut :
+a. Karena sifatnya, jasa pada umumnya tidak dapat dilihat sehingga tidak
+memungkinkan ada sesuatu yang dapat diingat oleh konsumen secara
+nyata setelah mengkonsumsi sebuah jasa, salah satu caranya adalah
+memberikan sebuah kenang-kenangan yang disertai logo atau nama
+perusahaan tersebut (Making the Intangible Tangible).
+b. Memberikan sesuatu yang menyentuh perasaan konsumen sangat penting,
+artinya untuk mengingatkan konsumen yang pernah diberikan, walaupun
+tidak memerlukan biaya yang besar, seperti mengingat nama para
+konsumennya, atau juga memberikan suasana yang santai (Customizing
+the Standard Product).
+c. Konsumen yang tidak memahami suatu produk atau jasa yang dibelinya
+sering mengharapkan penjelasan-penjelasan untuk mengurangi
+kemungkinan resiko yang dihadapinya (Reducing Perceived Risk).
+d. Biaya dikeluarkan untuk melatih dan mengembangkan keterampilan dan
+keahlian karyawan merupakan suatu aset yang sangat penting dalam
+strategi bisnis jasa, karena karyawan merupakan faktor yang terpenting
+dalam hubungannya pelanggan (Giving Attention to Personal Training).
+e. Pemberian kualitas jasa yang konsisten serta waktu, tempat dan kondisi
+karyawan yang tidak stabil merupakan suatu tantangan bagi suatu bisnis
+jasa. Perusahaan dapat mengatasi hal ini dengan beberapa pendekatan,
+seperti pelatihan personel yang intensif, penentuan prosedur dan teknologi
+- 25 -
+yang jelas, pembatasan lingkup jasa, supevisi secara langsung dan
+penekanan pentingnya kerja kelompok (Controlling Quality).
+3. Fokus
+Strategi generik terakhir adalah memusatkan (focus) pada kelompok
+pembeli, segmen lini produk, atau pasar geografis tertentu. Seperti halnya
+diferensiasi, fokus dapat bermacam-macam bentuknya. Jika strategi biaya
+rendah dan strategi difensiasi ditujukan untuk mencapai sasaran mereka di
+keseluruhan industri, strategi fokus dibangun untuk melayani target tertentu
+secara baik, dan semua kebijakan fungsional dikembangkan atas dasar
+pemikiran ini. Strategi ini didasarkan atas pemikiran bahwa perusahaan
+dengan demikian akan mampu melayani target strategisnya yang sempit
+secara lebih efektif dan efisien ketimbang pesaing yang bersaing dalam skala
+yang lebih luas. Sebagai akibatnya, perusahaan akan mencapai tahap
+diferensiasi karena mampu memenuhi kebutuhan target tertentu dengan lebih
+baik, atau mencapai biaya yang lebih rendah dalam melayani target ini, atau
+bahkan mencapai kedua-duanya. Meskipun strategi fokus tidak mencapai
+biaya rendah atau diferensiasi dari segi pandang pasar secara keseluruhan,
+strategi ini sesungguhnya mencapai salah satu atau kedua posisi tersebut di
+target pasarnya yang lebih sempit.
+- 26 -
+Berikut ini akan digambarkan mengenai strategi generik yang dikemukakan oleh
+Porter :
+Gambar 2.1 Strategi Generik Potter
+Generic
+Business
+Strategic Advantage
+LOW COST High Cost
+Overall
+Cost
+Leadership
+Differentiation
+Entire Market
+Market Segment
+Cost
+Focus
+Differentiation
+Focus
+Overall cost leadership, dilakukan dengan memperhitungkan para pesaing
+daripada para pelanggan, perusahaan memfokuskan diri pada harga jual yang
+rendah, dengan jalan memperkecil biaya produksi, strategi ini dapat dilakukan bila
+perusahaan memiliki keunggulan pada pasar, kemampuan rekayasa produk, dan
+akses bahan baku yang lebih mudah. Cost focus, dilakukan apabila menginginkan
+atau memiliki pasar yang sempit, dengan pengeluaran yang kecil. Differentiation,
+strategi ini berusaha untuk membangun persepsi akan keunggulan kualitas, desain
+produk, teknologi, jaringan distribusi, dan image juga pelayanan. Differentiaton
+focus, jika memiliki pasar yang sempit, dengan pengeluaran yang relatif besar.
+- 27 -
+2.8 Mengelola Kualitas Internal
+Suatu pelayanan yang baik dimulai dari karyawan (internal quality) dan
+berakhir dengan penghasilan perusahaan melalui kepuasan konsumen. Apabila
+perusahaan bisa mengelola kualitaas internal, maka karyawan akan merasa puas
+dan mereka akan memberikan pelayanan atau penanganan yang terbaik kepada
+konsumen, karena organisasi berhasil menjadikan karyawan yang loyal terhadap
+pekerjaan.
+Pelayanan yang baik akan menghasilkan konsumen yang puas dan sesuai
+dengan konsep relationship marketing, konsumen yang puas adalah suatu aset
+masa depan yang diharapkan berprilaku menguntungkan (favourable behavior),
+seperti loyal kepada perusahaan dan menceritakan hal-hal yang baik (word of
+mouth) mengenai pengalamannya kepada pihak ketiga. Akhirnya akan
+menghasilkan keuntungan bagi perusahaan dan termasuk pertumbuhan
+penerimaan perusahaan.
+Internal Quality digambarkan oleh Hesketts dalam bentuk lingkaran, yang
+dikenal dengan nama Quality Wheel Heskett’s18
+Gambar 2.2 Quality Wheel Heskett’s
+18 Ibid. hal.117.
+- 28 -
+Investasi melalui program-program peningkatan sumber daya manusia akan
+berkaitan langsung dengan kualitas jasa yang diberikannya, yang akan
+memuaskan konsumen dan akhirnya akan meningkatkan laba dan pertumbuhan
+pendapatan. Model dari Hesketts ini memberikan juga cara yang dapat dilakukan
+untuk meningkatkan budaya kualitas di antara karyawan melalui programprogram
+berikut ini19 :
+1. Pengembangan Individual
+misalnya dengan menyusun manual perintah kerja, sehingga karyawan
+baru maupun lama dapat memperoleh keterampilan dan pengetahuan
+teknis yang dibutuhkan, karena jelas apa yang akan dikerjakan dan urutanurutannya.
+2. Melakukan Pelatihan Manajemen
+Dengan cara mengikutsertakan para manager tingkat bawah, menengah
+maupun tingkat atas pada seminar-seminar maupun pada simposiumsimposium
+agar manambah wawasan dan pengetahuan mereka.
+3. Menyusun suatu perencanaan SDM dan program pengembangan karir
+dengan jelas
+Perusahaan harus dapat mengidentifikasikan karyawan-karyawan yang
+potensial dengan mengamati mereka dan tugas-tugas yang diberikan
+selama ini.
+4. Standar Kinerja
+Perencanaan tenaga kerja maupun program peningkatan karir tidak
+mungkin dilaksanakan apabila perusahaan tidak mempunyai standar
+19 Ibid
+- 29 -
+kinerja, yang dijadikan dasar pertimbangan untuk meningkatkan posisi
+atau kedudukan baru karyawan.
+5. Survei pendapat yang ditujukan kepada karyawan
+Untuk mendapatkan sasaran-sasaran maupun keluhan-keluhan yang perlu
+ditanda-tangani dan dicarikan jalan keluarnya.
+6. Pembagian Laba
+Merupakan suatu cara yang sangat efektif untuk meningkatkan kinerja
+karyawan, karena ia merasa bagian yang diterimanya tergantung kepada
+laba yang diperoleh perusahaan, sementara keberhasilan perusahaan dalam
+mendapatkan keuntungan ditentukan oleh prioduktifitas kerjanya,
+sehingga pekerja bertanggung jawab terhadap kesuksesan perusahaannya.
+2.9 Analis Lingkungan Eksternal
+Ada banyak faktor eksternal yang mempengaruhi pilihan arah dan
+tindakan suatu perusahaan dan akhirnya struktur organisasi dan proses
+internalnya. Faktor-faktor ini dinamakan lingkungan eksternal yang kemudian
+dapat dibagi menjadi tiga kategori yang saling berkaitan yaitu faktor-faktor
+lingkungan jauh, faktor-faktor lingkungan industri, dan faktor-faktor lingkungan
+operasional.
+- 30 -
+Gambar 2.3 Lingkungan Eksternal
+2.9.1 Lingkungan Operasional
+Lingkungan operasional dapat juga dinamakan lingkungan persaingan atau
+tugas. Lingkungan ini terdiri dari faktor-faktor dalam situasi persaingan yang
+mempengaruhi keberhasilan suatu perusahan dalam mendapatkan sumber daya
+yang dibutuhkan atau dalam memasarkan produk dan jasanya secara
+menguntungkan.
+Lingkungan Operasional terdiri dari :
+a. Posisi Bersaing
+Posisi bersaing merupakan faktor terpenting bagi perusahaan. Pola
+persaingan terbentuk setelah perusahaan mengetahui sistem pasar. Selain itu
+menilai posisi bersaing dapat meningkatkan kesempatan perusahaan untuk
+merancang strategi yang mengoptimalkan peluang yang muncul dari
+lingkungan. Pengembangan profil posisi bersaing memungkinkan suatu
+- 31 -
+perusahaan memperkirakan potensi pertumbuhan jangka pendek dan jangka
+panjang secara lebih akurat.
+b. Profil Pelanggan
+Mengembangkan profil pelanggan dan calon pelanggan perusahaan
+meningkatkan kemampuan para manajernya untuk merencanakan operasi
+strategiknya untuk mengantisipasi perubahan besar pasar dan untuk
+merealokasi sumber daya guna mendukung perubahan pola permintaan. Hal
+ini ditujukan agar kehidupan organisasi dapat terus berlangsung sesuai dengan
+tujuan perusahaan. Profil pelanggan dapat disusun menurut informasi :
+ Geografis, adalah penting untuk menetapkan batas wilayah geografis tempat
+pelanggan berasal.
+ Demografis, variable demografis umumnya digunakan untuk membedakan
+kelompok-kelompok pelanggan dan calon pelanggan. Informasi demografis
+seperti jenis kelamin, umur, dan lain-lain relatif mudah dikumpulkan,
+dikuantifikasi, dan digunakan dalam peramalan strategi. Informasi ini
+merupakan basis minimum untuk profil pelanggan.
+ Psikografis, variabel kepribadian dan gaya hidup seringkali merupakan
+prediktor yang lebih baik dari perilaku pembelian pelanggan daripada variabel
+geografis atau demografis.
+ Perilaku pembeli, data perilaku pembeli juga dapat menjadi profil pelanggan.
+Data perilaku pembeli digunakan untuk menjelaskan atau meramalkan
+beberapa aspek dari perilaku pelanggan menyangkut produk atau jasa.
+- 32 -
+c. Sumber Daya Manusia
+Sumber daya manusia merupakan komponen utama dalam kegiatan
+operasional perusahaan. Kemampuan perusahaan untuk menarik dan
+mempertahankan karyawan yang berkemampuan baik sangat penting untuk
+mewujudkan tujuan perusahaan. Akses perusahaan ke karyawan yang
+dibutuhkan dipengaruhi oleh reputasi perusahaan sebagai penyedia
+kesempatan kerja, tingkat kesempatan kerja, dan ketersediaan orang dengan
+keterampilan yang dibutuhkan.
+• Reputasi, reputasi perusahaan dalam lingkungan operasionalnya merupakan
+elemen utama dari kemampuannya untuk memuaskan kebutuhan
+karyawannya.
+• Tingkat kepuasan kerja, pasokan tenaga kerja yang terampil dan
+berpengalaman dapat berbeda-beda bergantung pada tahap pertumbuhan suatu
+masyarakat.
+• Ketersediaan, keterampilan sementara orang mungkin begitu khususnya
+sehingga relokasi mungkin diperlukan untuk menjalin kesempatan kerja dan
+kompensasi yang biasanya diperoleh keterampilan tersebut.
+d. Pemasok
+Hubungan yang dapat diandalkan antara perusahaan dan pemasoknya
+sangat penting bagi kelangsungan hidup dan pertumbuhan jangka panjang
+perusahaan. Perusahaan selalu bergantung pada pemasok untuk dukungan
+keuangan, layanan, bahan baku, dan pelayanan.
+- 33 -
+e. Kreditor
+Karena kuantitas, kualitas, harga, dan aksesibilitas sumber daya keuangan,
+manusia, dan bahan baku jarang sekali ideal maka kreditor dapat membantu
+perusahaan untuk memenuhi kebutuhan tersebut sehingga perusahaan dapat
+mengimplementasikan dan mempertahankan strategi bersaingnya.
+2.9.2 Lingkungan Industri
+Lingkungan industri menjelaskan lima kekuatan yang mempengaruhi
+persaingan dalam suatu industri. Analisis lingkungan industri dapat membantu
+perusahaan dalam memahami kelima kekuatan tersebut dan pengaruhnya bagi
+perusahaan, sehingga perusahaan dapat menaggulangi persaingan. Yang termasuk
+dalam lima kekuatan itu adalah pendatang baru, daya tawar menawar pembeli,
+daya tawar menawar pemasok, ancaman produk atau jasa substitusi, dan
+persaingan diantara anggota industri. Michael E. Porter20 mengemukakan lima
+kekuatan yang mempengaruhi persaingan tersebut pada gambar berikut :
+Gambar 2.4 Lima kekuatan yang mempengaruhi persaingan.
+20 Michael Porter & Maulana, Agus, Strategi Bersaing, Erlangga, Jakarta, 1980, hlm, 21
+Pendatang
+Baru
+Pesaing
+industri
+Pemasok Pembeli
+Produk
+Substitusi
+- 34 -
+Situasi persaingan dalam suatu industri bergantung pada lima kekuatan
+pokok seperti yang terlihat di gambar 3 Kekuatan gabungan dari faktor-faktor ini
+menentukan potensi laba suatu industri. Kekuatan atau faktor persaingan terkuat
+akan menentukan kemampulabaan suatu industri dan karenanya merupakan faktor
+paling penting dalam perumusan strategi.
+Setiap industri memiliki struktur yang mendasarinya, yaitu sekumpulan
+karakteristik ekonomis dan teknis yang memunculkan kekuatan-kekuatan
+persaingan. Di bawah ini kita akan melihat uraian mengenai masing-masing
+kekuatan pokok tersebut :
+a. Persaingan di antara para anggota industri
+Ancaman pertama tentu saja dari para pesaing yang telah menjadi
+kompetitor cukup lama. Mereka biasanya merupakan kumpulan perusahaan yang
+kurang lebih menawarkan produk atau jasa yang relatif sama di mata pelanggan.
+Secara prinsip, terhadap produk dan jasa yang sama ini, strategi yang dijalankan
+adalah bagaimana membuat produk atau menawarkan jasa yang lebih murah
+harganya, lebih baik kualitasnya, dan lebih cepat pelayanannya (“Cheaper, Better,
+and Faster”). Yang menjadi ancaman di sini adalah jika para pesaing tersebut
+telah mempergunakan kecanggihan teknologi informasi untuk menciptakan
+produk atau jasa yang “Cheaper-Better-Faster” tersebut. Biasanya ada dua area
+dimana para pesaing melakukan utilisasi terhadap teknologi ini. Domain pertama
+berhubungan dengan berbagai aktivitas front-office, yaitu penggunaan teknologi
+informasi dalam kaitannya dengan pelayanan pelanggan secara langsung.
+Contohnya adalah pemesanan produk atau jasa melalui electronic commerce,
+- 35 -
+pengiriman uang (transfer) melalui internet banking, permintaan informasi
+melalui call center, dan lain sebagainya. Sementara domain kedua adalah dengan
+cara memanfaatkan teknologi informasi untuk meningkatkan efisiensi aktivitas
+back-office, seperti penggunaan intranet untuk sarana komunikasi dan kolaborasi,
+pengembangan sistem administrasi bebas kertas (paperless office), implementasi
+virtual office, pemakaian sistem informasi eksekutif dan decision support system,
+dan lain sebagainya.
+b. Ancaman Masuk
+Datangnya para pesaing baru merupakan jenis ancaman kedua dari sebuah
+perusahaan. Dalam era globalisasi informasi, belum tentu yang dimaksud dengan
+para pesaing baru adalah perusahaan yang secara fisik datang dan berada dalam
+lingkungan geografis tertentu (lokal, regional, atau nasional). Perusahan tersebut
+dapat saja berada di negara lain yang dengan kekuatan teknologi informasinya
+dapat menawarkan produk dan pelanggannya melalui jalur komunikasi semacam
+internet. Contohnya adalah sebuah perusahaan yang menawarkan para pelanggan
+di seluruh dunia sistem pembelian tiket pesawat ke luar negeri melalui internet
+dengan metoda pembayaran credit card. Jika ternyata harga tiket tersebut lebih
+murah dibandingkan dengan yang dijual agen dalam negeri, tentu saja para
+pelanggan akan pindah ke perusahaan tersebut. Kasus lain adalah perusahaan
+yang menjual ratusan ribu buku-buku terbitan Amerika yang selain sangat lengkap
+dalam koleksinya, dan dapat dipesan melalui internet serta dikirimkan langsung
+ke negara pemesan. Karena biayanya yang jauh lebih murah dibandingkan dengan
+membeli pada toko buku lokal, tentu saja pelanggan akan dengan senang hati
+- 36 -
+berpindah ke perusahaan tersebut. Contoh kasus di bidang jasa adalah konsultan
+yang menawarkan jasanya melalui email yang secara tidak langsung menjadi
+saingan para konsultan dalam negeri.
+c. Produk Substitusi
+Ancaman selanjutnya datang dari kemampuan teknologi informasi untuk
+menciptakan produk substitusi. Contoh yang sedang populer saat ini adalah
+pemakaian internet phone yang menawarkan pelanggan untuk mengadakan
+pembicaraan interlokal maupun internasional dengan biaya pulsa lokal. Internet
+phone ini tentu saja menggantikan produk telepon tradisional yang
+pembayarannya berdasarkan harga pulsa yang ditentukan oleh jauh dekatnya
+komunikasi. Contoh klasik lainnya adalah dipergunakannya electronic mail
+(email) sebagai sarana komunikasi yang paling efektif dan efisien yang secara
+signifikan telah mengurangi pendapatan perusahaan yang menawarkan jasa
+komunikasi dan kurir. Pengenalan format MPEG-3 yang dapat menyimpan
+ratusan lagu merupakan produk substitusi yang mengancam produk kaset atau
+compact disc. Belum lagi terhitung kerugian yang dialami perusahaan penerbit
+ensiklopedia dengan adanya produk substitusi dalam bentuk CD-ROM. Dalam
+bidang jasa kesehatan (health care) misalnya, telemedicine merupakan contoh
+ancaman bagi rumah sakit-rumah sakit yang berorientasi profit karena para pasien
+dapat berkomunikasi dengan para dokter yang ada di belahan dunia lain tanpa
+perlu datang ke rumah sakit yang bersangkutan. Contoh lain di bidang jasa adalah
+penawaran kepada pelanggan untuk melakukan download (pemindahan file dari
+perusahaan penjual ke sisi pelanggan) terhadap materi-materi dokumen, artikel,
+- 37 -
+atau buku yang dapat mereka beli dengan harga yang jauh lebih murah
+dibandingkan harus membeli buku tersebut dalam bentuk fisik.
+Perubahan dalam ancaman substitusi terjadi dalam lima bidang yang
+secara langsung bersumber dari ekonomi subtitusi21:
+- Perubahan harga relatif
+- Perubahan nilai relatif
+- Perubahan persepsi nilai pembeli
+- Perubahan biaya beralih
+- Perubahan kecenderungan melakukan subtitusi
+d. Pemasok
+Jika ketiga ancaman terdahulu berasal langsung dari para kompetitor, dua
+ancaman berikut adalah ancaman yang berasal dari komponen lain. Komponen
+pertama berasal dari rekanan yang merupakan supplier bahan-bahan mentah atau
+baku yang dibutuhkan perusahaan untuk menciptakan produk atau jasa.
+Logikanya cukup mudah, jika para supplier ini memutuskan hubungan dengan
+perusahaan, jelas perusahaan tersebut akan gulung tikar karena tidak dapat
+menghasilkan produk dan jasanya. Bagi para supplier tersebut berlaku hukum
+yang sederhana, yaitu “business is business”. Jika para supplier tersebut melihat
+bahwa terdapat rekanan lain yang jauh lebih menguntungkan, terlepas dari aspek
+hukum dan etika yang berlaku, tentu saja mereka akan berusaha untuk menjalin
+hubungan dengan perusahaan tersebut. Jika di mata pelanggan yang penting
+adalah “Cheaper-Better-Faster”, dimana supplier adalah memperoleh rekanan
+21 Michael Porter, Strategi Bersaing: Menciptakan dan Mempertahankan Kinerja Unggul,
+Erlangga, Jakarta, 1985, hlm, 275
+- 38 -
+yang “Better” dalam hal pencapaian profitabilitas (wealth maximisimation). Hal
+yang harus diperhatikan adalah jika para supplier telah mengimplementasikan
+sistem komputer yang cukup canggih dalam melaksanakan aktivitasnya seharihari.
+Tentu saja di mata supplier ini, menjalin hubungan dengan perusahaan
+dimana memiliki infrastruktur teknologi informasi yang setingkat merupakan
+suatu keuntungan dan keunggulan tersendiri. Jika perusahaan tetap berkeras untuk
+tidak mau tahu terhadap kemajuan teknologi informasi yang ada, tidak mustahil
+akan ditinggalkan para suppliernya dalam waktu yang cukup singkat.
+e. Pembeli
+Komponen ancaman berikutnya berasal dari para pelanggan sendiri.
+Berbeda dengan tempo dahulu, saat ini pelanggan memiliki kekuatan yang jauh
+lebih besar dalam menentukan produk-produk mana yang akan dipilih (customer
+driven market). Kekuatan ini dengan mudah bertambah karena adanya fenomena
+sebagai berikut:
+• Era globalisasi telah membuka batas-batas negara sehingga banjir produkproduk
+sejenis dan substitusi melanda pasar (market), sehingga pelanggan
+dapat memilih yang terbaik di antara produk-produk yang ditawarkan;
+• Secara prinsip, produk-produk dan pelayanan yang ditawarkan perusahaan
+multi nasional jauh lebih baik dibandingkan produk-produk dan pelayanan
+sejenis produksi lokal, sehingga secara tidak langsung telah menaikkan
+standar produk dan pelayanan yang diharapkan pelanggan;
+- 39 -
+• Berlakunya undang-undang yang secara efektif melindungi para konsumen
+terhadap perilaku perusahan yang melakukan kesalahan dalam setiap
+proses transaksi dua belah pihak yang terjadi;
+• Kebutuhan pelanggan yang kian lama kian bertambah sejalan dengan
+tantangan baru dalam kehidupan, terutama dengan adanya perkembangan
+teknologi informasi yang semakin menggejala di masyarakat; dan lain
+sebagainya.
+Terhadap keadaan ini, perusahaan harus benar-benar berusaha untuk
+memenangkan hati pelanggan melalui berbagai strategi. Pengembangan teknologi
+informasi yang hampir memasuki seluruh aspek kehidupan manusia secara tidak
+langsung akan merubah perilaku pelanggan dalam membandingkan produkproduk
+dan jasa di masa mendatang, selain syarat “Cheaper-Better-Faster” yang
+diinginkan.
+2.9.3 Lingkungan Jauh
+Lingkungan jauh terdiri dari faktor-yang bersumber dari luar, dan biasanya
+tidak berhubungan dengan situasi operasional suatu perusahaan tertentu.
+Lingkungan jauh terdiri dari :
+Faktor Ekonomi
+Faktor ekonomi berkaitan dengan sifat dan arah sistem ekonomi tempat
+suatu perusahaan beroperasi. Karena pola konsumsi dipengaruhi oleh
+kesejahteraan relatif seperti segmen pasar, dalam perencanaan strategiknya
+- 40 -
+setiap perusahaan harus mempertimbangkan kecenderungan ekonomi di
+segmen-segmen yang mempengaruhi industrinya.
+Faktor Sosial
+Faktor sosial yang mempengaruhi suatu perusahaan adalah kepercayaan,
+nilai, sikap, opini, dan gaya hidup orang-orang di lingkungan eksternal
+perusahaan, yang berkembang dari pengaruh kultural, ekologi, demografi,
+agama, pendidikan, dan etnik. Jika sikap sosial berubah, berubah pulalah
+permintaan akan berbagai jenis produk. Seperti kekuatan-kekuatan lain di
+lingkungan eksternal jauh, kekuatan sosial bersifat dinamik, dan selalu
+berubah sebagai akibat upaya orang untuk memuaskan keinginan dan
+kebutuhan untuk mereka melalui pengendalian dan penyesuaian diri terhadap
+faktor-faktor lingkungan.
+Faktor Politik
+Arah dan stabilitas faktor-faktor politik merupakan pertimbangan penting
+para manajer dalam merumuskan strategi perusahaan. Faktor-faktor politik
+menentukan parameter legal dan regulasi yang membatasi operasi perusahaan.
+Kendala politik dikenakan atas perusahaan melalui keputusan tentang
+perdagangan yang adil, pajak, ketentuan upah minimum, kebijakan tentang
+polusi dan penetapan harga, batasan administratif, dan banyak lagi tindakan
+yang dimaksudkan untuk melindungi pekerja, konsumen, masyarakat umum,
+dan lingkungan. Jadi perusahaan dapat membatasi ataupun bermanfaat bagi
+perusahaan yang terkena. Beberapa isu lain yang juga perlu diperhatikan
+adalah mengenai perubahan kebijakan pemerintah yang dapat menyangkut
+- 41 -
+kerjasama industri, kegiatan antitrust, perdagangan asing, perpajakan,
+perlindungan lingkungan, hambatan perdagangan luar negeri.
+Faktor Teknologi
+Untuk menghindari keusangan dan mendorong inovasi, perusahaan harus
+mewaspadai perubahan teknologi yang mungkin mempengaruhi industrinya.
+Adaptasi teknologi yang kreatif dapat membuka kemungkinan terciptanya
+produk baru, penyempurnaan produk yang sudah ada, atau penyempurnaan
+dalam teknik produksi dan penawaran. Terobosan teknologi dapat mempunyai
+dampak segera dan dramatik atas lingkungan perusahaan. Terobosan ini dapat
+membuka pasar dan menghasilkan produk yang tercanggih atau dapat juga
+mempersingkat usia fasilitas produksi. Jadi, semua perusahaan, dan utamanya
+mereka yang berada dalam industri yang belum stabil harus berusaha keras
+untuk memahami baik kemajuan teknologi yang ada maupun teknologi masa
+depan yang mungkin mempengaruhi produk dan jasa mereka.
+Faktor Ekologi
+Istilah ekologi mengacu pada hubungan timbal balik antara manusia dan
+makhluk hidup lainnya yaitu dengan udara, tanah, dan air yang mendukung
+kehidupan mereka. Ancaman terhadap ekologi pendukung kehidupan kita
+yang utamanya disebabkan oleh kegiatan manusia dalam suatu masyarakat
+industrial biasanya dinamai polusi.
+- 42 -
+2.10 SWOT Analisis
+Analisis internal lebih memfokuskan pada identifikasi Strength (kekuatan)
+dan Weakness (kelemahan) dari perusahaan. Dengan melakukan analisis eksternal
+dan internal ini maka perusahaan dikenal dengan melakukan analisis SWOT.
+Analisis SWOT merupakan cara sistematik untuk mengidentifikasi faktor-faktor
+ini dan strategi yang menggambarkan kecocokan paling baik di antara mereka.
+Analisis ini didasarkan pada asumsi bahwa suatu strategi yang efektif akan
+memaksimalkan kekuatan dan peluang dan meminimalkan kelemahan dan
+ancaman.
+Pearce dan Robinson menjelaskan SWOT sebagai berikut:22
+1. Strength (kekuatan)
+Kekuatan di dalam suatu perusahaan meliputi: sumber daya, keterampilan,
+citra, kepemimpinan pasar atau keungggulan-keunggulan relatif lainnya
+terhadap pesaing dan kebutuhan pasar.
+2. Weakness (kelemahan)
+Kelemahan adalah suatu kondisi keterbatasan atau kekurangan sarana dan
+prasarana sehingga menghambat kinerja efektif perusahaan.
+3. Opportunities (peluang)
+Peluang adalah suatu potensi bisnis yang menguntungkan yang dapat
+diraih oleh perusahaan yang masih belum dikuasai oleh banyak pihak pesaing.
+Peluang yang ada dalam perusahaan meliputi sebagai berikut: perubahan
+situasi persaingan, perubahan peraturan, kemajuan teknologi, membaiknya
+22 Agustina Sri Wahyudi, Manajemen Strategik: Pengantar Proses Berpikir Strategik,
+Binarupa Aksara, Jakarta, 1996. hlm. 229-234
+- 43 -
+hubungan dengan pemasok, hubungan yang baik dengan pembeli dan lain
+sebagainya.
+4. Threats (ancaman)
+Ancaman merupakan suatu keadaan yang kurang menguntungkan bagi
+perusahaan, dimana perusahaan akan mengalami kesulitan yang biasanya
+berasal dari lingkungan persaingan. Apabila hal ini dibiarkan maka akan
+menjadi ancaman yang cukup berarti bagi perusahaan di masa yang akan
+datang.
+Analis tersebut sebenarnya merupakan gambaran dari analisis lingkungan internal
+maupun eksternal dari perusahaan tersebut.
+2.11 External Factor Evaluation (EFE) Matrix
+EFE matriks atau matriks faktor strategi eksternal menghendaki agar para
+peneliti melakukan pengumpulan data dan menganalisis hal-hal yang menyangkut
+persoalan ekonomi, sosial dan budaya, demografi, lingkungan politik,
+pemerintahan, hukum, teknologi, dan informasi tentang persaingan di pasar
+industri dimana perusahaan berada.
+Terdapat lima tahap dalam mengembangkan EFE matiks, yaitu :
+1. Membuat Critical Success Factor yang mencakup peluang dan ancaman.
+2. Tentukan bobot Critical Success Factor tadi dengan skala mulai dari 0,0
+(tidak penting) sampai dengan 1,0 (sangat penting). Total dari seluruh
+Critical Success Factor harus sama dengan 1,0.
+- 44 -
+3. Setiap Critical Success Factor diberi rating dari 1 sampai dengan 4,
+dimana:
+• 4: respon sangat bagus.
+• 3: respon diatas rata-rata.
+• 2: respon rata-rata.
+• 1: respon dibawah rata-rata.
+Rating ini berdasarkan pada efektivitas strategi perusahaan. Dengan
+demikian nilainya berdasarkan pada kondisi perusahaan.
+4. Kalikan setiap bobot dengan nilai ratingnya untuk mendapatkan skor untuk
+semua Critical Success Factor.
+5. Jumlahkan semua skor untuk mendapatkan nilai total skor untuk
+perusahaan.
+Dalam EFE matriks, nilai terbesar total skornya adalah 0,4 dan
+terendah adalah 1,0. Total skor 4,0 menunjukkan bahwa perusahaan merespon
+peluang yang ada dengan cara yang luar biasa dan menghindari ancaman-ancaman
+di perusahaan industrinya. Total skor 1,0 menunjukkan bahwa strategi-strategi
+perusahaan tidak memanfaatkan peluang yang ada atau tidak menghindarkan
+ancaman yang datang dari eksternal perusahaan.
+2.12 Internal Factor Evaluation (IFE) Matrix
+Matriks faktor strategi internal merupakan alat perumusan strategi dan
+mengevaluasi kekuatan dan kelemahan yang besar dalam daerah-daerah
+- 45 -
+fungsional perusahaan dan juga untuk memberikan dan hubungan diantara
+daerah-daerah tersebut.
+IFE matriks dapat dikembangkan dalam lima tahap, yaitu:23
+1. Membuat daftar Critical Success Factor yang meliputi kekuatan dan
+kelemahan perusahaan.
+2. Beri bobot nilai antara 0,0 (tidak penting) sampai 1,0 (sangat penting)
+bagi setiap faktor. Nilai bobot menunjukkan kepentingan relatif dari faktor
+tersebut untuk menjadi sukses dalam industri perusahaannya. Faktor-faktor
+yang dipertimbangkan untuk memiliki peran-peran yang paling besar pada
+prestasi oraganisasi diberi nilai tertinggi, demikian pula sebaliknya.
+Jumlah seluruh bobot harus sama dengan 1,0.
+3. Beri rating (nilai) antara 1 sampai dengan 4, dimana :
+• 4: kekuatan besar.
+• 3: kekuatan kecil.
+• 2: kelemahan besar.
+• 1: kelemahan kecil.
+Jadi sebenarnya rating ini mengacu pada perusahaan, sedangkan bobot
+mengacu pada industri dimana perusahaan berada.
+4. Kalikan bobot dan rating dari setiap faktor untuk menentukan skornya.
+Jumlahkan total skor setiap variabel. Nilainya merupakan nilai bagi
+perusahaan tersebut dari segi IFE matriks. Nilai rata-rata adalah 2,5 jika nilainya
+berada di bawah 2,5 menandakan bahwa secara internal perusahaan tersebut
+23 Fred R David, Manajemen Strategis: Formulasi Strategi, Salemba Empat, Jakarta, 2006. hlm.
+206.
+- 46 -
+lemah. Sedangkan bila nilai diatas 2,5 menandakan perusahaan tersebut
+internalnya kuat.
+2.13 Internal-Eksternal Matriks
+Internal-Eksternal Matriks memposisikan perusahaan pada salah satu sel
+berdasarkan hasil skor total EFE matriks dan IFE matriks. Matriks terdiri atas
+dimensi-dimensi, yaitu: skor total dari IFE matriks pada sumbu x dari skor total
+EFE matriks berada pada sumbu y.24
+24 Ibid. hlm. 300-301.
+- 47 -
+Gambar 2.5 Matriks Internal - Eksternal
+MATRIKS INTERNAL – EKSTERNAL
+SKOR TOTAL IFE
+4,00 KUAT 3,00 RATA-RATA 2,00 LEMAH 1,00
+TINGGI
+3,00
+SKOR
+TOTAL IFI
+RATARATA
+2,00
+RENDAH
+1,00
+Keterangan:
+Dari matriks internal – eksternal ini dapat diindentifikasi 9 sel strategi
+perusahaan, tetapi pada prinsipnya kesembilan sel itu dapat dikelompokkan
+menjadi tiga strategi utama yakni:
+Growth I
+Konsentrasi melalui
+integrasi vertikal
+Growth II
+Konsentrasi melalui
+integrasi horizontal
+Retrenchment III
+Turnaround
+Stability IV
+Hati-hati
+Growth V
+Konsentrasi melalui
+integrasi horizontal
+Stability
+Tidak ada perubahan
+profit strategi
+Retrenchment IV
+Captive company /
+Divestment
+Growth VII
+Diversifikasi
+konsentrik
+Growth VIII
+Diversifikasi
+konglomerat
+Retrenchment IX
+Bangkrut / Likuidasi
+- 48 -
+• GROWTH STRATEGY yang merupakan pertumbuhan perusahaan itu
+sendiri (sel 1,2,5) atau upaya diversifikasi (sel 7,8).
+• STABILITY STRATEGY adalah strategi yang diterapkan tanpa
+mengubah arah strategi yang diterapkan (sel 4,5).
+• RETRENCHMENT STRATEGY adalah usaha untuk memperkecil atau
+mengurangi usaha yang dilakukan oleh perusahaan (sel 3, 6, 9).
+2.14 Analisis Pesaing
+Penting bagi sebuah perusahaan untuk melakukan analisis terhadap
+pesaing yang ada, atau yang baru ada, analisis tersebut meliputi :
+1. Capability, dengan mengetahui kemampuan pesaing, maka dapat dapat
+memprediksi kecenderungan, waktu, sifat, dan intensitas, inisiatif pesaing
+dalam persaingan industri, selain itu juga akan membantu pula perusahaan
+dalam mengenali inisiatif/proaktifitas atas tindakan strategis dari para
+pesaing.
+2. Future Goals, membantu dalam memperkirakan reaksi mereka terhadap
+perubahan strategis yang terjadi dalam industri.
+3. Current Strategy, dengan mengetahui strategi pesaing maka dapat
+dilakukan penerapan strategi tanggapan, guna mempertahankan posisinya
+dalam suatu industri, strategi pesaing meliputi kebijakan operasional di
+setiap bidang-bidang yang fungsional dan bagaimana pesaing mencoba
+menyatukan fungsi-fungsi tersebut.
+- 49 -
+4. Assumption, membantu untuk mengenali cara pesaing bereaksi dan
+bertindak terhadap suatu kejadian strategis di dalam sebuah industri.
+Untuk nomor 2, 3, dan 4, faktor-faktor tersebut akan membuat perusahaan
+mengenali kecenderungan, sifat, intensitas reaksi dari pesaing terhadap
+lingkungan perubahan strategisnya.
+2.15 Isyarat Pasar
+Sebuah perusahaan perlu mengetahui isyarat dari pasar. Isyarat pasar
+sendiri memiliki arti, setiap tindakan oleh pesaing yang memberikan indikasi
+langsung atau tidak langsung keinginan, motif, tujuan dan situasi internalnya.
+Isyarat pasar merupakan cara berkomunikasi tidak langsung dipasar, dimana para
+pesaing memberikan informasi yang dapat membantu dalam analisis pesaing dan
+perumusan strategi. Dengan mengenali isyarat pasar, sangat penting untuk
+mengembangakan atau menerapkan strategi bersaing.
+- 50 -
+BAB III
+Metodologi Penelitian
+3.1 Jenis Penelitian
+Jenis penelitian yang digunakan adalah metode deskriptif analisis dengan
+teknik pengumpulan data melalui studi kepustakaan dan studi lapangan (terdiri
+dari observasi, dan wawancara).25 suatu metode yang mempelajari cara penyajian
+suatu gambaran atau informasi inti dari sekumpulan data yang ada, misalnya
+pemusatan data dan kecenderungan suatu gugus data.
+3.2 Teknik Pengumpulan Data.
+Penelitian ini menggunakan data primer dan sekunder. Data primer
+dikumpulkan melalui observasi dan juga wawancara.
+Observasi dilakukan cenderung dikarenakan oleh hal yang tidak
+direncanakan, karena si penulis sering juga menggunakan jasa internet di warnet
+tersebut, sehingga hasil observasi yang diambil itu lebih optimal, karena penulis
+sudah mengetahui seluk-beluk warnet tersebut.
+Dan wawancara akan dilakukan atau dilontarkan kepada pemilik, pegawai
+warnet Duya Media, dalam wawancara tersebut sekiranya akan diajukan
+pertanyaan-pertanyaan yang berhubungan dengan strategi dan kebijakan yang
+25 Saifuddin Azwar. 1998. Metode Penelitian Sosial. Yogyakarta : Pustaka Pelajar. Hlm 6.
+- 51 -
+ditempuh pemilik warnet tersebut dalam rangka menarik dan mempertahankan
+konsumen yang ada.
+Data Sekunder, yaitu data yang diperoleh dari sumber-sumber lain seperti
+yang penulis dapatkan dari buku referensi ataupun literatur yang ada hubungannya
+dengan masalah yang diteliti.
+3.2.1 Model Penelitian
+Dalam melakukan penelitian, penulis menggunakan model manajemen
+strategi sebagai kerangka berpikir dalam menganalisis lingkungan internal dan
+lingkungan eksternal. Berikut gambar model manajemen strategi:
+Gambar 3.1 Model Penelitian
+3.2.2 Metode Analisis Data
+Teknik pengolahan data kualitatif digunakan untuk membandingkan data
+yang berdasarkan informasi yang telah diperoleh oleh penulis dengan teori-teori
+yang telah dismpaikan untuk membuat suatu kesimpulan, keterkaitan antara teori
+dengan situasi real.
+Visi dan Misi
+Analisis
+Lingkungan
+Eksternal
+Analisis
+Lingkungan
+Internal
+Analisis
+SWOT
+Grand
+Strategy
+Strategi
+Generik
+Strategi
+Bersaing
+- 52 -
+3.3 Lokasi dan Tempat Penelitian.
+3.3.1 Lokasi Penelitian.
+Lokasi penelitian berada di JL. Solontongan Bandung, penelitian
+dilakukan di lokasi tersebut dikarenakan Duya Media berada dekat dengan JL.
+Buah Batu, yang merupakan jalan besar yang rutin dilalui oleh masyarakat yang
+bertempat tinggal atau bekerja di daerah Selatan dan Timur kota Bandung, selain
+itu, disekitar lokasi tersebut terdapat beberapa sarana pendidikan, sekolah, dan
+lokasi tersebut berdekatan dengan perumahan penduduk. Selain itu lokasi tersebut
+mudah untuk dijangkau oleh penulis.
+3.3.2 Tempat Penelitian.
+Tempat penelitian dilakukan pada sebuah warnet yang lebih cenderung
+dipadati oleh para pengunjung, yaitu warnet Duya Media, mengapa warnet
+tersebut yang dipilih? Karena warnet tersebut merupakan salah satu dari beberapa
+warnet yang buka selama 24 jam, warnet tersebut memiliki cukup banyak
+komputer yang bisa digunakan para pelanggan yaitu sebanyak 56 unit komputer,
+dan juga termasuk warnet yang selalu dipenuhi para pengunjung bila
+dibandingkan dengan warnet-warnet lainnya di wilayah tersebut.
+- 53 -
+BAB IV
+Objek Penelitian
+4.1 Profil Perusahaan
+Terdapat warnet yang terletak di daerah Buah Batu, yang berdiri pada
+2-buah ruko (rumah toko) berlantai 3 yang saling bersebelahan. Warnet tersebut
+bernama Duya Media.
+Gambar 4.1 Duya Media.
+Berikut ini adalah keterangan-keterangan mengenai warnet tersebut,
+warnet tersebut memiliki 60 komputer, terkadang hanya 50 hingga 53 komputer
+saja yang digunakan, karena sisanya terkadang mengalalami kendala kerusakan.
+- 54 -
+Berikut tarif yang ditawarkan Duya Media untuk penggunaan internet:
+Tabel 4.1 Tarif Duya Media
+Harga
+Waktu 07:00 – 21:59 22:00 – 06:59
+6 Menit Rp. 450 Rp. 310
+Paket 3 Jam* - Rp. 10.000
+Paket 5 Jam* - Rp. 15.000
+Paket 10 Jam* - Rp. 25.000
+* = Paket hanya berlaku setelah pukul 21:00
+Sumber : Warnet Duya Media
+Untuk pengeprintan per-lembarnya dikenakan biaya sebesar Rp. 500,00, tetapi
+warnet tersebut tidak memiliki fasilitas print berwarna, untuk pencopy-an
+terhadap kepingan CD dikenakan biaya Rp. 5.000,00, biaya tersebut sudah
+termasuk CD, sedangkan untuk pengcopy-an terhadap sebuah disket, tidak
+dikenakan biaya, karena disetiap komputernya sudah dilengkapi 3 1/2floppy.
+Warnet tersebut memiliki 4 ruangan, 2 ruangan untuk lantai bawah, dan 2 ruangan
+untuk lantai kedua, dan disetiap ruangannya dilengkapi dengan 2 buah AC,
+sedangkan lantai ketiga ditempati oleh para pekerja dan penjaga warnet tersebut.
+Setiap komputernya dilengkapi hard disk sebesar 40Gb, dan data pada setiap
+komputernya akan dihapus pada tanggal 25 setiap bulannya. Untuk kabel
+sambungan online mereka menggunakan fiber optic. Warnet tersebut buka selama
+24 jam. Jika ada pelanggan yang kurang puas dengan warnet tersebut, Duya
+Media memiliki layanan keluhan, untuk SMS, ada pada nomor : 08122374949,
+dan untuk e-mail , ada pada cedelweiss@yahoo.com.
+- 55 -
+Warnet Duya Media yang terletak di Jl. Solontongan, Buah Batu,
+Bandung. Warnet tersebut berdiri pada tahun 2002, yang didirikan oleh 2 orang
+bersaudara kembar yang berasal dari Padang, Sumatra Barat.
+Sebelum mendirikan Duya Media, kedua bersaudara tersebut sudah
+memiliki 2 buah warnet, yaitu Warnet Wayang dan Warnet Edel, warnet tersebut
+hanya memiliki kapasitas tampung penguna hanya 18 komputer untuk setiap
+warnetnya, sedangkan Warnet Duya Media memiliki kapasitas tampung pengguna
+60 komputer. Kepemilikan ketiga warnet tersebut terbagi dalam kepemilikan
+50%-50%. kedua pemilik terebut benar-benar mengawasi penuh warnet tersebut
+tanpa mewakilkannya lagi kepada orang lain. Warnet Duya Media memiliki 16
+orang pegawai. Warnet tersebut buka 24 jam, tidak mengenal hari libur nasional.
+Sedangkan untuk hari libur keagamaan (Idul Fitri dan Idul Adha) warnet tersebut
+tutup mulai pukul 00:00 pada hari libur tersebut, dan buka pada pukul 12:00 pada
+hari libur tersebut pula. Warnet tersebut memiliki daya tampung parkir motor +
+40motor, dan mobil +10mobil. Warnet tersebut berdekatan dengan 1 Universitas 4
+SMU, 1 SMP dan 2 tempat kursus belajar SMA, SMP dan SD.
+4.2 Visi dan Misi Warnet Duya Media.
+4.2.1 Visi Warnet Duya Media
+Visi Warnet Duya Media adalah untuk memenuhi kepuasan pelanggan,
+memenuhi kebutuhan konsumen akan internet, dan mempertahankan penguasaan
+pasar.
+- 56 -
+4.2.2 Misi Warnet Duya Media.
+Misi Warnet Duya Media adalah mempermudah konsumen dalam mencari
+informasi dan mengerjakan sesuatu yang berguna dengan memberikan fasilitas
+browsing yang cepat dan tidak berkendala.
+4.3 Jasa dan Produk yang Ditawarkan.
+Berikut ini jasa maupun produk yang ditawakan Warnet Duya Media :
+1. Penggunaan Komputer
+Duya Media menawarkan jasa penggunaan komputer, komputer yang
+tersedia sebanyak 60 buah.
+Gambar 4.2 Ruangan Duya Media.
+- 57 -
+2. Penggunaan Internet
+Yang paling banyak diminati oleh para pengguna komputer, selain hanya
+mengetik atau pekerjaan lain. Kecepatan rata-rata download adalah
+10-15kb/s.
+Gambar 4.3 Kecepatan Download Duya Media.
+3. “Burn” CD
+Berbagai jenis data dapat dipindahkan kedalam kepingan CD, dengan
+selalu menjaga privasi yang ada.
+Gambar 4.4 Server.
+- 58 -
+4. Jasa Kenyamanan
+Duya Media memiliki 4 ruangan komputer, untuk setiap ruangannya
+dilengkapi dengan 2 AC dan 1 toilet. Antara komputer satu dengan
+komputer lainnya dibatasi oleh kayu yang terhubung dengan meja
+komputer setinggi 1,5M, sehingga pengguna satu dengan pengguna
+lainnya tidak saling menggangu. Setiap komputer dilengkapi dengan
+headset dan USB port sebanyak 4 buah.
+Gambar 4.5 Komputer.
+5. Makanan dan Minuman Ringan
+Warnet Duya Media juga menawarkan beberapa menu makanan dan
+minuman umum bagi para konsumen.
+Gambar 4.6 Aneka Makanan.
+- 59 -
+6. Tempat Parkir yang Luas.
+Warnet tersebut memiliki daya tampung parkir motor + 40motor, dan
+mobil +10mobil.
+Gambar 4.7 Area Parkir.
+4.4 Jabatan Pegawai
+Dari 16 orang pegawainya, setiap harinya terdapat 3 pergantian pegawai
+dalam setiap harinya. 1 shift pegawai bekerja selama 8 jam satu harinya, 1 shift
+terdapat 4 orang pegawai, sehingga dalam bentuk kepegawaian Warnet Duya
+Media, terdapat 4 kelompok pegawai, sehingga 1 kelompok pegawai memiliki
+waktu libur dalam 1 minggu itu sebanyak 1 hingga 2 hari. Berikut adalah
+pembagian jabatan dalam kelompok tersebut yang berjumlah 4 orang :
+1. 1 Orang pegawai bekerja pada server komputer, pegawai tersebut
+memberitahu calon pengguna untuk tempat yang kosong, ataupun jika tempat
+- 60 -
+sudah penuh, maka pegawai tersebut yang mencatat “waiting list”, selain itu
+pegawai tersebut yang mengawasi penggunaan komputer melaui komputer
+server, transaksi pembayaran pun dilakukan dengan pegawai tersebut, dan
+yang terakhir, pegawai tersebut yang melakukan pembukuan pada jam
+kelompok tersebut bekerja.
+2. 2 Orang pegawai bekerja mengawasi dan mengatar para konsumen ke
+komputer yang akan digunakan (jika konsumen tersebut memintanya),
+mengantar makanan dan minuman yang dipesan, dan juga membersihkan dan
+memeriksa hardware dan juga software komputer-komputer yang ada di
+warnet tersebut.
+3. 1 Orang pegawai lagi bekerja membuat makanan dan minuman yang dipesan
+oleh para konsumen, pegawai tersebut lebih banyak bekerja di dapur,
+walaupun terkadang pegawai tersebut pergi membantu pegawai lainnya.
+Jabatan pegawai tersebut tidak dikerjakan oleh orang yang sama setiap
+harinnya, setiap hari pegawai berganti posisi dalam pekerjaannya.
+- 61 -
+BAB V
+Hasil dan Pembahasan
+Adapun hasil yang akan dibahas dalam bab ini adalah sebagai berikut.
+5.1 Menghindari Masalah Karateristik dari Bisnis Jasa dan Pasar
+Sasaran Warnet Duya Media
+Warnet Duya Media termasuk dalam bisnis jasa, dimana perusahaan
+tersebut menawarkan penyewaan komputer dan penggunaan internet.
+5.1.1 Menghindari Masalah dari Karateristik Bisnis Jasa Warnet Duya
+Media
+Untuk menghidari masalah yang diakibatkan oleh 4 karateristik bisnis jasa,
+Warnet Duya Media sudah memiliki strategi tersendiri, diantaranya :
+1. Masalah Intangibility
+Warnet Duya Media, mendesain tempat dengan suasana yang
+cukup nyaman, antara komputer satu dengan komputer lainnya
+diberi sekat, agar pengguna satu dengan pengguna lainnya tidak
+saling terganggu, komputer yang digunakan oleh para konsumen
+cukup uptodate selain itu disetiap ruanggannya dilengkapi dengan
+2 buah AC.
+- 62 -
+2. Masalah Inseparability
+Para karyawan Warnet Duya Media diseleksi berdasarkan
+pengetahuan tentang komputer dan internet, selain itu para
+karyawan dianjurkan ramah dalam berkomunikasi, responsif
+menerima keluhan konsumen, dan dipercaya.
+3. Masalah Variability
+Warnet Duya Media memberikan pelayanan keluhan kepada
+konsumen, jika memang ada pelanggan yang kurang puas, dengan
+menghubungi, untuk SMS, ada pada nomor : 08122374949, dan
+untuk e-mail , ada pada cedelweiss@yahoo.com.
+4. Masalah Perishability
+Warnet Duya Media termasuk perusahaan yang memiliki
+permintaan yang fluktuatif, perusahaan tersebut cenderung tidak
+melakukan tindakan apapun untuk menghadapi masalah tersebut,
+perusahaan tersebut hanya memberikan informasi tentang berapa
+lama waktu antrian dan perkiraan waktu menunggu jika warnet
+tersebut penuh kepada calon konsumen.
+5.1.2 Pasar Sasaran Warnet Duya Media
+Untuk memudahkan dalam menyeimbangkan keterampilan dan
+kapsitasnya dengan kebutuhan dan keinginan pelanggannya. Warnet Duya Media
+melakukan dengan menggunakan pendekatan pasar agregat (Mass Market or
+Market Aggregation), karena perusahaan tersebut cenderung tidak memiliki
+- 63 -
+perbedaan pelaku konsumen, dan diakibatkan oleh permintaan atas jasa cukup
+tinggi, sehingga pasar tidak mempedulikan bila ada pembedaan jasa.
+5.2 Strategi yang Dijalakan Warnet Duya Media
+Dalam bab ini akan dijelaskan mengenai strategi bersaing dari Warnet
+Duya Media, dalam menghindari resiko kehilangan pasar yang diakibatkan oleh
+pendatang baru, pemasok, produk subtitusi, pembeli dan persaingan dalam
+lingkungan industri. Sehingga dapat diketahui langkah-langkah strategi yang
+diambil oleh perusahaan.
+Analisis lingkungan terdiri dari analisis lingkungan eksternal, analisis
+lingkungan internal, dan analisis persaingan. Analisis lingkungan eksternal hanya
+meliputi faktor ekonomi, sosial, teknologi, hukum, dan ekologi. Analisis
+lingkungan internal mengenai sumber daya manusia dan organisasi. Sedangkan
+dalam analisis persaingan penulis akan membahas pendatang baru potensial,
+pembeli, pemasok, dan subtitusi. Dalam analisis ini penulis menganalisis
+lingkungan eksternal, lingkungan internal, dan persaingan perusahaan dengan
+menggunakan analisis SWOT.
+Berdasarkan analisis yang dilakukan dan strategi generiknya, selama ini
+Warnet Duya Media menggunakan strategi pengembangan pasar yang
+didalamnya menggunakan strategi fokus.
+- 64 -
+5.2.1 Strategi Pengembangan Pasar
+Strategi Pengembangan pasar adalah cara memperluas pasar, menambah
+potensi pasar lama dengan pasar baru, dengan menjual produk dan jasa yang
+sama. Strategi ini digunakan :
+• Karena dengan semakin banyaknya pendatang-pendatang baru,
+maka memperluas pasar adalah salah satu pilihan utama, dengan
+begitu maka pangsa pasar potensial bisa diperoleh, sebelum
+dikuasai oleh pendatang baru.
+• Karena mulai semakin banyak datang produk-produk subtitusi.
+• Masyarakat luas sudah semakin membutuhkan jasa penggunaan
+internet.
+Salah satu cara perusahaan tersebut melakukan pengembangan pasar
+adalah dengan mendirikan beberapa warnet lain, dilokasi-lokasi yang sangat
+strategis, Warnet Duya Media memiliki kurang lebih 8 warnet lain, yang memiliki
+nama warnet yang berbeda, namun tetap terdapat nama kecil bertuliskan Duya
+Media.
+Stratergi pengembangan pasar tersebut, didalamnya didukung pula
+dengan strategi fokus.
+5.2.2 Strategi Fokus
+Warnet Duya Media memfokuskan konsumennya untuk kalangan pelajar,
+mulai dari SMP, SMA, dan mahasiswa. Walaupun perusahaan tersebut tetap tidak
+mengabaikan konsumen dari kalangan lainnya. Diantaranya cara-cara perusahaan
+tersebut menerapkan strategi fokus tersebut :
+- 65 -
+• Mendirikan Warnet Duya Media yang berada di sekitar lingkungan
+pendidikan, yang terdiri dari 1 Universitas 4 SMU, 1 SMP dan 2 tempat
+kursus belajar SMA, SMP dan SD.
+• Mendirikan warnet-warnet lain yang berada di bawah naungan Duya
+Media disekitar lingkungan-lingkungan pendidikan.
+• Mencari karyawan-karyawan yang berumur sekitar 17-25 tahun, sebagai
+salah satu cara agar para karyawan dapat berteman dengan para konsumen.
+Selain itu memudahkan karyawan mengerti keinginan para konsumen.
+• Menyimpan file lagu-lagu yang sering dan di cari para konsumen kedalam
+sebuah harddisk khusus pada server.
+• Tidak pernah mengusir para pelajar yang diam “nongkrong” disekitaran
+warnet tersebut, dengan anggapan suatu saat akan menggunakan warnet.
+• Memiliki kecepatan rata-rata download sebesar 10-15kb/s, karena
+banyaknya konsumen yang berasal dari kalangan pelajar dan mahasiswa
+yang terbiasa membuka www.friendster.com dan www.myspace.com,
+situs tersebut membutuhkan kapasitas download yang besar, dengan
+membuka situs tersebut, akan banyak halaman yang digunakan.
+Gambar 5.1 Web.
+- 66 -
+Banyaknya konsumen yang mendownload lagu, video musik, dan lain-lain
+pada saat menggunakan internet juga menjadi salah satu alasannya.
+Dengan strategi fokus tersebut, perlu juga didukung dengan mengelola
+kualitas internal perusahaan tersebut.
+5.2.3 Mengelola Kualitas Internal
+Mengelola kualitas internal sangatlah penting. Mengelola kualitas internal
+ini dikhususkan kepada para karyawan, apalagi Warnet Duya Media memiliki
+tingkat kontak dengan pelanggan dengan tingkat yang tinggi. Berikut ini cara-cara
+perusahaan tersebut dalam mengelola kualitas internal, yaitu:
+• Para pegawai, bergantian posisi pekerjaan dalam setiap harinya, hal
+tersebut dilakukan, agar para pegawai tidak merasa jenuh, dan semua
+pegawai menjadi ahli dalam menangani sesuatu hal, seperti keluhankeluhan
+yang berhubungan dengan komputer ataupun jaringannya.
+• Dalam waktu satu minggu pegawai pegawai mendapatkan libur 1 sampai 2
+kali. Selain itu para pegawai di rotasi anggota kelompoknya, baik dengan
+kelompok yang berda di Warnet Duya Media maupun dengan warnetwarnet
+lain yang berada di bawah penguasaan Duya Media.
+• Para Pegawai diberikan keleluasaan untuk menggunakan fasilitas internet
+secara gratis.
+• Segala keluhan dan saran dari para pegawai ditanggapi dengan baik oleh
+pemilik perusahaan tersebut.
+- 67 -
+5.2.4 Analisis Lingkungan Eksternal
+Lingkungan eksternal perusahaan (lingkungan bisnis), menurut Pearce dan
+Robinson (2007) dapat dikelompokkan menjadi tiga kategori yang saling
+berkaitan, yaitu lingkungan operasional, lingkungan industri dan lingkungan jauh.
+5.2.4.1 Lingkungan Operasional
+Warnet Duya Media, merupakan pemimpin pasar di wilayah Jl. Buah
+Batu Bandung, tidak ada satu warnet pun yang dapat mengalahkan reputasi Duya
+Media mulai dari perempatan Buah Batu-Soekarno Hatta, hingga ujung jalan
+Buah Batu menuju Jl. Karapitan. Agar Duya Media tetap menjadi pemimpin pasar
+di wilayah tersebut, salah satu caranya adalah dengan melakukan pengembangan
+pasar, yaitu dengan membuat beberapa warnet di beberapa lokasi sekitaran Jl.
+Buah Batu. Hal tersebut dilakukan untuk menghindari pesaing langsung
+berhadapan dengan Warnet Duya Media.
+Profil pelanggan mereka lebih dikarenakan oleh faktor geografis,
+akibat dari faktor geografis tersebut, mempengaruhi faktor demografis. Karena
+lokasi Duya Media dekat dengan lingkungan pendidikan, dimana terdapat 1
+Universitas 4 SMU, 1 SMP dan 2 tempat kursus belajar SMA, SMP dan SD,
+sehingga umumnya pelanggan mereka umumnya adalah pelajar dan mahasiswa.
+Hal tersebutlah yang menjadi pertimbangan Duya Media untuk menerapkan
+strategi fokus.
+Sumber daya manusia untuk lingkungan perusahaan sangat
+diperhatikan oleh perusahaan tersebut, karena perusahaan tersebut bergerak dalam
+bisnis jasa, dimana konsumen dan karyawan berhadapan langsung.
+- 68 -
+Pemasok untuk industri warnet adalah provider jaringan internet. Duya
+Media menggunakan fasilitas internet yang dikeluarkan oleh Telkom, dengan
+bandwith untuk semua warnet sebesar 512kb/s. Hingga saat ini tidak pernah ada
+kendala atau hubungan yang kurang baik diantara keduanya.
+5.2.4.2 Lingkungan Industri
+Lingkungan industri menjelaskan lima kekuatan yang mempengaruhi
+persaingan dalam suatu industri. Analisis lingkungan industri dapat membantu
+perusahaan dalam memahami kelima kekuatan tersebut dan pengaruhnya bagi
+perusahaan, sehingga perusahaan dapat menaggulangi persaingan. Yang termasuk
+dalam lima kekuatan itu adalah pendatang baru, daya tawar menawar pembeli,
+daya tawar menawar pemasok, ancaman produk atau jasa substitusi, dan
+persaingan diantara anggota industri
+5.2.4.2.1 Persaingan diantara para anggota industri
+Warnet Duya Media hanya memiliki 1 pesaing utama, Warnet
+Internetarium. Warnet Internetarium berada di Jl. Buah Batu, warnet tersebut
+kurang lebih berada 500 M dari Warnet Duya Media.
+Internetarium terlebih dulu ada dibandingkan dengan Duya Media, warnet
+tersebut pun memiliki konsumen yang cukup banyak, lokasi mereka pun cukup
+strategis, yaitu tepat berada di Jl. Buah Batu, berdekatan dengan daerah
+perumahan. Memiliki kapasitas parkir sebanyak + 20 motor dan + 8 mobil, dan
+memiliki 1 buah WC. Terdapat beberapa perbedaan antara Warnet Duya Media
+dan Warnet Internetarium. Dimana Warnet Internetarium membagi tempatnya
+- 69 -
+menjadi 3 bagian, bagian pertama untuk area merokok, area bebas rokok, dan area
+VIP, VIP area hanya dibedakan oleh jenis komputer yang lebih uptodate, selain
+itu ruangan yang tertutup dan hening, sehingga pengguna lebih nyaman,
+sedangkan kecepatan download tetap sama, untuk area VIP terdapat 10 komputer,
+area merokok 20 komputer, dan area bebas asap rokok sebanyak 8 komputer.
+Setiap ruangannya dilengkapi dengan 1 AC dan 2 buah kipas angin. Untuk area
+merokok dan bebas rokok dikenakan biaya yang sama, yaitu Rp. 6000/jamnya,
+sedangkan untuk area VIP dikenakan biaya sebesar Rp. 7000/jam. Berikut ini
+adalah daftar-daftar harga Warnet Internetarium :
+Tabel 5.1 Tarif Internetarium.
+HARGA
+Waktu Merokok dan
+Bebas Rokok
+VIP
+08:00 – 22:59 Rp. 600/Menit Rp. 700/Menit
+23:00 – 07:59 Rp. 480/Menit Rp. 560/Menit
+Sumber : Warnet Internetarium
+Warnet Internetarium juga buka selama 24 jam setiap harinya, hanya saja pada
+hari jum’at pada pukul 08:00 – 14:00 tutup, hal tersebut dilakukan untuk
+melakukan perawatan pada aset-aset perusahaan.
+Berikut ini adalah daftar paket-paket yang diberikan oleh Warnet
+Internetarium:
+- 70 -
+Tabel 5.2 Tarif Paket Internetarium 08:00 – 22:59.
+Paket Mulai Pukul 08:00 – 22:59
+HARGA
+Waktu Merokok dan
+Bebas Rokok
+VIP
+3 jam Rp. 15.000 Rp. 17.500
+5 Jam Rp. 23.000 Rp. 27.000
+8 Jam Rp. 34.000 Rp. 40.000
+Sumber : Warnet Internetarium
+Tabel 5.3 Tarif Paket Internetarium 23:00 – 07:59.
+Paket Mulai Pukul 23:00 – 07:59
+HARGA
+Waktu Merokok dan
+Bebas Rokok
+VIP
+Batas Akhir
+3 jam Rp. 12.000 Rp. 14.000 04:59
+5 Jam Rp. 18.000 Rp. 21.500 02:59
+8 Jam Rp. 27.000 Rp. 32.000 23:59
+Sumber : Warnet Internetarium
+Warnet Internetarium memiliki banyak variasi makanan ringan dan
+minuman, selain itu tempat menunggu para calon konsumen dilengkapi dengan
+sebuah sofa, 1 meja dan 1 TV.
+- 71 -
+Kecepatan download Internetarium sebesar 8kb/s – 12kb/s.
+Gambar 5.2 Kecepatan Download Internetarium.
+5.2.4.2.2 Ancaman Masuk
+Warnet Duya Media perlu memperhatikan ancaman masuknya pesaing
+baru, apalagi beberapa waktu ini, telah muncul warnet baru yang berada tepat di
+depan Duya Media, warnet tersebut bernama Starnet.
+Warnet Duya Media memiliki harga penyewaan per jam lebih mahal
+dibandingkan Starnet, namun Duya Media dengan harganya yg sedikit lebih
+mahal tetap menawarkan cara kerja internet yang lebih cepat, pegawai yang lebih
+bersahabat, dan area parkir yang lebih luas, karena bagi orang yang akan
+mengunjungi Starnet tidak diperkenankan parkir di area parkir Duya Media.
+Starnet hanya dapat menampung 1 buah mobil dan + 10 motor saja.
+- 72 -
+Tabel 5.4 Tarif Starnet.
+Berikut adalah tarif yang ditawarkan Stranet untuk penggunaan internet:
+Harga
+Waktu 06:00 – 22:59 23:00 – 05:59
+6 Menit Rp. 400 Rp. 360
+Paket 3 Jam Rp. 10.000 Rp. 10.000
+Paket 7 Jam Rp. 15.000 Rp. 15.000
+Paket
+23:00 sampai 05:59
+-
+Rp. 10.000
+Sumber : Warnet Starnet
+Kecepatan download Starnet sebesar 2kb/s – 7kb/s.
+Gambar 5.3 Kecepatan Download Starnet.
+- 73 -
+5.2.4.2.3 Produk Subtitusi
+Produk subtitusi sangat mempengaruhi dan membatasi jalannya suatu
+perusahaan. Terdapat beberapa produk subtitusi pada industri internet seperti
+Warnet Duya Media, diantaranya:
+• Wi-Fi
+Wi-Fi merupakan kepanjangan dari Wireless Fidelity, memiliki pengertian
+yaitu sekumpulan standar yang digunakan untuk Jaringan Lokal Nirkabel
+(Wireless Local Area Networks - WLAN) yang didasari pada spesifikasi
+IEEE 802.11. Standar terbaru dari spesifikasi 802.11a atau b, seperti
+802.16 g, saat ini sedang dalam penyusunan, spesifikasi terbaru tersebut
+menawarkan banyak peningkatan mulai dari luas cakupan yang lebih jauh
+hingga kecepatan transfernya. Awalnya Wi-Fi ditujukan untuk pengunaan
+perangkat nirkabel dan Jaringan Area Lokal (LAN), namun saat ini lebih
+banyak digunakan untuk mengakses internet. Hal ini memungkinan
+seseorang dengan komputer dengan kartu nirkabel (wireless card) atau
+personal digital assistant (PDA) untuk terhubung dengan internet dengan
+menggunakan titik akses (atau dikenal dengan hotspot) terdekat. Apalagi
+sebagian hotspot-hotspot ada ditawarkan secara cuma-cuma tanpa
+dipungut bayaran, hanya dengan mendaftarkan nama dan password kepada
+petugas yang berwenang.
+• Penggunaan Internet Rumah
+Sekarang sudah mulai banyak provider yang menawarkan penggunaan
+internet rumah, mulai dari yang super cepat hingga yang lambat sekalipun,
+namun masih sangat jarang internet rumah yang menggunakan sistem
+- 74 -
+waktu per menit atau per detik. Penggunaan internet rumah cukup
+membuat Warnet Duya Media waspada, salah satu caranya adalah dengan
+meningkatkan kapasitas bandwithnya.
+5.2.4.2.4 Pemasok
+Industri internet sebenarnya hanya memiliki 1 pemasok yang penting,
+yaitu provider internetnya itu sendiri, Duya Media mempercayakan provider
+tersebut kepada TelkomNet Instan. Pemasok tersebut sifatnya sangat penting, jika
+pemasok tersebut memutuskan line internet mereka, maka secara otomatis
+kegiaatan Duya Media tidak dapat berjalan.
+5.2.4.2.5 Pembeli
+Pembeli sangatlah penting, apalagi untuk bisnis jasa, pembeli berhubungan
+langsung dengan pegawai pada saat transaksi. Sehingga pembeli harus dilayani
+dengan sangat baik.
+Duya Media terus memperhatikan kepuasan penggunanya, dengan
+mengharuskan para karyawannya untuk melayani dan membantu keluhan
+konsumen dengan sangat baik. Bersahabat dan ramah adalah salah satu kelebihan
+pegawai Warnet Duya Media.
+- 75 -
+5.2.4.3 Lingkungan Jauh
+5.2.4.3.1 Ekonomi
+Faktor ekonomi sangat mempengaruhi semua jenis usaha, penurunan
+maupun peningkatan ekonomi harus benar-benar diperhitungakan oleh para
+pelaku usaha. Berikut ini beberapa perkembangan ekonomi eksternal yang
+mempengaruhi perekonomian secara umum:
+- Laju Inflasi
+Dalam lingkungan ekonomi, laju inflasi merupakan salah satu faktor yang
+berpengaruh terhadap kestabilan ekonomi di suatu negara. Tingkat inflasi di
+Indonesia sendiri sempat mencapai dua digit angka, hal tersebut merupakan
+salah satu penyebab semakin parahnya krisis ekonomi di Indonesia.
+Semakin meningkatnya harga listrik Indonesia sangat mempengaruhi
+Warnet Duya Media, karena Warnet Duya Media buka selama 24 jam penuh,
+sehingga biaya listrik cenderung besar. Hal tersebut menyebabkan biaya
+meningkat.
+5.2.4.3.2 Politik
+Pada awal kepemimpinan salah satu Kapolda Jawa Barat di tahun 2005,
+ada kegiatan rutin memeriksa sebagian besar warnet di Kota Bandung, sebagai
+pemantauan terhadap produk software yang ilegal atau dengan kata lain bajakan,
+hal tersebut sempat mengutungkan Warnet Duya Media, karena Warnet Duya
+Media menggunakan software-software legal, dan warnet-warnet yang
+- 76 -
+menggunakan software ilegal sempat dilakukan penutupan, namun sayang hal
+tersebut tidak berlangsung lama, hanya saat Kapolda tersebut mengawali masa
+jabatannya, hingga saat ini tidak pernah ada pemeriksaan seperti itu kembali.
+5.2.4.3.3 Sosial
+Meskipun terkadang Warnet Duya Media mengalami antrian (waiting list),
+para konsumen tetap sabar menunggu hingga ada salah satu komputernya yang
+kosong, hal tersebut mencerminkan bahwa kualitas tetap menjadi perimbangan
+utama para konsumen.
+Warnet Duya Medua selalu berusaha memenuhi keinginan dan kebutuhan
+konsumennya seperti yang terdapat pada misi perusahaan. Cara yang diambil oleh
+Warnet Duya Media adalah dengan selalu berusaha agar produk dan jasanya
+selalu memberikan kualitas yang optimal kepada para konsumennya.
+5.2.4.3.4 Teknologi
+Teknologi, selain menjadi peluang juga menjadi ancaman yang cukup
+berarti bagi Warnet Duya Media. Dengan semakin majunya teknologi, dapat
+mempermudah dalam melakukan atau mengerjakan sesuatu, lebih mudah dalam
+pengiriman sebuah informasi, namun dengan semakin majunya teknologi, biaya
+pengeluaran update teknologi menjadi tinggi, karena untuk hardware update
+teknologinya sangat cepat dan dengan harga yang cukup tinggi, sedangkan untuk
+software masih dapat dilakukan peng-update-an secara free.
+- 77 -
+5.2.4.3.5 Ekologi
+Suatu perusahaan dituntut untuk turut memperhatikan lingkungan
+sekitarnya, dan juga menjaganya. Warnet Duya Media yang berada tidak jauh dari
+pemukiman masyarakat, selalu menjaga kesopanan terhadap warga sekitar, seperti
+tidak mengizinkan para karyawan untuk memutar musik dengan suara keras
+dimalam hari, dan menghimbau para pengguna untuk tidak parkir di lingkungan
+perumahan.
+5.3 Analisis SWOT
+5.3.1 Kekuatan (Strenght)
+• Warnet Duya Media berada pada lokasi yang sangat strategis, yaitu berada
+dekat dengan 1 Universitas 4 SMU, 1 SMP dan 2 tempat kursus belajar
+SMA, SMP dan SD.
+• Area parkir yang luas, sehingga dapat menampung banyak mobil dan
+motor bagi pelanggan, yaitu sebanyak + 40motor, dan mobil +10mobil.
+• Kecepatan download yang cukup tinggi, yaitu sebesar 10kb/s-15kb/s.
+• Warnet yang buka 24 jam non-stop selama seminggu, bahkan dihari libur
+nasional atau keagamaan hanya tutup selama 12 jam.
+• Memiliki harddisk khusus pada server untuk menyimpan data dan lagulagu
+bagi konsumen.
+• Pegawai yang ramah dan bersahabat kepada para konsumen.
+• Jumlah komputer yang cukup banyak, yaitu sebanyak + 60 komputer, hal
+tersebut dapat meminimalisasi waktu antrian.
+- 78 -
+5.3.2 Kelemahan (Weakness)
+• Luasnya tempat serta banyaknya komputer menyulitkan dalam hal
+pengawasan.
+• Akibat dari warnet yang terus menerus buka selama 24 jam non-stop
+selama seminggu, biaya untuk perawatan komputer menjadi tinggi.
+• Tidak dilengkapi area bebas rokok, terkadang orang yang tidak merokok
+merasa terganggu.
+• Warnet tersebut tidak dilengkapi oleh fasilitas untuk menunggu selama
+terjadi antrian.
+Gambar 5.4 Antrian.
+• Gangguan internet yang diakibatkan oleh providernya sendiri.
+5.3.3 Peluang (Opportunity)
+• Jl. Solontongan mulai banyak dilalui masyarakat umum, karena jalanan
+Buah Batu yang macet, sehingga mereka memilih jalur alternatif.
+• Nama Duya Media yang mulai dikenal orang di sekitaran Buah Batu,
+mempermudah mereka jika ingin memperluas pasar.
+- 79 -
+• Internet sudah menjadi sesuatu yang sangat dibutuhkan oleh masyarakat
+luas.
+5.3.4 Ancaman (Threat)
+• Munculnya berbagai produk subtitusi, seperti wi-fi dan internet rumah
+yang terjangkau.
+• Harga listrik yang dikeluarkan pemerintah semakin tinggi.
+• Banyaknya warnet pendatang baru di sekitaran Jl. Buah Batu.
+• Internetarium yang semakin menyiasati untuk terus berkembang.
+Tabel 5.5 IFAS.
+Matriks Faktor Strategi Internal (IFAS)
+Faktor-faktor strategi internal Bobot (B) Rating (R) (B x R)
+Strength:
+- Warnet Duya Media berada pada
+lokasi yang sangat strategis, yaitu
+berada dekat dengan 1 Universitas 4
+SMU, 1 SMP dan 2 tempat kursus
+belajar SMA, SMP dan SD.
+- Area parkir yang luas, sehingga dapat
+menampung banyak mobil dan motor
+bagi pelanggan, yaitu sebanyak
++ 40motor, dan mobil +10mobil.
+- Kecepatan download yang cukup
+tinggi, yaitu sebesar 10kb/s-15kb/s.
+0.15
+0.075
+0.125
+4
+2
+4
+0.6
+0.15
+0.5
+- 80 -
+- Warnet yang buka 24 jam non-stop
+selama seminggu, bahkan dihari libur
+nasional atau keagamaan hanya tutup
+selama 12 jam.
+- Memiliki harddisk khusus pada server
+untuk menyimpan data dan lagu-lagu
+bagi konsumen.
+- Pegawai yang ramah dan bersahabat
+kepada para konsumen.
+- Jumlah komputer yang cukup banyak,
+yaitu sebanyak + 60 komputer, hal
+tersebut dapat meminimalisasi waktu
+antrian.
+0.05
+0.05
+0.025
+0.025
+3
+2
+2
+3
+0.15
+0.1
+0.05
+0.075
+Weakness:
+- Luasnya tempat serta banyaknya
+komputer menyulitkan dalam hal
+pengawasan.
+- Akibat dari warnet yang terus
+menerus buka selama 24 jam nonstop
+selama seminggu, biaya untuk
+perawatan komputer menjadi tinggi.
+- Tidak dilengkapi fasilitas untuk
+menunggu selama antrian
+- Tidak dilengkapi area bebas rokok,
+terkadang orang yang tidak merokok
+merasa terganggu.
+0.075
+0.15
+0.075
+0.15
+2
+2
+3
+3
+0.15
+0.3
+0.225
+0.45
+- 81 -
+- Gangguan internet yang diakibatkan
+oleh providernya sendiri
+0.05
+2
+0.1
+Total 1 2.85
+Keterangan:
+Bobot harus selalu sama dengan 1.00.
+Rating 1 = respon di bawah rata-rata, 2 = respon rata-rata, 3 = respon diatas ratarata,
+4 = respon sangat bagus.
+Nilai = bobot x rating.
+Total < 2.50 = respon perusahaan lemah.
+Total = 2.50 = rata-rata.
+Total > 2.50 = baik.
+Penilaian skor bobot dilakukan secara subjektif untuk mengukur tingkat
+kepentingan faktor internal perusahaan untuk mengetahui seberapa besar respon
+perusahaan terhadap faktor internal. Skor bobot tersebut mencerminkan tingkat
+kepentingan relatifnya terhadap faktor lain.
+Berdasarkan dari hasil Matriks Evaluasi Faktor Internal diatas, dengan
+perolehan hasil 2.85 maka dapat disimpulkan bahwa respon perusahaan terhadap
+kondisi internalnya adalah baik. Kekuatan paling menonjol ada pada lokasi dan
+kecepatan download Warnet Duya Media. Lokasi dan kecepatan download, perlu
+dipertahankan oleh Duya Media agar terus menerus dicari oleh konsumen.
+- 82 -
+Tabel 5.6 EFAS.
+Matriks Faktor Strategi Eksternal (EFAS)
+Faktor-faktor strategi eksternal Bobot
+(B)
+Rating (R) ( B x R )
+Opportunity :
+- Jl. Solontongan mulai banyak dilalui
+masyarakat umum, karena jalanan Buah
+Batu yang macet, sehingga mereka
+memilih jalur alternatif.
+- Nama Duya Media yang mulai dikenal
+orang di sekitaran Buah Batu,
+mempermudah mereka jika ingin
+memperluas pasar.
+- Internet sudah menjadi sesuatu yang
+sangat dibutuhkan oleh masyarakat
+luas.
+0.15
+0.125
+0.225
+3
+3
+4
+0.45
+0.375
+0.9
+Threat :
+- Munculnya berbagai produk
+subtitusi, seperti wi-fi dan internet
+rumah yang terjangkau.
+- Harga listrik yang dikeluarkan
+pemerintah semakin tinggi
+- Banyaknya warnet pendatang baru
+di sekitaran Jl. Buah Batu
+0.1
+0.15
+0.15
+2
+3
+2
+0.2
+0.45
+0.3
+- 83 -
+- Internetarium yang semakin
+menyiasati untuk terus
+berkembang.
+0.1
+2
+0.2
+Total 1 2.875
+Keterangan:
+Bobot harus selalu sama dengan 1,00.
+Rating 1 = respon di bawah rata-rata, 2 = respon rata-rata, 3 = respon diatas ratarata,
+4 = respon sangat bagus.
+Nilai = bobot x rating.
+Total < 2,50 = respon perusahaan lemah.
+Total = 2,50 = rata-rata.
+Total > 2,50 = baik.
+Penilaian skor bobot dilakukan secara subjektif untuk mengukur tingkat
+kepentingan faktor eksternal perusahaan untuk mengetahui seberapa besar respon
+perusahaan terhadap faktor eksternal. Skor bobot tersebut mencerminkan tingkat
+kepentingan relatifnya terhadap faktor lain.
+Berdasarkan dari hasil Matriks Evaluasi Faktor Eksternal diatas, dengan
+perolehan hasil 2,875 maka dapat disimpulkan bahwa respon perusahaan terhadap
+kondisi eksternalnya adalah baik, dimana masyarakat luas sudah mulai
+membutuhkan internet.
+- 84 -
+Tabel 5.7 Matriks Internal – Eksternal.
+MATRIKS INTERNAL – EKSTERNAL
+SKOR TOTAL IFE
+4,00 KUAT 3,00 RATA-RATA 2,00 LEMAH 1,00
+TINGGI
+3,00
+SKOR
+TOTAL IFI
+RATARATA
+2,00
+RENDAH
+1,00
+Growth I
+Konsentrasi melalui
+integrasi vertikal
+Growth II
+Konsentrasi melalui
+integrasi horizontal
+Retrenchment III
+Turnaround
+Stability IV
+Hati-hati
+G r o w t h V
+Konsentrasi melalui
+integrasi horizontal
+S t a b i l i t y
+Tidak ada perubahan
+profit strategi
+Retrenchment IV
+Captive company /
+Divestment
+Growth VII
+Diversifikasi
+konsentrik
+Growth VIII
+Diversifikasi
+konglomerat
+Retrenchment IX
+Bangkrut / Likuidasi
+- 85 -
+Keterangan :
+• Total skor Internal factor Evaluation (Matriks IFE) yaitu sebesar 2.85
+• Total skor Eksternal Factor Evaluation (Matriks EFE) yaitu sebesar 2.875
+Skor IFE sebesar 2.85 dan skor EFE sebesar 2.875, maka posisi perusahaan
+berada pada sel V. Pada posisi ini, strategi yang sesuai untuk perusahaan adalah
+Stability Strategy. Strategi ini diterapkan tanpa mengubah arah strategi yang telah
+diterapkan, dan Growth Strategy yang merupakan pertumbuhan perusahaan itu
+sendiri.
+5.4 Respon Pasar
+Duya Media sampai sekarang ini dikatakan sebagai sebagai market leader
+industri warnet untuk wilayah sekitaran Jl. Buah Batu. Berikut data rata-rata
+pengunjung Duya Media dibaningkan dengan pengunjung Internetarium dan
+Starnet:
+Tabel 5.8 Data Pengunjung.
+Hari Duya Media Internetarium Strarnet
+Senin – Jum’at + 435 + 326 + 52
+Sabtu – Minggu + 136 + 141 + 32
+Hari Libur Nasional + 129 + 97 + 18
+Data diambil pada bulan Januari
+- 86 -
+Dilihat dari hasil data tersebut, Duya Media jelas sebagai pemimpin pasar
+warnet di sekitaran Jl. Buah Batu Bandung. Hal tersebut membuktikan, bahwa
+Duya Media banyak dikunjungi pelajar dan mahasiswa, dihari-hari sekolah,
+mereka mendapatkan lebih banyak pengunjung, dibandingkan warnet lainnya.
+Dan pada hari-hari libur nasional pun Duya Media tetap lebih banyak didatangi,
+karena Duya Media tetap buka 24 Jam. Selain itu kecepatan download Duya
+Media pun bisa menjadi salah satu faktor penyebabnya.
+5.5 Langkah yang Diambil Perusahaan dalam Melihat Respon Pasar
+Berikut ini adalah langkah-langkah yang dilakukan oleh Duya Media
+dalam melihat respon pasar diantaranya adalah:
+- Meng-update komputer-komputernya baik software maupun hardware,
+untuk menjaga kecepatan dan kenyamanan dalam penggunaan internet dan
+komputernya.
+- Membuat sebuah warnet kecil tidak jauh dari warnet pesaingnya
+(internetarium), hal tersebut dilakukan untuk merusak pasar pesaingnya.
+- Mematok harga penggunaan internet lebih murah dari pada pesaing
+utamanya, namun Duya Media mematok harga minuman dan makanan
+lebih tinggi dari pada pesaingnya, hal tersebut dilakukan untuk tetap
+memaksimalkan laba.
+- Menambah kapasitas bandwith warnet tersebut, karena semakin banyak
+komputer yang digunakan, maka semakin besar pula kapasitas bandwith
+yang dibutuhkan.
+- 87 -
+- Semua komputer terus-menerus diperiksa secara rutin, agar kenyamanan
+para pengguna dalam menggunakan fasilitas-fasilitas warnet tersebut tetap
+terjaga. Seperti memformat ulang sebagian computer secara bertahap
+hingga semua computer terformat, menghindari penyebaran virus, atau
+harddisk overload.
+- 88 -
+BAB VI
+Kesimpulan Dan Saran
+6.1 Kesimpulan
+Berdasarkan hasil analisis dari bab sebelumnya, maka penulis dapat
+menarik kesimpulan. Kesimpulan yang didapat merupakan jawaban dari
+pertanyaan yang dikemukakan dalam identifikasi masalah.
+1. Apa strategi yang diambil Duya Media dalam persaingan yang begitu ketat
+seperti sekarang ini?
+- Duya media menggunakan strategi fokus dan terus melakukan
+pengembangan pasar, hal tersebut dilakukan untuk menghadapi pesaing
+utama mereka dan produk-produk subtitusi.
+2. Bagaimana respon pasar terhadap Warnet Duya Media?
+- Duya Media memiliki pengunjung yang lebih banyak di hari kerja
+(sekolah) dan hari libur, hal tersebut terjadi karena Duya Media berada di
+lokasi yang sangat strategis yaitu 1 Universitas 4 SMU, 1 SMP dan 2
+tempat kursus belajar SMA, SMP dan SD. Selain itu Duya Media juga
+tetap buka pada hari libur-libur nasional.
+3. Langkah-langkah yang diambil perusahaan dengan melihat respon pasar?
+- Menjaga kualitas dan kuantitas dari jasa yang diberikannya, dan
+memberikan harga sedikit lebih murah dibandingkan pesaing utamanya.
+Selain itu Duya Media terus melakukan pengembangan pasar, untuk
+menghindari pesaing utama dan pesaing-pesaing baru yang mungkin
+masuk ke industri tersebut.
+- 89 -
+6.2 Saran
+Dengan semakin ketatnya persaingan diantara warnet-warnet sekitar
+Jl. Buah Batu Bandung, warnet-warnet tersebut mulai gencar melakukan berbagai
+strategi untuk mendapatkan pangsa pasar, mulai dari strategi keunggulan biaya
+menyeluruh, diferensiasi, dan fokus, hal tersebut dilakukan untuk meningkatkan,
+memperbaiki, memelihara, dan melindungi reputasi perusahaan di mata
+masyarakat dan menumbuhkan citra positif bagi perusahaan sehingga perusahaan
+dapat terus bertahan hidup, bersaing, serta berkembang. Penjualan akan sulit
+melambung tinggi apabila reputasi perusahaan.
+Dari kesimpulan diatas, saran penulis kepada Warnet Duya Media adalah
+sebagai berikut :
+- Melakukan pembaharuan-pembaharuan seperti yang dilakukan pesaing
+utanmanya, seperti membuat tempat tunggu yang lebih nyaman,
+menambah beberapa hardware yang kurang, seperti printer berwarna.
+- Menambah beberapa unit komputer, karena sebagian dari lantai 3 belum
+terpakai, atau bisa juga digunakan sebagai tempat bermain game online
+dengan tarif yang berbeda, hal tersebut belum dilakukan oleh pesainngnya.
+- 90 -
+DAFTAR PUSTAKA
+Referensi Buku:
+Ansoff, H.Igor. The New Corporate Strategy. New York : John Wiley & Son,
+1988.
+Azwar, Saifuddin. Metode Penelitian Sosial. Yogyakarta : Pustaka Pelajar. 1998
+David, Fred R, Manajemen Strategis: Formulasi Strategi, Salemba Empat, Jakarta.
+Gleueck , William F. dan Lawrence R. Jauch, Managemen Strategis dan
+Kebijakan Perusahaan, edisi kedua, Erlangga, Jakarta,1990.
+Hax , Arnaldo C & Majluf, Nicolas. The Strategy Concept and Process : A
+Pragmatic Approach. New Jersey : Prentice-Hall. Inc,1991.
+Jasfar, Farida., Manajemen Jasa : Penggolongan dan Strategi Jasa, Ghalia
+Indonesia, Jakarta, 2005.
+Porter, Michael & Maulana, Agus, Strategi Bersaing, Erlangga, Jakarta, 1980
+Porter, Michael.E., Strategi Bersaing : Teknik Menganalisis Industri dan Pesaing,
+Erlangga, Jakarta, 1995.
+Sri Wahyudi, Agustina, Manajemen Strategik: Pengantar Proses Berpikir
+Strategik, Binarupa Aksara, Jakarta, 1996.
+Tjiptono, Fandy., Manajemen Jasa: Bisnis Jasa, Andi, Yogyakarta, 1996.
+Zeithaml, Valarie A: Bitner, Mary Jo, Services Marketing, Paperback, 2003.
+- 91 -
+Website:
+http://www.balipost.co.id/BaliPostcetak/2007/1/23/ip3.htm 1 Februari 2008
+http://bebetin.wordpress.com/tag/teknologi/ 12 Januari 2008
+http://www.blogger.com/feeds/7217759164414000846/posts/default 21 Januari 2008
+http://dolfis-pelor.blogspot.com/ 14 Januari 2008
+http://indonesianlaw.blogspot.com/2006/08/brti-antara-kenyataan-danharapan.
+html 6 Februari 2008
