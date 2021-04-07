@@ -1,13 +1,28 @@
-# Import Library
+---
+title: "PLAGIARISM_DETECTION"
+author: "GMD"
+date: "4/6/2021"
+output: 
+  slidy_presentation:
+    df_print: paged
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+library(reticulate)
+```
+
+## Import library
+```{python}
 import pandas as pd
 import re
 import os
 import glob
+import operator
 import math
-import pickle
+```
 
-
-#Text Cleaner
+## Text Cleaner
+```{python}
 def cleaner(text):
     #remove newline
     text = text.replace('\n', ' ')
@@ -17,21 +32,28 @@ def cleaner(text):
     text = re.sub('[^A-Za-z\- ]', '', text)
     
     return text.lower()
+```
 
-
-#Import Dataset
+## Import dataset
+```{python}
 documents = list()
 #Import all .txt file in dataset folder
-for filename in glob.glob(os.path.join('E:/Kuliah/Penambangan Data/plagiarism_detection/dataset', '*.txt')):
+for filename in glob.glob(os.path.join('../dataset/', '*.txt')):
    with open(os.path.join(os.getcwd(), filename), 'r', encoding='mbcs') as f: # open in readonly mode
       documents.append(cleaner(f.read()))
-      
-#Kamus Indonesia
-bahasa = open('E:/Kuliah/Penambangan Data/plagiarism_detection/models/Indonesia.txt', 'r')
+```
+
+## Kamus Indonesia
+```{python}
+bahasa = open('../models/Indonesia.txt', 'r')
 bahasa = bahasa.read().split('\n')
+```
+```{r echo=FALSE}
+data.frame(py$bahasa)
+```
 
-
-#Hitung semua kata yang muncul
+## Hitung semua kata yang muncul
+```{python}
 def computeAllWords(docs):
     all_words = set()
     for text in docs:
@@ -41,10 +63,14 @@ def computeAllWords(docs):
     return all_words
 
 allWords = computeAllWords(documents)
+allWords = list(allWords)
+```
+```{r echo=FALSE}
+data.frame(py$allWords)
+```
 
-pickle.dump(allWords, open('allWords.pickle', 'wb'))
-
-#Hitung IDF tiap kata
+## Hitung IDF
+```{python}
 def computeIDF(allWords):
     N = len(documents)
     words_idf = dict()
@@ -57,31 +83,48 @@ def computeIDF(allWords):
         for doc in documents:
             if word in doc:
                 nx += 1
-        words_idf[word] = math.log2((N + 1)/nx)
+        words_idf[word] = math.log((N + 1)/nx, 2)
 
     return words_idf
 
 allWords = computeIDF(allWords)
+words_idf = pd.DataFrame(list(allWords.items()),columns = ['word','idf']) 
+```
+```{r echo=FALSE}
+data.frame(py$words_idf)
+```
 
-
-#Buat dataframe dengan semua fitur
+## Buat Data Frame
+```{python}
 df = pd.DataFrame()
-zeros = [0.0] * 30
+doc = ['DOC {}'.format(i) for i in range(30)]
+df['doc'] = doc
+zeros = [0] * 30
 for i in allWords.keys():
     df[i] = zeros
-    
+```
+```{r echo=FALSE}
+py$df
+```
 
-#Isi dataframe dengan TF-IDF
+## Hitung dan isi TF-IDF
+```{python}
 for i in range(len(df.index)):
-    for word in allWords.keys():
-        df['{}'.format(word)][i] = math.log10(documents[i].count(word) + 1) * allWords[word]
-        
-pickle.dump(df, open('data_frame.pickle', 'wb'))
+  for word in allWords.keys():
+    print((documents[i].count(word)/len(documents[i].split())))
+```
+```{r echo=FALSE}
+py$df
+```
 
-#Normalisasi Vektor
-vector_length = list()
-for row in df.index:
-    v_len = 0
-    for col in df.loc[row]:
-        v_len += col
-    vector_length.append(math.sqrt(v_len))
+
+
+
+
+
+
+
+
+
+
+
