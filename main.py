@@ -1,3 +1,4 @@
+#%%
 # Import Library
 import pandas as pd
 import re
@@ -6,7 +7,7 @@ import glob
 import math
 import pickle
 
-
+#%%
 #Text Cleaner
 def cleaner(text):
     #remove newline
@@ -18,7 +19,7 @@ def cleaner(text):
     
     return text.lower()
 
-
+ #%% 
 #Import Dataset
 documents = list()
 #Import all .txt file in dataset folder
@@ -30,7 +31,7 @@ for filename in glob.glob(os.path.join('E:/Kuliah/Penambangan Data/plagiarism_de
 bahasa = open('E:/Kuliah/Penambangan Data/plagiarism_detection/models/Indonesia.txt', 'r')
 bahasa = bahasa.read().split('\n')
 
-
+#%%
 #Hitung semua kata yang muncul
 def computeAllWords(docs):
     all_words = set()
@@ -44,6 +45,7 @@ allWords = computeAllWords(documents)
 
 pickle.dump(allWords, open('allWords.pickle', 'wb'))
 
+#%%
 #Hitung IDF tiap kata
 def computeIDF(allWords):
     N = len(documents)
@@ -61,23 +63,25 @@ def computeIDF(allWords):
 
     return words_idf
 
-allWords = computeIDF(allWords)
+allWords_idf = computeIDF(allWords)
 
-
+pickle.dump(allWords, open('allWords_idf', 'wb'))
+#%%
 #Buat dataframe dengan semua fitur
 df = pd.DataFrame()
 zeros = [0.0] * 30
-for i in allWords.keys():
+for i in allWords_idf.keys():
     df[i] = zeros
     
 
 #Isi dataframe dengan TF-IDF
 for i in range(len(df.index)):
-    for word in allWords.keys():
-        df['{}'.format(word)][i] = math.log10(documents[i].count(word) + 1) * allWords[word]
+    for word in allWords_idf.keys():
+        df['{}'.format(word)][i] = math.log10(documents[i].count(word) + 1) * allWords_idf[word]
         
 pickle.dump(df, open('data_frame.pickle', 'wb'))
 
+#%%
 #Normalisasi Vektor
 vector_length = list()
 for row in df.index:
