@@ -1,28 +1,30 @@
-#%%
-# Import Library
+#%% Import Library
+
 import pandas as pd
 import re
 import os
 import glob
 import math
 import pickle
+#untuk Levenshtein distance
+import stringdist as sd
 
-#%%
-#Text Cleaner
+#%% Text Cleaner
+
 def cleaner(text):
     #remove newline
     text = text.replace('\n', ' ')
     #remove multiple spaces
     text = re.sub(' +', ' ', text)
     #remove special characters and numbers
-    text = re.sub('[^A-Za-z\- ]', '', text)
+    text = re.sub('[^A-Za-z0-9\-\. ]', '', text)
     
     return text.lower()
 
- #%% 
-#Import Dataset
+ #%% Import Dataset
+
 documents = list()
-#Import all .txt file in dataset folder
+#Import semua file .txt di folder dataset
 for filename in glob.glob(os.path.join('E:/Kuliah/Penambangan Data/plagiarism_detection/dataset', '*.txt')):
    with open(os.path.join(os.getcwd(), filename), 'r', encoding='mbcs') as f: # open in readonly mode
       documents.append(cleaner(f.read()))
@@ -31,8 +33,14 @@ for filename in glob.glob(os.path.join('E:/Kuliah/Penambangan Data/plagiarism_de
 bahasa = open('E:/Kuliah/Penambangan Data/plagiarism_detection/models/Indonesia.txt', 'r')
 bahasa = bahasa.read().split('\n')
 
-#%%
-#Hitung semua kata yang muncul
+#%% Pisah kalimat
+sentence_list = list()
+for doc in documents:
+    sentence_list.append(doc.split('. '))
+    
+
+#%% Hitung semua kata yang muncul
+
 def computeAllWords(docs):
     all_words = set()
     for text in docs:
@@ -45,8 +53,8 @@ allWords = computeAllWords(documents)
 
 pickle.dump(allWords, open('allWords.pickle', 'wb'))
 
-#%%
-#Hitung IDF tiap kata
+#%% Hitung IDF tiap kata
+
 def computeIDF(allWords):
     N = len(documents)
     words_idf = dict()
@@ -66,13 +74,12 @@ def computeIDF(allWords):
 allWords_idf = computeIDF(allWords)
 
 pickle.dump(allWords, open('allWords_idf', 'wb'))
-#%%
-#Buat dataframe dengan semua fitur
+#%% Buat dataframe dengan semua fitur
+
 df = pd.DataFrame()
 zeros = [0.0] * 30
 for i in allWords_idf.keys():
     df[i] = zeros
-    
 
 #Isi dataframe dengan TF-IDF
 for i in range(len(df.index)):
@@ -81,8 +88,8 @@ for i in range(len(df.index)):
         
 pickle.dump(df, open('data_frame.pickle', 'wb'))
 
-#%%
-#Normalisasi Vektor
+#%% Normalisasi Vektor
+
 vector_length = list()
 for row in df.index:
     v_len = 0
