@@ -79,7 +79,7 @@ def computeIDF(word_list):
 
 word_idf = computeIDF(word_list)
 
-#%% TF 
+#%% TF-IDF
 def tf_doc1():
     global tf_doc1
     tf_doc1 = list()
@@ -117,24 +117,56 @@ threading.Thread(target=tf_doc1).start()
 threading.Thread(target=tf_doc2).start()
 threading.Thread(target=tf_doc3).start()
 
+#%% cari panjang vektor
+def vector_1():
+    global vector_length_1 
+    vector_length_1 = list()
+    for i in tf_doc1:
+        length = math.sqrt(sum(n * n for n in i.values()))
+        vector_length_1.append(length)
+    print('vector_1 is finished')
 
-#%% normalization
+def vector_2():
+    global vector_length_2
+    vector_length_2 = list()
+    for i in tf_doc2:
+        length = math.sqrt(sum(n * n for n in i.values()))
+        vector_length_2.append(length)
+    print('vector_2 is finished')
 
-vector_length = list()
-for i in tf_doc1:
-    length = math.sqrt(sum(n * n for n in i.values()))
-    vector_length.append(length)
-    
-for i in tf_doc2:
-    length = math.sqrt(sum(n * n for n in i.values()))
-    vector_length.append(length)
-    
-for i in tf_doc3:
-    length = math.sqrt(sum(n * n for n in i.values()))
-    vector_length.append(length)
+def vector_3():
+    global vector_length_3
+    vector_length_3 = list()
+    for i in tf_doc3:
+        length = math.sqrt(sum(n * n for n in i.values()))
+        vector_length_3.append(length)
+    print('vector_3 is finished')
 
 
-    
+threading.Thread(target=vector_1).start()
+threading.Thread(target=vector_2).start()
+threading.Thread(target=vector_3).start()
+
+#%% normalisasi
+def norm_1():
+    for i, sent in enumerate(tf_doc1):
+        for word in sent.keys():
+            tf_doc1[i][word] = tf_doc1[i][word] / vector_length_1[i]
+
+def norm_2():
+    for i, sent in enumerate(tf_doc2):
+        for word in sent.keys():
+            tf_doc2[i][word] = tf_doc2[i][word] / vector_length_2[i]
+
+def norm_3():
+    for i, sent in enumerate(tf_doc3):
+        for word in sent.keys():
+            tf_doc3[i][word] = tf_doc3[i][word] / vector_length_3[i]
+            
+threading.Thread(target=norm_1).start()
+threading.Thread(target=norm_2).start()
+threading.Thread(target=norm_3).start()
+
 #%% DataFrame
 df = pd.DataFrame()
 df.insert(0, "Doc", 'doc')
@@ -200,10 +232,13 @@ threading.Thread(target=fill_df1).start()
 threading.Thread(target=fill_df2).start()
 threading.Thread(target=fill_df3).start()
 
+#%% Save dataframe
+
+pickle.dump(df, open('df_main2.pickle', 'wb'))
+
 #%% Load dataframe
 
 df = pickle.load(open('df_main2.pickle', 'rb'))
-
 
 #%% K-Means Clustering
 
@@ -216,8 +251,36 @@ kmeans_model = KMeans(n_clusters=800, random_state=0).fit(array_df)
 
 cluster_object = kmeans_model.labels_
 
-centroids_set1 = kmeans_model.cluster_centers_
+centroids_km = kmeans_model.cluster_centers_
 
 from sklearn.metrics import silhouette_score
 
-coef_score_set1 = silhouette_score(array_df, cluster_object)
+coef_score_km = silhouette_score(array_df, cluster_object)
+
+#%% Agglomerative Clustering
+
+from sklearn.cluster import AgglomerativeClustering
+df2 = df >> drop(X.Doc, X.Sentence)
+
+array_df = np.array(df2.values)
+agglo_model = AgglomerativeClustering(n_clusters=600, affinity='euclidean', linkage='ward').fit(array_df)
+    
+#Array untuk label setiap baris
+cluster_object_agg = agglo_model.labels_
+
+from sklearn.metrics import silhouette_score
+#Menghitung nilai Koefisien Silhouette
+coef_score = silhouette_score(array_df, cluster_object_agg)
+
+#%% 
+
+def cosine_dist(x, y):
+    return np.dot(x, y)
+
+df['cluster'] = cluster_object_agg
+
+df_cluster = df >> filter_by(X.cluster == 9) >> select(X.Doc, X.Sentence)
+
+df_group_cluster = df >> group_by(X.cluster) >> summarize(count_ = X.Doc.count())
+
+    

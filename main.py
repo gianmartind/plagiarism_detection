@@ -24,7 +24,7 @@ def cleaner(text):
     
     return text.lower()
 
- #%% Import Dataset
+#%% Import Dataset
 
 documents = list()
 #Import semua file .txt di folder dataset
@@ -72,7 +72,7 @@ def computeIDF(allWords):
     for word in allWords:
         words_idf[word] = 0
         
-   
+    
     for word in allWords:
         #Hitung nx
         nx = 0
@@ -113,7 +113,7 @@ pickle.dump(df, open('data_frame.pickle', 'wb'))
 df = pickle.load(open('data_frame.pickle', 'rb'))
 
 #%% Dataframe untuk vektor kalimat
-
+'''
 df = pd.DataFrame()
 df.insert(0, "Doc", "doc")
 df.insert(1, "Sentence", 'sent')
@@ -209,4 +209,4 @@ while i < len(df_cluster_1.index) - 1:
 
 cluster_1_dists_sum = sum(i for i in cluster_1_dists)
 
-
+'''
