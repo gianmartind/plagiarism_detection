@@ -247,15 +247,15 @@ df2 = df >> drop(X.Doc, X.Sentence)
 
 array_df = np.array(df2.values)
 
-kmeans_model = KMeans(n_clusters=800, random_state=0).fit(array_df)
+kmeans_model = KMeans(n_clusters=1000, random_state=0).fit(array_df)
 
-cluster_object = kmeans_model.labels_
+cluster_object_km = kmeans_model.labels_
 
 centroids_km = kmeans_model.cluster_centers_
 
 from sklearn.metrics import silhouette_score
 
-coef_score_km = silhouette_score(array_df, cluster_object)
+coef_score_km = silhouette_score(array_df, cluster_object_km)
 
 #%% Agglomerative Clustering
 
@@ -263,24 +263,45 @@ from sklearn.cluster import AgglomerativeClustering
 df2 = df >> drop(X.Doc, X.Sentence)
 
 array_df = np.array(df2.values)
-agglo_model = AgglomerativeClustering(n_clusters=600, affinity='euclidean', linkage='ward').fit(array_df)
+agglo_model = AgglomerativeClustering(n_clusters=1000, affinity='euclidean', linkage='single').fit(array_df)
     
 #Array untuk label setiap baris
 cluster_object_agg = agglo_model.labels_
 
 from sklearn.metrics import silhouette_score
 #Menghitung nilai Koefisien Silhouette
-coef_score = silhouette_score(array_df, cluster_object_agg)
+coef_score_agg = silhouette_score(array_df, cluster_object_agg)
 
-#%% 
+#%% K-Means
 
 def cosine_dist(x, y):
     return np.dot(x, y)
 
-df['cluster'] = cluster_object_agg
+df['cluster'] = cluster_object_km
 
 df_cluster = df >> filter_by(X.cluster == 9) >> select(X.Doc, X.Sentence)
 
-df_group_cluster = df >> group_by(X.cluster) >> summarize(count_ = X.Doc.count())
+df_group_cluster = (df 
+                    >> group_by(X.cluster) 
+                    >> summarize(count_sent = X.Doc.count())
+                    >> filter_by(X.count_sent > 10))
+                    
+#%% compute distance
+intra_cluster_dist = dict()
+for i in df_group_cluster['cluster']:
+    cluster_df = (df 
+                  >> filter_by(X.cluster == i)
+                  >> drop(X.Doc, X.Sentence, X.cluster))
+    dist = 0
+    m = 0;
+    while m < len(cluster_df.index) - 1:
+        n = m + 1
+        while n < len(cluster_df.index):
+            dist = dist + cosine_dist(cluster_df.iloc[m], cluster_df.iloc[n])
+            n = n + 1
+        m = m + 1
+    intra_cluster_dist[i] = dist / len(cluster_df.index)
+    
+ 
 
     
