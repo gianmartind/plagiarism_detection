@@ -32,11 +32,18 @@ def cleaner(text):
 
 #%% open dataset
 dataset = dict()
+'''
 dataset['doc1'] = cleaner(open('dataset/3200004.txt').read())
 dataset['doc2'] = cleaner(open('dataset/3201100.txt').read())
 dataset['doc3'] = cleaner(open('dataset/3201121.txt').read())
 dataset['doc4'] = cleaner(open('dataset/3202016.txt').read())
 dataset['doc5'] = cleaner(open('dataset/3202133.txt').read())
+'''
+data_name = ['doc{}'.format(i + 1) for i in range(10)]
+
+for i, filename in enumerate(glob.glob(os.path.join('E:/Kuliah/Penambangan Data/plagiarism_detection/dataset', '*.txt'))):
+   with open(os.path.join(os.getcwd(), filename), 'r', encoding='mbcs') as f: # open in readonly mode
+      dataset[data_name[i]] = (cleaner(f.read()))
 
 #%% tokenize
 sentences = dict()
@@ -81,7 +88,7 @@ def compute_TFIDF(doc):
             if word in sent:
                 tf_dict[word] = math.log(sent.count(word) + 1) * word_idf[word]
         tf_doc[doc].append(tf_dict)
-    print('tf_{} is finished'.format(doc))
+    print('tf_{} is finished '.format(doc))
     
 for doc in dataset.keys():
     threading.Thread(target=compute_TFIDF, args=(doc,)).start()
@@ -93,7 +100,7 @@ def compute_vector(doc):
     for i in tf_doc[doc]:
         length = math.sqrt(sum(n * n for n in i.values()))
         vector_length[doc].append(length)
-    print('vector_{} is finished'.format(doc))
+    print('vector_{} is finished '.format(doc))
 
 for doc in dataset.keys():
     threading.Thread(target=compute_vector, args=(doc,)).start()
@@ -103,7 +110,7 @@ def normalize(doc):
     for i, sent in enumerate(tf_doc[doc]):
         for word in sent.keys():
             tf_doc[doc][i][word] = tf_doc[doc][i][word] / vector_length[doc][i]
-    print('normalize_{} is finished'.format(doc))
+    print('normalize_{} is finished '.format(doc))
 
 for doc in dataset.keys():
     threading.Thread(target=normalize, args=(doc,)).start()
@@ -140,60 +147,56 @@ def fill_feature(doc):
 for doc in dataset.keys():
     threading.Thread(target=fill_feature, args=(doc,)).start()
 
+#%% cosine distance
+def cosine_dist(x, y):
+    return np.dot(x, y)
+
 #%% Save dataframe
-pickle.dump(df, open('df_main3.pickle', 'wb'))
+pickle.dump(df, open('../df_main3.pickle', 'wb'))
 
 #%% Load dataframe
-df = pickle.load(open('df_main3.pickle', 'rb'))
+df = pickle.load(open('../df_main3.pickle', 'rb'))
 
-#%% K-Means Clustering
-from sklearn.cluster import KMeans
-df2 = df >> drop(X.Doc, X.Sentence)
+#%% cari threshold
+#dengan cara mengambil sample dari data frame dan mencari rata-rata jaraknya
+from itertools import combinations
 
-array_df = np.array(df2.values)
-
-kmeans_model = KMeans(n_clusters=1000, random_state=0, verbose=True).fit(array_df)
-
-cluster_object_km = kmeans_model.labels_
-
-centroids_km = kmeans_model.cluster_centers_
-
-from sklearn.metrics import silhouette_score
-
-coef_score_km = silhouette_score(array_df, cluster_object_km)
+def find_threshold():
+    sample_df = (df.sample(10)
+                 >> drop(X.Doc, X.Sentence))
+    dist = 0
+    m = 0
+    while m < len(sample_df.index) - 1:
+        n = m + 1
+        while n < len(sample_df.index):
+            dist = dist + cosine_dist(sample_df.iloc[m], sample_df.iloc[n])
+            n = n + 1
+        m = m + 1
+    return dist / len(list(combinations(sample_df.index, 2)))
 
 #%% Agglomerative Clustering
-
 from sklearn.cluster import AgglomerativeClustering
 df2 = df >> drop(X.Doc, X.Sentence)
 
 array_df = np.array(df2.values)
-agglo_model = AgglomerativeClustering(n_clusters=600, affinity='euclidean', linkage='ward').fit(array_df)
+agglo_model = AgglomerativeClustering(distance_threshold=find_threshold(), n_clusters=None).fit(array_df)
     
 #Array untuk label setiap baris
 cluster_object_agg = agglo_model.labels_
 
-from sklearn.metrics import silhouette_score
-#Menghitung nilai Koefisien Silhouette
-coef_score_agg = silhouette_score(array_df, cluster_object_agg)
-
-#%% K-Means (2)
-df['cluster'] = cluster_object_km
-
+df['Cluster'] = cluster_object_agg
+#%% grup tiap cluster
 df_group_cluster = (df 
-                    >> group_by(X.cluster) 
+                    >> group_by(X.Cluster) 
                     >> summarize(count_sent = X.Doc.count())
-                    >> filter_by(X.count_sent > 10))
+                    >> filter_by(X.count_sent > 1))
 
 #%% compute distance
-def cosine_dist(x, y):
-    return np.dot(x, y)
-
 intra_cluster_dist = dict()
-for i in df_group_cluster['cluster']:
+for i in df_group_cluster['Cluster']:
     cluster_df = (df 
-                  >> filter_by(X.cluster == i)
-                  >> drop(X.Doc, X.Sentence, X.cluster))
+                  >> filter_by(X.Cluster == i)
+                  >> drop(X.Doc, X.Sentence, X.Cluster))
     dist = 0
     m = 0;
     while m < len(cluster_df.index) - 1:
@@ -202,8 +205,86 @@ for i in df_group_cluster['cluster']:
             dist = dist + cosine_dist(cluster_df.iloc[m], cluster_df.iloc[n])
             n = n + 1
         m = m + 1
-    intra_cluster_dist[i] = dist / len(cluster_df.index)
+    intra_cluster_dist[i] = dist / len(list(combinations(cluster_df.index, 2)))
 
-df_cluster = (df
-              >> filter_by(X.cluster == 582)
-              >> select(X.Doc, X.Sentence))
+#%% semua cluster
+cluster_all = dict()
+for i in intra_cluster_dist.keys():
+    cluster_all[i] = df >> filter_by(X.Cluster.isin([i])) >> select(X.Doc, X.Sentence)
+
+#%% cluster (>1)
+#cluster berisi anggota yang berasal dari dua atau lebih dokumen
+two_or_more_docs = list()
+for i in df_cluster_all.keys():
+    df_doc = list(df_cluster_all[i].Doc)
+    if len(set(df_doc)) > 1:
+        two_or_more_docs.append(i)
+
+cluster_candidates = dict()
+for i in df_cluster_all.keys():
+    if i in two_or_more_docs:
+        cluster_candidates[i] = df_cluster_all[i]
+
+#%% nilai kedekatan tiap dokumen
+#dengan menggabungkan semua dokumen dari cluster-cluster yang terdapat di cluster_candidates
+df_cluster = df >> filter_by(X.Cluster.isin(list(cluster_candidates.keys()))) >> drop(X.Cluster)
+
+pair = dict()
+docs = list(dataset.keys())
+m = 0
+while m < len(docs) - 1:  
+    df_cluster_1 = (df_cluster
+                   >> filter_by(X.Doc == docs[m])
+                   >> drop(X.Doc, X.Sentence))
+    n = m + 1
+    while n < len(docs):
+        df_cluster_2 = (df_cluster
+                       >> filter_by(X.Doc == docs[n])
+                       >> drop(X.Doc, X.Sentence))
+        total = 0
+        i = 0
+        while i < len(df_cluster_1.index):
+            j = 0
+            while j < len(df_cluster_2.index):
+                total += cosine_dist(df_cluster_1.iloc[i], df_cluster_2.iloc[j])
+                j += 1
+            i += 1
+        pair['{f} - {s}'.format(f=docs[m], s=docs[n])] = total
+        n += 1
+    m += 1
+
+#%% cari outlier
+std = np.std(list(pair.values()))
+mean = np.mean(list(pair.values()))
+
+for i in pair.keys():
+    if pair[i] > (mean + (3 * std)):
+        print(i)
+#%% pairing
+#jika terdapat cluster dengan banyak anggota yang berasal dari dokumen yang berbeda-beda
+#maka akan dihitung nilai kedekatan antar dokumen
+df_one_cluster = df >> filter_by(X.Cluster.isin([0])) >> drop(X.Cluster)
+
+pair = dict()
+docs = list(dataset.keys())
+m = 0
+while m < len(docs) - 1:  
+    df_cluster_1 = (df_one_cluster
+                   >> filter_by(X.Doc == docs[m])
+                   >> drop(X.Doc, X.Sentence))
+    n = m + 1
+    while n < len(docs):
+        df_cluster_2 = (df_one_cluster
+                       >> filter_by(X.Doc == docs[n])
+                       >> drop(X.Doc, X.Sentence))
+        total = 0
+        i = 0
+        while i < len(df_cluster_1.index):
+            j = 0
+            while j < len(df_cluster_2.index):
+                total += cosine_dist(df_cluster_1.iloc[i], df_cluster_2.iloc[j])
+                j += 1
+            i += 1
+        pair['{f} - {s}'.format(f=docs[m], s=docs[n])] = total
+        n += 1
+    m += 1
