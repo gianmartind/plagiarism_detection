@@ -32,13 +32,6 @@ def cleaner(text):
 
 #%% open dataset
 dataset = dict()
-'''
-dataset['doc1'] = cleaner(open('dataset/3200004.txt').read())
-dataset['doc2'] = cleaner(open('dataset/3201100.txt').read())
-dataset['doc3'] = cleaner(open('dataset/3201121.txt').read())
-dataset['doc4'] = cleaner(open('dataset/3202016.txt').read())
-dataset['doc5'] = cleaner(open('dataset/3202133.txt').read())
-'''
 data_name = ['doc{}'.format(i + 1) for i in range(10)]
 
 for i, filename in enumerate(glob.glob(os.path.join('E:/Kuliah/Penambangan Data/plagiarism_detection/dataset', '*.txt'))):
@@ -152,10 +145,10 @@ def cosine_dist(x, y):
     return np.dot(x, y)
 
 #%% Save dataframe
-pickle.dump(df, open('../df_main3.pickle', 'wb'))
+df.to_pickle('dataframe.pickle')
 
 #%% Load dataframe
-df = pickle.load(open('../df_main3.pickle', 'rb'))
+df = pickle.load(open('dataframe.pickle', 'rb'))
 
 #%% cari threshold
 #dengan cara mengambil sample dari data frame dan mencari rata-rata jaraknya
@@ -179,19 +172,24 @@ from sklearn.cluster import AgglomerativeClustering
 df2 = df >> drop(X.Doc, X.Sentence)
 
 array_df = np.array(df2.values)
-agglo_model = AgglomerativeClustering(distance_threshold=find_threshold(), n_clusters=None).fit(array_df)
+th = find_threshold()
+print('threshold: {}'.format(th))
+
+#th dalam distance_threshold dapat dikalikan terlebih dahulu untuk mendapatkan jumlah cluster yang lebih kecil
+agglo_model = AgglomerativeClustering(distance_threshold=th, n_clusters=None, affinity='cosine', linkage='average').fit(array_df)
     
 #Array untuk label setiap baris
 cluster_object_agg = agglo_model.labels_
 
 df['Cluster'] = cluster_object_agg
+
 #%% grup tiap cluster
 df_group_cluster = (df 
                     >> group_by(X.Cluster) 
                     >> summarize(count_sent = X.Doc.count())
                     >> filter_by(X.count_sent > 1))
 
-#%% compute distance
+#%% hitung intra cluster
 intra_cluster_dist = dict()
 for i in df_group_cluster['Cluster']:
     cluster_df = (df 
@@ -207,6 +205,12 @@ for i in df_group_cluster['Cluster']:
         m = m + 1
     intra_cluster_dist[i] = dist / len(list(combinations(cluster_df.index, 2)))
 
+#%% Save dataframe_clustered
+df.to_csv('dataframe_clustered.csv')
+
+#%% Load dataframe_clustered
+df = pd.read_csv('dataframe_clustered.csv')
+
 #%% semua cluster
 cluster_all = dict()
 for i in intra_cluster_dist.keys():
@@ -215,15 +219,15 @@ for i in intra_cluster_dist.keys():
 #%% cluster (>1)
 #cluster berisi anggota yang berasal dari dua atau lebih dokumen
 two_or_more_docs = list()
-for i in df_cluster_all.keys():
-    df_doc = list(df_cluster_all[i].Doc)
+for i in cluster_all.keys():
+    df_doc = list(cluster_all[i].Doc)
     if len(set(df_doc)) > 1:
         two_or_more_docs.append(i)
 
 cluster_candidates = dict()
-for i in df_cluster_all.keys():
+for i in cluster_all.keys():
     if i in two_or_more_docs:
-        cluster_candidates[i] = df_cluster_all[i]
+        cluster_candidates[i] = cluster_all[i]
 
 #%% nilai kedekatan tiap dokumen
 #dengan menggabungkan semua dokumen dari cluster-cluster yang terdapat di cluster_candidates
@@ -254,37 +258,10 @@ while m < len(docs) - 1:
     m += 1
 
 #%% cari outlier
+#pasangan yang termasuk dalam outlier berpotensi besar merupakan plagiat
 std = np.std(list(pair.values()))
 mean = np.mean(list(pair.values()))
 
 for i in pair.keys():
     if pair[i] > (mean + (3 * std)):
         print(i)
-#%% pairing
-#jika terdapat cluster dengan banyak anggota yang berasal dari dokumen yang berbeda-beda
-#maka akan dihitung nilai kedekatan antar dokumen
-df_one_cluster = df >> filter_by(X.Cluster.isin([0])) >> drop(X.Cluster)
-
-pair = dict()
-docs = list(dataset.keys())
-m = 0
-while m < len(docs) - 1:  
-    df_cluster_1 = (df_one_cluster
-                   >> filter_by(X.Doc == docs[m])
-                   >> drop(X.Doc, X.Sentence))
-    n = m + 1
-    while n < len(docs):
-        df_cluster_2 = (df_one_cluster
-                       >> filter_by(X.Doc == docs[n])
-                       >> drop(X.Doc, X.Sentence))
-        total = 0
-        i = 0
-        while i < len(df_cluster_1.index):
-            j = 0
-            while j < len(df_cluster_2.index):
-                total += cosine_dist(df_cluster_1.iloc[i], df_cluster_2.iloc[j])
-                j += 1
-            i += 1
-        pair['{f} - {s}'.format(f=docs[m], s=docs[n])] = total
-        n += 1
-    m += 1
